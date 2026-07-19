@@ -1,0 +1,39 @@
+{
+  "title": "Linear Equations",
+  "learningOutcomes": [
+    "Understand what a linear equation is.",
+    "Form linear equations from word problems."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Identify a linear equation."
+    }
+  ],
+  "theory": "A linear equation is an equation with one variable raised to the first power (no x² or x³). It forms a straight line when graphed. Example: 2x + 3 = 9",
+  "formulae": [
+    "ax + b = c",
+    "2x + 3 = 9"
+  ],
+  "hints": [
+    "Observe the balance scale — a balanced scale represents a true equation."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Balance the scale to solve 2x + 4 = 10.",
+      "validationKey": "isBalanced"
+    }
+  ],
+  "keyConcepts": [
+    "Linear equations have degree 1.",
+    "One variable raised to power 1."
+  ],
+  "commonMistakes": [
+    "Including x² terms and calling it linear."
+  ],
+  "engineConfig": {
+    "mode": "balance",
+    "expression": "2x + 4 = 10"
+  }
+}

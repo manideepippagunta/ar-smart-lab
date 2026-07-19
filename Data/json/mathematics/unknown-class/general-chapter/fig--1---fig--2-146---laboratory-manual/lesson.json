@@ -1,0 +1,20 @@
+{
+  "id": "mtu6jp",
+  "title": "Fig. 1   Fig. 2 146   Laboratory Manual",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2 146   Laboratory Manual",
+  "activityType": "Activity 19",
+  "objective": "To verify Pythagoras Theorem.   Chart paper, glazed papers of\ndifferent colours, geometry box,\nscissors, adhesive.",
+  "materials": "",
+  "procedure": "1. Take a glazed paper and draw a right angled triangle whose base is ‘ b ’ units\nand perpendicular is ‘ a ’ units as shown in Fig. 1.\n2. Take another glazed paper and draw a right angled triangle whose base is ‘ a ’\nunits and perpendicular is ‘ b ’ units as shown in Fig. 2.",
+  "observation": "By actual measurement:\nAB = _____,   AP = _____,   BC = _____,\nPR = _____,   CD = _____,   RS = _____,\nAD = _____,   AS = _____\n∠ A = _____,   ∠ B = _____,   ∠ C = _____,\n∠ D = _____,   ∠ P = _____,   ∠ R = _____,\n∠ S = _____.\nAP\nAB   = ______,   PR\nBC   = ______,   RS\nCD   = ______,   AS\nAD   = ______,\n∠ A = Angle _____,   ∠ P = Angle_____,   ∠ R = Angle_____,   ∠ S = Angle_____,\nHence, quadrilateral APRS and ABCD are _______.",
+  "discussion": "This activity can be used in day to day life in making pictures (photographs) of\nsame object in different sizes.\n148   Laboratory Manual",
+  "keywords": [
+    "triangle",
+    "graph"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "yduzlc",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Connect switches S 1   and S 2   in series (See Fig. 31)",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Connect switches S 1   and S 2   in series (See Fig. 31)",
+  "activityType": "Activity 31",
+  "objective": "To write the sample space, when a die is\nrolled once, twice --------\nA   die, paper, pencil/pen, plastic discs,\nmarked with 1, 2, 3, 4, 5 or 6.",
+  "materials": "",
+  "procedure": "1. Throw a die once. The number on its\ntop will be 1, 2, 3, 4, 5 or 6.\n2. Make a tree diagram showing its six\nbranches with number 1,2, 3, 4, 5 or 6\n(See Fig. 32.1)\n3. Write the sample space of these\noutcomes.\n4. Throw a die twice. It can fall in any of\nthe 36 ways as shown in Fig. 32.2 by\nthe tree diagram. Write the sample space\nof these outcomes.",
+  "observation": "1. If S 1   is on, truth value of   p   is _______________.\nIf S 1   is off, truth value of   p   is _______________.\nIf S 2   is on, truth value of   q   is _______________.\nIf S 2   is off, truth value of   q   is _______________.\n2. If S 1   is on, S 2   is off, truth value of   p   q ∧   is ________.\nIf S 1   is on, S 2   is on, truth value of   p   q ∧   is ________.\nIf S 1   is off, S 2   is off, truth value of   p   q ∧   is ________.\nIf S 1   is off, S 2   is on, truth value of   p   q ∧   is ________.\nIf S 1   is _____, S 2   is ____, truth value of   p   q ∧   is T.",
+  "discussion": "This activity may help the students in understandig truth values of the\nstatements   p   q ∧   in different cases of the statements   p   and   q .",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

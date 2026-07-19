@@ -1,0 +1,19 @@
+{
+  "id": "6kfpy",
+  "title": "Fig. 1 Mathematics   43",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 Mathematics   43",
+  "activityType": "Activity 13",
+  "objective": "To verify experimentally the different\ncriteria for congruency of triangles using\ntriangle cut-outs.\nCardboard, scissors, cutter, white\npaper, geometry box, pencil/sketch\npens, coloured glazed papers.",
+  "materials": "",
+  "procedure": "1. Take a cardboard of a convenient size and paste a white paper on it.\n2. Make a pair of triangles ABC and DEF in which AB = DE, BC = EF, AC = DF\non a glazed paper and cut them out [see Fig. 1].\n3. Make a pair of triangles GHI, JKL in which GH = JK, GI = JL,   ∠ G =   ∠ J on\na glazed paper and cut them out [see Fig. 2].",
+  "observation": "On actual measurement of angles in one position of the strips :\n1.   ∠ AOD = .................,   ∠ AOC = ...................\n∠ COB = .................,   ∠ BOD = .................\nTherefore,   ∠ AOD =   ∠ COB and   ∠ AOC = ............ (vertically opposite angles).\n2.   ∠ AOC +   ∠ AOD = .............,   ∠ AOC +   ∠ BOC = ...................,\n∠ COB +   ∠ BOD = ...................\n∠ AOD +   ∠ BOD = ................... (Linear pairs).\n3.   ∠ AOD +   ∠ AOC +   ∠ COB +   ∠ BOD = .................... (angles formed at a point).",
+  "discussion": "These properties are used in solving many geometrical problems.\n44   Laboratory Manual",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Balancing Equations",
+  "learningOutcomes": [
+    "Apply the balance principle.",
+    "Perform the same operation on both sides."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Balance the scale by removing equal tiles from both sides."
+    }
+  ],
+  "theory": "An equation is like a balance scale. Whatever you do to one side, you must do to the other. If you add 3 to the left side, you must add 3 to the right side too.",
+  "formulae": [
+    "\\text{If } A = B \\text{ then } A + k = B + k",
+    "\\text{If } A = B \\text{ then } A - k = B - k"
+  ],
+  "hints": [
+    "Try adding the same tile to BOTH sides of the scale."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Make both sides equal by adding or removing tiles.",
+      "validationKey": "isBalanced"
+    }
+  ],
+  "keyConcepts": [
+    "The Balance Principle: same operation on both sides.",
+    "Equality is preserved by balanced operations."
+  ],
+  "commonMistakes": [
+    "Changing only one side of the equation."
+  ],
+  "engineConfig": {
+    "mode": "balance",
+    "expression": "x + 3 = 7"
+  }
+}

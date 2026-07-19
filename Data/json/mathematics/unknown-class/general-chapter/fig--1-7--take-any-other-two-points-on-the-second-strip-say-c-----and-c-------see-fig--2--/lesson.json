@@ -1,0 +1,19 @@
+{
+  "id": "77kk1",
+  "title": "Fig. 1 7. Take any other two points on the second strip say C ′   and C ′′   [see Fig. 2].",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 7. Take any other two points on the second strip say C ′   and C ′′   [see Fig. 2].",
+  "activityType": "Activity 20",
+  "objective": "",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. The number of squares in triangle ABC =.........., Area of   ∆ ABC = ........ units\n2. The number of squares in triangle ABC ′   =......., Area of D ABC ′   = ........ units\n3. The number of squares in triangle ABC ′′   =....... , Area of D ABC ′′   = ........ units\nTherefore, area ( ∆ ABC) = ar(ABC ′ ) = ar(ABC ′′ ).",
+  "discussion": "This result helps in solving various geometric problems. It also helps in finding\nthe formula for area of a triangle.\nFig. 2",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

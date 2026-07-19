@@ -1,0 +1,21 @@
+{
+  "id": "kbw3sn",
+  "title": "Fig. 1   Fig. 2 3. Wind the thread around the nails of subscript 1 (P 1 , Q 1 , R 1 ) on three",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2 3. Wind the thread around the nails of subscript 1 (P 1 , Q 1 , R 1 ) on three",
+  "activityType": "Activity 15",
+  "objective": "To   verify   Basic   Proportionality\nTheorem (Thales theorem).\nTwo wooden strips (each of size\n1 cm wide and 30 cm long), cutter,\nadhesive, hammer, nails, bard\nboard, white paper, pulleys, thread,\nscale and screw etc.",
+  "materials": "",
+  "procedure": "1. Cut a piece of hardboard of a convenient size and paste a white paper on it.",
+  "observation": "By actual measurement:\nP 1 Q 1   = ______,   Q 1 R 1   = ______,   R 1 P 1   = ______,\nP 5 Q 5   = ______,   Q 5 R 5   = ______,   R 5 P 5   = ______,\n1   1\n5   5\nP Q\nP Q   = ______,   1   1\n5   5\nQ R\nQ R   = ______,   1   1\n5   5\nR P\nR P   = ______\nTherefore,   ∆ P 1 Q 1 R 1   and   ∆ P 5 Q 5 R 5   are _______.",
+  "discussion": "1. Concept of similarity can be used in\nreducing or enlarging images (like maps\nin atlas) and also in making photographs\nof different sizes from the same negative.\n2. Using the concept of similarity, unknown\ndimensions of an object can be determined\nusing   a   similar   object   with   known\ndimensions.\n3. Using concept of similarity and length of the shadow of pole in sunlight,\nheight of a pole can be found out.\nN OTE\nBy winding a thread at suitable\nnails,   we   can   obtain   non-\nequilateral similar triangles also.\n136   Laboratory Manual",
+  "keywords": [
+    "triangle",
+    "graph",
+    "light"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

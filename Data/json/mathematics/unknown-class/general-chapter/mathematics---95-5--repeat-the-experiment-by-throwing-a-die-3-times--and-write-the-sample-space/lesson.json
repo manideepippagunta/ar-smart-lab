@@ -1,0 +1,17 @@
+{
+  "id": "e2tros",
+  "title": "Mathematics   95 5. Repeat the experiment by throwing a die 3 times, and write the sample space",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Mathematics   95 5. Repeat the experiment by throwing a die 3 times, and write the sample space",
+  "activityType": "Activity 32",
+  "objective": "To write the sample space, when a coin\nis tossed once, two times, three times,\nfour times.\nOne rupee coin, paper pencil/pen,\nplastic circular discs, marked with\nHead (H) and Tail (T).",
+  "materials": "",
+  "procedure": "1. Toss a coin once. It can have two outcomes – Head or Tail.\n2. Make a tree diagram showing the two branches of a tree - with H (Head) on\none branch and T (Tail) on the other (see Fig. 33.1).\n3. Write its sample space.\n4. Toss a coin twice. It can have four outcomes (see Fig. 33.2)\n5. Repeat the experiment with tossing the coin three times, four times, ...........,\nn   and write their sample spaces, if possible. (see Fig. 33.3 and 33.4).",
+  "observation": "1. If a coin is tossed once, the sample space is\nS = {H, T}\nNumber of elements in S = 2 = 2 1\n2. When a coin is tossed twice, the sample space is\nS = {HH, HT, TH, TT}\nNumber of elements in S = 4 = 2 2",
+  "discussion": "Sample space of an experiment is useful in determining the probabilities of\ndifferent events associated with the sample space.",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

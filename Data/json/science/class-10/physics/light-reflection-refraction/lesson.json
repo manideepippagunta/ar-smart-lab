@@ -1,0 +1,66 @@
+{
+  "id": "class-10-physics-light-reflection-refraction",
+  "title": "Light - Reflection and Refraction",
+  "subject": "Science",
+  "classLevel": "Class 10",
+  "chapter": "Chapter 10 - Light Reflection and Refraction",
+  "engine": "Physics Engine",
+  "engineConfig": {
+    "topic": "optics",
+    "initialParams": {
+      "incidentAngle": 40,
+      "refractiveIndex": 1.5
+    }
+  },
+  "learningOutcomes": [
+    "Understand Snell's Law of Refraction: $n_1 \\sin i = n_2 \\sin r$.",
+    "Simulate light ray bending when traveling from rarer (Air) to denser (Glass) medium.",
+    "Calculate lens power $P = 100/f_{\\text{cm}}$."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Set incident angle $i=40^\\circ$ and observe angle of refraction $r$."
+    },
+    {
+      "id": "obj2",
+      "text": "Increase glass refractive index $n_2$ and observe greater ray bending."
+    }
+  ],
+  "theory": "Snell's Law state that the ratio of sine of angle of incidence to sine of angle of refraction is constant for a given pair of media: $\\frac{\\sin i}{\\sin r} = n_{21}$.",
+  "formulae": [
+    "n_1 \\sin(i) = n_2 \\sin(r)",
+    "r = \\arcsin\\left(\\frac{\\sin i}{n_2}\\right)",
+    "P = \\frac{100}{f_{\\text{cm}}}"
+  ],
+  "hints": [
+    "Adjust the Incident Angle slider to see light ray bending in real time.",
+    "Observe the normal line (dashed line) perpendicular to the interface."
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "instruction": "Adjust the Incident Angle slider.",
+      "validationKey": "adjust_slider"
+    }
+  ],
+  "observationPrompts": [
+    "Why does a light ray bend towards the normal when passing from air into glass?"
+  ],
+  "realWorldExamples": [
+    {
+      "title": "Eyeglass Lenses",
+      "description": "Optometrists design corrective lenses using refractive index and focal length calculations."
+    }
+  ],
+  "keyConcepts": [
+    "Refraction",
+    "Snell's Law",
+    "Refractive Index",
+    "Focal Length",
+    "Normal Line"
+  ],
+  "commonMistakes": [
+    "Measuring angles from the glass surface rather than from the normal line."
+  ]
+}

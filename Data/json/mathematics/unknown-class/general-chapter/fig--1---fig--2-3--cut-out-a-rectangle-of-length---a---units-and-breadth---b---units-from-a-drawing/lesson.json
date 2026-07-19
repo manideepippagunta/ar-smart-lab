@@ -1,0 +1,17 @@
+{
+  "id": "xs7rr",
+  "title": "Fig. 1   Fig. 2 3. Cut out a rectangle of length   a   units and breadth   b   units from a drawing",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2 3. Cut out a rectangle of length   a   units and breadth   b   units from a drawing",
+  "activityType": "Activity 3",
+  "objective": "To verify the algebraic identity :\n( a   –   b ) 2   =   a 2   – 2 ab   +   b 2\nDrawing   sheets,   cardboard,\ncoloured papers, scissors, ruler and\nadhesive.",
+  "materials": "",
+  "procedure": "1. Cut out a square ABCD of side   a   units from a drawing sheet/cardboard [see Fig. 1].\n2. Cut out a square EBHI of side   b   units ( b   <   a ) from a drawing sheet/cardboard\n[see Fig. 2].\n3. Cut out a rectangle GDCJ of length   a   units and breadth   b   units from a drawing\nsheet/cardboard [see Fig. 3].\n4. Cut out a rectangle IFJH of length   a   units and breadth   b   units from a drawing\nsheet/cardboard [see Fig. 4].",
+  "observation": "On actual measurement:\na   = ..............,   b   = .............. ( a+b ) = ..............,\nSo,   a 2   =   ..............   b 2   = ..............,   ab   = ..............\n( a + b ) 2   = ..............,   2 ab   = ..............\nTherefore, ( a + b ) 2   =   a 2   + 2 ab   +   b 2   .\nThe identity may be verified by taking different values of   a   and   b .",
+  "discussion": "The identity may be used for\n1. calculating the square of a number expressed as the sum of two convenient\nnumbers.\n2. simplifications/factorisation of some algebraic expressions.\n20   Laboratory Manual",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

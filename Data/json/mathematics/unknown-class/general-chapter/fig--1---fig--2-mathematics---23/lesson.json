@@ -1,0 +1,17 @@
+{
+  "id": "txfz6",
+  "title": "Fig. 1   Fig. 2 Mathematics   23",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2 Mathematics   23",
+  "activityType": "Activity 5",
+  "objective": "To verify the algebraic identity :\n( a + b + c ) 2   =   a 2   +   b 2   +   c 2   + 2 ab   + 2 bc   + 2 ca\nHardboard, adhesive, coloured\npapers, white paper.",
+  "materials": "",
+  "procedure": "1. Take a hardboard of a convenient size and paste a white paper on it.\n2. Cut out a square of side   a   units from a coloured paper [see Fig. 1].\n3. Cut out a square of side   b   units from a coloured paper [see Fig. 2].\n4. Cut out a square of side   c   units from a coloured paper [see Fig. 3].\n5. Cut out two rectangles of dimensions   a× b , two rectangles of dimensions\nb × c   and two rectangles of dimensions   c   ×   a   square units from a coloured\npaper [see Fig. 4].",
+  "observation": "On actual measurement:\na   = ..............,   b   = .............., ( a+b ) = ..............,\nSo,   a 2   =   ..............,   b 2   = .............., ( a–b ) = ..............,\na 2 –b 2   = .............., ( a+b )   (a–b)   = ..............,\nTherefore,   a 2 – b 2   =   (a+b) (a–b)",
+  "discussion": "The identity may be used for\n1. difference of two squares\n2. some products involving two numbers\n3. simplification and factorisation of algebraic expressions.\nFig. 6\nMathematics   25",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

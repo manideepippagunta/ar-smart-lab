@@ -1,0 +1,67 @@
+{
+  "id": "class-10-physics-electricity-circuits-ohms-law",
+  "title": "Electricity, Circuits and Ohm's Law",
+  "subject": "Science",
+  "classLevel": "Class 10",
+  "chapter": "Chapter 12 - Electricity",
+  "engine": "Physics Engine",
+  "engineConfig": {
+    "topic": "circuits",
+    "initialParams": {
+      "voltage": 12,
+      "resistance": 4,
+      "switchClosed": true
+    }
+  },
+  "learningOutcomes": [
+    "Understand Ohm's Law $V = IR$ connecting Voltage, Current, and Resistance.",
+    "Simulate electric circuits with battery, glowing light bulb, switch, and resistor.",
+    "Calculate electrical power $P = VI$."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Set $V=12$ V and $R=4$ Ω to measure electric current $I=3$ A."
+    },
+    {
+      "id": "obj2",
+      "text": "Toggle switch OPEN/CLOSED to control electron flow animation."
+    }
+  ],
+  "theory": "Ohm's Law states that electric current $I$ flowing through a conductor is directly proportional to potential difference $V$ across its ends ($V = IR$).",
+  "formulae": [
+    "V = I R",
+    "I = \\frac{V}{R}",
+    "P = V I"
+  ],
+  "hints": [
+    "Click the Switch button or toggle switch in the circuit workspace to open/close circuit.",
+    "Increase voltage to observe the light bulb glow brighter."
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "instruction": "Toggle the switch status to CLOSED.",
+      "validationKey": "toggle_switch"
+    }
+  ],
+  "observationPrompts": [
+    "What happens to current $I$ if resistance $R$ is doubled while voltage $V$ remains constant?"
+  ],
+  "realWorldExamples": [
+    {
+      "title": "Household Circuit Breakers",
+      "description": "Fuses and breakers protect appliances by limiting maximum current $I = V/R$."
+    }
+  ],
+  "keyConcepts": [
+    "Ohm's Law",
+    "Voltage",
+    "Current",
+    "Resistance",
+    "Circuit Switch"
+  ],
+  "commonMistakes": [
+    "Confusing electric current (flow of charge in Amperes) with voltage (potential difference in Volts)."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "gc1c76",
+  "title": "Fig. 1 4. Take three points A( x 1 ,y 1 ), B( x 2 ,y 2 ) and C( x 3 ,y 3 ) on the graph paper.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 4. Take three points A( x 1 ,y 1 ), B( x 2 ,y 2 ) and C( x 3 ,y 3 ) on the graph paper.",
+  "activityType": "Activity 12",
+  "objective": "To establish the criteria for similarity\nof two triangles.\nColoured papers, glue, sketch pen,\ncutter, geometry box .",
+  "materials": "",
+  "procedure": "I\n1. Take a coloured paper/chart paper. Cut out two triangles ABC and PQR with\ntheir corresponding angles equal.",
+  "observation": "1. Coordinates of A are _______________.\nCoordinates of B are _______________.\nCoordinates of C are _______________.\n2. Area of   ∆ ABC by using formula = ______________.\n3.   (i)   Number of complete squares = ______________.\n(ii)   Number of more than half squares = ___________.\n(iii)   Number of half squares = ______________.\n(iv)   Total area by counting the squares =   ______________.\n4. Area calculated by using formula and by counting the number of squares are\n_____________.",
+  "discussion": "The formula for the area of the triangle is useful in various results in geometry\nsuch as   checking collinearity of three points, calculating area of a triangle/\nquadrilateral/polygon.\n124   Laboratory Manual",
+  "keywords": [
+    "triangle",
+    "graph",
+    "coordinate",
+    "polygon"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

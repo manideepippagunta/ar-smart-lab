@@ -1,0 +1,22 @@
+{
+  "id": "jmnrdw",
+  "title": "Fig. 1 Fig. 2",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 Fig. 2",
+  "activityType": "Activity 26",
+  "objective": "To form a frustum of a cone.   Geometry   box,   sketch   pens,\ncellotape, acrylic sheet, cutter.",
+  "materials": "",
+  "procedure": "1. Take an acrylic sheet of a convenient size and cut out a circle of suitable\nradius from it [see Fig.1].\n2. Cut out a sector of, say 120º angle, from the circle [see Fig.2].\n3. Make a cone from this sector by joining the two ends along the radii of the\nsector as shown in Fig. 3.",
+  "observation": "On actual measurement:\n1. Base of the triangle = ------- units.\n2. Height of triangle = ------- units (i.e., radius of the circle).\n3. Area of triangle =   1\n2   (Base × Height) sq. units.\n4. Area of circle = Area of triangle = -------------------.",
+  "discussion": "This result can be used in finding areas of\nflower beds of circular and semi-circular\nshapes and also for making circular designs and\nin estimating the number of circular tiles\nrequired to cover a floor.\nN OTE\nThinner the thread more is the\naccuracy. Fig. 2 is not drawn to\nscale.\n164   Laboratory Manual",
+  "keywords": [
+    "triangle",
+    "circle",
+    "cone",
+    "cell"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

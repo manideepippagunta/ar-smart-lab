@@ -1,0 +1,17 @@
+{
+  "id": "1tun52",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Take a rectangle R 1   of dimensions 16 cm × 8 cm.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Take a rectangle R 1   of dimensions 16 cm × 8 cm.",
+  "activityType": "Activity 17",
+  "objective": "To verify that amongst all the rect-\nangles of the same perimeter, the\nsquare has the maximum area.\nChart paper, paper cutter, scale,\npencil, eraser cardboard, glue.",
+  "materials": "",
+  "procedure": "1. Take a cardboard of a convenient size and paste a white paper on it.\n2. Make rectangles each of perimeter say 48 cm on a chart paper. Rectangles\nof different dimensions are as follows:",
+  "observation": "1. Area of the rectangle R 2   (after 1 sec) = __________.\n2. Area of the rectangle R 4   (after 3 sec) = __________.\n3. Area of the rectangle R 6   (after 5 sec) = __________.\n4. Area of the rectangle R 7   (after 6 sec) = __________.\n5. Area of the rectangle R 8   (after 7 sec) = __________.\n6. Area of the rectangle R 9   (after 8 sec) = __________.\n7. Rectangle of Maximum area (after   ..... seconds) = _______.\n8. Area of the rectangle is maximum after _________ sec.\n9. Maximum area of the rectangle is _________.\nMathematics   145",
+  "discussion": "This activity can be used in explaining the concept of rate of change and\noptimisation of a function.\nThe function has local maxima/minima at   x   = 0 and   x   = ± 1.27, respectively.\nLet the length and breadth of rectangle be   a   and   b .\nThe length of rectangle after   t   seconds =   a   –   t .\nThe breadth of rectangle after   t   seconds =   b +   2 t.\nArea of the rectangle (after   t   sec) = A ( t ) = ( a   –   t ) ( b   + 2 t ) =   ab   –   bt   + 2 at   – 2 t 2\nA ′   ( t ) = –   b   + 2 a   – 4 t\nFor maxima or minima, A ′   ( t ) = 0.\nN OTE\n146   Laboratory Manual\n( )   2   –\nA   0   4\na   b\nt   t = ′\n( ) A   – 4 t   = ′′\n2   –\nA   – 4\n4\na   b   = ′′   , which is negative\n( )   2   –\nThus, A   is maximum at   4\na   b\nt   t   =   seconds.\nHere,   a   = 16 cm,   b   = 8 cm.\nThus,   32 – 8   24   6\n4   4\nt   =   =   =   seconds\nHence, after 6 second, the area will become maximum.\n⎛\n⎝ ⎜   ⎞\n⎠ ⎟\n⇒   =",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

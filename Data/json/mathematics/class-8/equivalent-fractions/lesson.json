@@ -1,0 +1,33 @@
+{
+  "title": "Equivalent Fractions",
+  "learningOutcomes": [
+    "Identify equivalent fractions.",
+    "Use grids and circles to verify equivalence."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Find equivalent values visually."
+    }
+  ],
+  "theory": "Equivalent fractions represent the same portion of a whole, even though they have different numerators and denominators.",
+  "formulae": [
+    "\\frac{a}{b} = \\frac{a \\times k}{b \\times k}"
+  ],
+  "hints": [
+    "Choose the Circle or Bar model. Tweak parameters to see partitions match up."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Create a fraction equivalent to 1/2.",
+      "validationKey": "isEquivalent"
+    }
+  ],
+  "keyConcepts": [
+    "Multiplying or dividing numerator and denominator by same non-zero number keeps the value same."
+  ],
+  "commonMistakes": [
+    "Adding a value to numerator and denominator thinking it keeps fraction equivalent."
+  ]
+}

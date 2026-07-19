@@ -1,0 +1,19 @@
+{
+  "id": "4ybs9",
+  "title": "Case II : For classes of varying widths Here :   d   –   f   = 2 ( a – b )",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Case II : For classes of varying widths Here :   d   –   f   = 2 ( a – b )",
+  "activityType": "Activity 32",
+  "objective": "To find experimental probability of\nunit’s digits of telephone numbers listed\non a page selected at random of a\ntelephone directory.\nTelephone directory, note book,\npen, ruler.",
+  "materials": "",
+  "procedure": "1. Take a telephone directory and select a page at random.\n2. Count the number of telephone numbers on the selected page. Let it be ‘N’.\n3. Unit place of a telephone number can be occupied by any one of the digits\n0, 1, ..., 9.\n4. Prepare a frequency distribution table for the digits, at unit’s place using\ntally marks.\n5. Write the frequency of each of the digits 0, 1, 2, ...8, 9 from the table.\n6. Find the probability of each digit using the formula for experimental\nprobability.",
+  "observation": "1. Prepare a frequency distribution table (using tally marks) for digits 0, 1, ...,\n8, 9 as shown below:",
+  "discussion": "Histograms are used in presenting large data in a concise form pictorially.\n88   Laboratory Manual",
+  "keywords": [
+    "probability"
+  ],
+  "interactiveEngine": "Probability Engine"
+}

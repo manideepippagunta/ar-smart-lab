@@ -1,0 +1,19 @@
+{
+  "id": "2t4w88",
+  "title": "–5 –6   –3 –4   –1 –2   2 1   4 3   6 5 –1",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "–5 –6   –3 –4   –1 –2   2 1   4 3   6 5 –1",
+  "activityType": "Activity 22",
+  "objective": "To demonstrate the equation of a plane\nin normal form.\nTwo pieces of plywood of size\n10 cm × 12 cm, a thin wooden rod\nwith nuts and bolts fixed on both\nsides, 3 pieces of wires, pen/pencil.",
+  "materials": "",
+  "procedure": "",
+  "observation": "Coordinates of the point C = ________.\nCoordinates of the point D = ________.\nOn actual measurement :\nAC = ________, BC = _________.\nAD = ________, CD = _________, BD = __________.\n162   Laboratory Manual\nUsing distance formula;   AC = ________, BC = ________, AD = ________\nCD = ________, BD = ________.\nThus, the distance between two points in space obtained on actual measurement\nand by using distance formula is approximately the same.",
+  "discussion": "1. This activity is useful in visualising the position of different points in space\n(coordinates of points).\n2. The concept of position vectors can also be explained through this activity.",
+  "keywords": [
+    "coordinate"
+  ],
+  "interactiveEngine": "Coordinate Engine"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Substitution",
+  "learningOutcomes": [
+    "Evaluate expressions by substituting values.",
+    "Check equation solutions by substitution."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Substitute x = 4 into an expression and find the result."
+    }
+  ],
+  "theory": "Substitution means replacing a variable with a specific value. For example, if x = 3, then 2x + 1 = 2(3) + 1 = 7.",
+  "formulae": [
+    "2x + 1 \\big|_{x=3} = 2(3) + 1 = 7"
+  ],
+  "hints": [
+    "Replace x in the expression with the given number and evaluate step by step."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Verify x = 3 solves 2x + 1 = 7.",
+      "validationKey": "isSolved"
+    }
+  ],
+  "keyConcepts": [
+    "Substitution replaces a variable with a value.",
+    "We can check solutions by substitution."
+  ],
+  "commonMistakes": [
+    "Forgetting to apply multiplication before addition (BODMAS)."
+  ],
+  "engineConfig": {
+    "mode": "solve",
+    "expression": "2x + 1 = 7"
+  }
+}

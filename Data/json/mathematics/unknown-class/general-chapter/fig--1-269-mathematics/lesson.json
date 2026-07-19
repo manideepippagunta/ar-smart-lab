@@ -1,0 +1,19 @@
+{
+  "id": "i5kt7t",
+  "title": "Fig. 1 269 Mathematics",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - there",
+  "activityTitle": "Fig. 1 269 Mathematics",
+  "activityType": "Activity 85",
+  "objective": "To verify that adjacent angles of a parallelogram are supplementary",
+  "materials": "Cardboard, coloured glaze paper, set square, ruler,\npencil, colours, scissors.",
+  "procedure": "1.   Take a cardboard of convenient size and paste a light coloured glaze\npaper on it.\n2.   Draw a parallelogram ABCD on a paper and paste it on the cardboard.\n3.   Make a trace copy of this parallelogram.\n4.   Colour the angles of the parallelogram ABCD in such a way that colours\nof A and C and that of B and D are same (Fig. 1).\n5.   Cut the four angles from the trace copy as shown in Fig. 2.\nFig. 1   Fig. 2",
+  "observation": "In Fig. 1, length of the side AB of parallelogram ABCD = _________ cm.\nLength of the side BC = ________________ cm,\nLength of the side CD = ________________ cm,\nLength of the side AD = ________________ cm.\nIn   Fig. 3,   side CD covers the side ______________,\nside DA covers the side ______________.\nThus,\nAB = _________,\nand   BC = _________.\ni.e. opposite sides of a parallelogram are equal _________ .",
+  "discussion": "This result is useful in solving many other geometrical problems and also\nin the construction of   parallelograms.\n1.   The parallelogram ABCD may also be cut along the diagonal\nBD.\n2.   This activity can be used to show that the opposite angles of a\nparallelogram are equal.\n270 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "light"
+  ],
+  "interactiveEngine": "Light Engine"
+}

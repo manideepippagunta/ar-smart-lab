@@ -1,0 +1,39 @@
+{
+  "title": "Factorisation",
+  "learningOutcomes": [
+    "Factor simple algebraic expressions.",
+    "Take out the common factor."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Factor the expression 2x + 4."
+    }
+  ],
+  "theory": "Factorisation means expressing an expression as a product of its factors. For example, 2x + 4 = 2(x + 2) because 2 is a common factor of both terms.",
+  "formulae": [
+    "2x + 4 = 2(x + 2)",
+    "ax + ab = a(x + b)"
+  ],
+  "hints": [
+    "Find the greatest common factor (GCF) of all terms, then divide each term by it."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Identify the common factor and simplify 3x + 6.",
+      "validationKey": "any"
+    }
+  ],
+  "keyConcepts": [
+    "Common factors can be extracted.",
+    "Factorisation is the reverse of expansion."
+  ],
+  "commonMistakes": [
+    "Only factoring one term instead of all terms."
+  ],
+  "engineConfig": {
+    "mode": "simplify",
+    "expression": "3x + 6"
+  }
+}

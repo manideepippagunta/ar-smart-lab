@@ -1,0 +1,21 @@
+{
+  "id": "a9uxmc",
+  "title": "Fig. 1   Fig. 2 4. Wind the thread around nails of subscript 1 (A 1 C 1 B 1 D 1 ) on four ends of two",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2 4. Wind the thread around nails of subscript 1 (A 1 C 1 B 1 D 1 ) on four ends of two",
+  "activityType": "Activity 14",
+  "objective": "To draw a system of similar triangles,\nusing Y shaped strips with nails.\nThree wooden strips of equal lengths\n(approx. 10 cm long and 1 cm wide),\nadhesive, nails, cello-tape, hammer.",
+  "materials": "",
+  "procedure": "1. Take three wooden strips say P, Q, R and cut one end of each strip [see Fig. 1].\nUsing adhesive/tape, join three ends of each strip such that they all lie in\ndifferent directions [see Fig. 1].\n2. Fix five nails at equal distances on each of the strips and name them\nP 1 , P 2 , ..., P 5 , Q 1 , Q 2 , ..., Q 5   and R 1 , R 2 , ..., R 5   on strips P, Q and R, respectively\n[see Fig. 2].",
+  "observation": "By actual measurement:\nA 2 C 2   = ______, A 4 C 4   = ______\nC 2 B 2   = ______, C 4 B 4   = ______\nB 2 D 2   = ______, B 4 D 4   = ______\nD 2 A 2   = ______, D 4 A 4   = ______.\n2   2\n4   4\nA C\nA C   = _____,   2   2\n4   4\nC B\nC B   = _____,   2   2\n4   4\nB D\nB D   = _____,   2   2\n4   4\nD A\nD A   = _______.\nAlso,   ∠ A 2   = _______,   ∠ C 2   = _______,   ∠ B 2   = _______,\n∠ D 2   = _______,   ∠ A 4   = _______,   ∠ C 4   = _______,\n∠ B 4   = _______,   ∠ D 4   = _______.\nTherefore, square A 2 C 2 B 2 D 2   and square A 4 C 4 B 4 D 4   are ________.\nSimilarly, each square is ______ to the other squares.",
+  "discussion": "Concept of similarity can   be used\nin enlargement or reduction of\nimages like maps in atlas and also in\nmaking photographs of different\nsizes from the same negative.\nN OTE\nBy taking the lengths of the two\ndiagonals unequal and angle\nbetween the strips other than a\nright angle, we can obtain similar\nparallelograms/rectangles by\nadopting the same procedure.\nP RECAUTIONS\n1. Care should be taken while\nusing nails and hammer.\n2. Nails should be fixed at equal\ndistances.\nMathematics   133",
+  "keywords": [
+    "triangle",
+    "graph",
+    "cell"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

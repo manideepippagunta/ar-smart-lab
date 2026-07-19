@@ -1,0 +1,19 @@
+{
+  "id": "hcpm8",
+  "title": "14   Laboratory Manual 2. Represent all the possible correspondences of the elements of set A 2   to the",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - the other end to move freely along the circle",
+  "activityTitle": "14   Laboratory Manual 2. Represent all the possible correspondences of the elements of set A 2   to the",
+  "activityType": "Activity 2",
+  "objective": "To represent set theoretic operations\nusing Venn diagrams.\nHardboard, white thick sheets of\npaper, pencils, colours, scissors,\nadhesive.",
+  "materials": "",
+  "procedure": "1. Cut rectangular strips from a sheet of paper and paste them on a hardboard.\nWrite the symbol U in the left/right top corner of each rectangle.\n2. Draw circles A and B inside each of the rectangular strips and shade/colour\ndifferent portions as shown in Fig. 3.1 to Fig. 3.10.",
+  "observation": "1. U denotes the universal set represented by the rectangle.\n2. Circles A and B represent the subsets of the universal set U as shown in the\nfigures 3.1 to 3.10.\n3.   A ′   denote the complement of the set A, and   B ′   denote the complement of\nthe set B as shown in the Fig. 3.3 and Fig. 3.4.\n4. Coloured portion in Fig. 3.1. represents A   ∪   B.",
+  "discussion": "",
+  "keywords": [
+    "circle"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

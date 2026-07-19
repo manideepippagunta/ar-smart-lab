@@ -1,0 +1,19 @@
+{
+  "id": "q8oq35i",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Draw two mutually perpendicular lines X ′ OX and Y ′ OY on a thick sheet of",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Draw two mutually perpendicular lines X ′ OX and Y ′ OY on a thick sheet of",
+  "activityType": "Activity 25",
+  "objective": "To measure the shortest distance\nbetween two skew lines and verify it\nanalytically.\nA   piece   of   plywood   of   size\n30 cm × 20 cm, a squared paper,\nthree   wooden   blocks   of   size\n2cm × 2 cm × 2 cm each and one\nwooden block of size 2 cm × 2 cm\n× 4 cm, wires of different lengths,\nset squares, adhesive, pen/pencil,\netc.",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. The coordinates of A ( x 1 ,   y 1 ,   z 1 ) = _________.\nB ( x 2 ,   y 2 ,   z 2 ) = _________.\nC ( x 3 ,   y 3 ,   z 3 ) = _________.\nCoordinates of point P = _________.\nThe   distance( d )   of   P   from   the   plane   KLMN   by   actual\nmeasurement =_________.\n2. Equation of plane through A, B, C using\n1   1   1\n2   1   2   1   2   1\n3   1   3   1   3   1\n–   –   –\n–   –   –   0\n–   –   –\nx   x   y   y   z   z\nx   x   y   y   z   z\nx   x   y   y   z   z\n=   is _________.\nThe distance of P from this plane (represented by above equation)\nusing   1   1   1\n2   2   2\nax   by   cz   d\nd\na   b   c\n+   +   +\n=\n+   +   = _________.\nThus distance of a point P from a plane by actual measurement\n= distance of P through analytical method = __________.\n170   Laboratory Manual",
+  "discussion": "1. With this activity it can be explained that through\n(a)   one point or through two points, infinite number of planes can pass,\n(b)   three non-collinear points, a unique plane passes.\n2. This activity can also be used in explainiing the concept of distance between\ntwo parallel planes.",
+  "keywords": [
+    "coordinate"
+  ],
+  "interactiveEngine": "Coordinate Engine"
+}

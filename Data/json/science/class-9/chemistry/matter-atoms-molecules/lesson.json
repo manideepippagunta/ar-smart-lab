@@ -1,0 +1,65 @@
+{
+  "id": "class-9-chemistry-matter-atoms-molecules",
+  "title": "Atoms, Molecules and Electronic Configuration",
+  "subject": "Science",
+  "classLevel": "Class 9",
+  "chapter": "Chapter 4 - Structure of the Atom",
+  "engine": "Chemistry Engine",
+  "engineConfig": {
+    "topic": "atom_structure",
+    "initialParams": {
+      "atomicNumber": 11
+    }
+  },
+  "learningOutcomes": [
+    "Understand Bohr's model of the atom with K, L, M, N electron shells ($2n^2$).",
+    "Calculate valence electrons and atomic numbers for Sodium (Z=11), Carbon (Z=6), Oxygen (Z=8).",
+    "Inspect elements interactively on the Periodic Table."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Select Sodium (Z=11) and view electronic distribution [2, 8, 1]."
+    },
+    {
+      "id": "obj2",
+      "text": "Identify the valence electron in the outermost M shell."
+    }
+  ],
+  "theory": "Bohr's atomic model proposes that electrons revolve around the nucleus in discrete energy orbits (K, L, M, N). Maximum shell capacity is $2n^2$.",
+  "formulae": [
+    "\\text{Shell Capacity} = 2n^2",
+    "Z = p^+ = e^-",
+    "\\text{Mass Number } A = p^+ + n^0"
+  ],
+  "hints": [
+    "Use the Atomic Number slider or click on the Periodic Table grid to select elements.",
+    "Observe the glowing blue valence electron ring in the outer shell."
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "instruction": "Select an element with Atomic Number Z > 1.",
+      "validationKey": "select_element"
+    }
+  ],
+  "observationPrompts": [
+    "Why do noble gases like Helium (Z=2) and Neon (Z=10) have complete outer shells?"
+  ],
+  "realWorldExamples": [
+    {
+      "title": "Chemical Reactivity",
+      "description": "Valence electrons dictate how elements form ionic and covalent bonds with other elements."
+    }
+  ],
+  "keyConcepts": [
+    "Bohr Model",
+    "Atomic Number",
+    "Electron Shells",
+    "Valence Electrons",
+    "Nucleus"
+  ],
+  "commonMistakes": [
+    "Exceeding the maximum $2n^2$ electron capacity of inner K and L shells."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mm612g",
+  "title": "Fig. 1 Fig. 2   Fig. 3",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 Fig. 2   Fig. 3",
+  "activityType": "Activity 9",
+  "objective": "To verify the algebraic identity :\na 3   –   b 3   = ( a   –   b )( a 2   +   ab   +   b 2 )\nAcrylic sheet, sketch pen, glazed\npapers, scissors, adhesive, cello-\ntape, coloured papers, cutter.",
+  "materials": "",
+  "procedure": "1. Make a cuboid of dimensions ( a–b )   × a × a   ( b   <   a ), using acrylic sheet and\ncellotape/adhesive as shown in Fig. 1.\n2. Make another cuboid of dimensions ( a–b )   × a × b , using acrylic sheet and\ncellotape/adhesive as shown in Fig. 2.\n3. Make one more cuboid of dimensions ( a–b )   × b × b   as shown in Fig. 3.\n4. Make a cube of dimensions   b   ×   b   ×   b   using acrylic sheet as shown in Fig. 4.",
+  "observation": "On actual measurement:\na   = ..............,   b   = ..............,\nSo,   a 3   =   ..............,   b 3   = ..............,   ( a + b ) = ..............,   ( a + b ) a 2   = ..............,\n( a + b )   b 2   = ..............,   a 2 b   = ..............,   ab 2   = ..............,\nab   ( a + b )   = ..............,\nTherefore,   a 3   + b 3   =   ( a + b )   ( a 2   + b 2   –   ab ).",
+  "discussion": "The identity may be used in simplification and factorisation of algebraic\nexpressions.\nFig. 6\nMathematics   35",
+  "keywords": [
+    "cube",
+    "cell",
+    "cuboid"
+  ],
+  "interactiveEngine": "Cube Engine"
+}

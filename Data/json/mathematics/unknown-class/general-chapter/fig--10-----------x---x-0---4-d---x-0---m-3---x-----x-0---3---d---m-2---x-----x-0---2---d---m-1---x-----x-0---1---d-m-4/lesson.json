@@ -1,0 +1,17 @@
+{
+  "id": "kfyzo",
+  "title": "Fig. 10 (   –   ) x   x 0   4 D   x 0   M 3 ( x +   x 0   3 ) D   M 2 ( x +   x 0   2 ) D   M 1 ( x +   x 0   1 ) D M 4",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit CI - Cardboard",
+  "activityTitle": "Fig. 10 (   –   ) x   x 0   4 D   x 0   M 3 ( x +   x 0   3 ) D   M 2 ( x +   x 0   2 ) D   M 1 ( x +   x 0   1 ) D M 4",
+  "activityType": "Activity 10",
+  "objective": "",
+  "materials": "",
+  "procedure": "",
+  "observation": "S.No.   Value of increment   Corresponding\nin   x 0   increment in   y\n1.   1   1 x   y ∆   =   ∆   =\n2.   2   2 x   y ∆   =   ∆   =\n3.   3   3 x   y ∆   =   ∆   =\n4.   4   4 x   y ∆   =   ∆   =\n5.   5   5 x   y ∆   =   ∆   =\n126   Laboratory Manual\n06.   6   6 x   y ∆   =   ∆   =\n07.   7   7 x   y ∆   =   ∆   =\n08.   8   8 x   y ∆   =   ∆   =\n09.   9   9 x   y ∆   =   ∆   =\n2. So,   y ∆   becomes _________ when   x ∆   becomes smaller.\n3. Thus   0\nlim\nx ∆ →   y ∆   = 0 for a continuous function.",
+  "discussion": "This activity is helpful in explaining the concept of derivative (left hand or right\nhand) at any point on the curve corresponding to a function.",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

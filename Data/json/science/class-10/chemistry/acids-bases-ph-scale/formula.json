@@ -1,0 +1,7 @@
+{
+  "formulae": [
+    "\\text{pH} = -\\log_{10}[H^+]",
+    "[H^+] = 10^{-\\text{pH}}",
+    "\\text{HCl} + \\text{NaOH} \\longrightarrow \\text{NaCl} + \\text{H}_2\\text{O}"
+  ]
+}

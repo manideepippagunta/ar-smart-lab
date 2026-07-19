@@ -1,0 +1,21 @@
+{
+  "id": "kzvz4r",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Take a wooden hardboard of a convenient size and paste a white paper on it.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Take a wooden hardboard of a convenient size and paste a white paper on it.",
+  "activityType": "Activity 28",
+  "objective": "To find the relationship among the\nvolumes of a right circular cone, a\nhemisphere and a right circular cylinder\nof equal radii and equal heights.\nCardboard, acrylic sheet, cutter, a\nhollow ball, adhesive, marker, sand\nor salt.",
+  "materials": "",
+  "procedure": "",
+  "observation": "On actual measurement :\nThe slant height   l   of the cone = -----------------------,   r   = ------------------------\nSo, arc length   l   = ----------------------,\nArea of the sector = ----------------, Curved surface area of the cone = ---------\n------------------\nTherefore, curved surface area of the cone = Area of the sector.\nHere, area is in square units.",
+  "discussion": "The result is useful in\n1. estimating canvas required to make a conical tent\n2. estimating material required to make Joker’s cap, ice cream cone, etc.\nMathematics   77",
+  "keywords": [
+    "cone",
+    "cylinder",
+    "sphere"
+  ],
+  "interactiveEngine": "Cylinder Engine"
+}

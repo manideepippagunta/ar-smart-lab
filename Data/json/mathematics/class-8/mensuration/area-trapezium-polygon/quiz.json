@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "What is the area of a trapezium with parallel sides 8 cm and 6 cm, and height 4 cm?",
+      "options": [
+        "28 cm²",
+        "56 cm²",
+        "24 cm²",
+        "14 cm²"
+      ],
+      "correctAnswer": "28 cm²"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "question": "The diagonals of a rhombus are 10 cm and 12 cm. Its area is:",
+      "options": [
+        "60 cm²",
+        "120 cm²",
+        "44 cm²",
+        "30 cm²"
+      ],
+      "correctAnswer": "60 cm²"
+    }
+  ]
+}

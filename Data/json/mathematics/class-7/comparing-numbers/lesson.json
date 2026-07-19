@@ -1,0 +1,33 @@
+{
+  "title": "Comparing Numbers",
+  "learningOutcomes": [
+    "Use comparison symbols (<, >, =).",
+    "Compare positive and negative numbers."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Determine which number is greater."
+    }
+  ],
+  "theory": "On a number line, any number that is further to the right is greater than any number to its left.",
+  "formulae": [
+    "A > B \\iff A \\text{ is to the right of } B"
+  ],
+  "hints": [
+    "Drag points A and B. Watch the live equation panel to see which is larger."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Arrange B to be greater than A.",
+      "validationKey": "isOrdered"
+    }
+  ],
+  "keyConcepts": [
+    "Positive numbers are always greater than negative numbers."
+  ],
+  "commonMistakes": [
+    "Thinking -5 is greater than -2."
+  ]
+}

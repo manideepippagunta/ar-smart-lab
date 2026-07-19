@@ -1,0 +1,20 @@
+{
+  "id": "frvrio",
+  "title": "199 Mathematics Fig. 2",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "199 Mathematics Fig. 2",
+  "activityType": "Activity 55",
+  "objective": "To make medians of a triangle by paper folding",
+  "materials": "Coloured   paper,   pencil,   cardboard,   scissors,\nadhesive, ruler.",
+  "procedure": "1.   Make   a   triangle   ABC   by   paper\nfolding or draw a triangle ABC. Cut\nit out (Fig.1).\n2.   Get the mid point of side BC by\nfolding the paper such that B falls\non C. Name this point D as shown\nin Fig. 2.\nFig. 2",
+  "observation": "1.   The closed figure formed with these sticks (line segments) is a polygon,\ncalled _________.\n2.   The closed figure formed with four line segments is a polygon, called\n__________.\n205 Mathematics\n3.   The closed figure formed with five line segments is a polygon called\n__________.\n4.   No polygon is formed with __________ sticks (line segments) thus, a\nminimum of __________ line segments are needed to form a figure made\nup of line __________ , i.e. a __________.",
+  "discussion": "This activity may be useful in understanding the construction of a polygon.\n206 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "triangle",
+    "polygon"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

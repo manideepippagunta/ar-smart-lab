@@ -1,0 +1,20 @@
+{
+  "id": "rogogs",
+  "title": "4. Fix nails at the points O, A, B, P and Q. Join OP, OA, OB, AP, AQ, BQ, OQ and BP using wires.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "4. Fix nails at the points O, A, B, P and Q. Join OP, OA, OB, AP, AQ, BQ, OQ and BP using wires.",
+  "activityType": "Activity 21",
+  "objective": "To locate the points to given\ncoordinates in space, measure the\ndistance between two points in space\nand then to verify the distance using\ndistance formula.\nDrawing board, geometry box,\nsquared paper, nails of different\nlengths, paper arrows.",
+  "materials": "",
+  "procedure": "",
+  "observation": "By actual measurement.\nOP   OA   OB   OQ   r   a   p =   =   =   =   =   =   =\n\u0001\u0001\u0001 \u0002   \u0001\u0001\u0001\u0002   \u0001\u0001\u0001 \u0002   \u0001\u0001\u0001\u0002   _______ ,\nAP\n\u0001\u0001\u0001 \u0002   = _______ ,   BP\n\u0001\u0001\u0001 \u0002   = _______,   AB\n\u0001\u0001\u0001 \u0002   = ______\nAQ\n\u0001\u0001\u0001\u0002   = _______ ,   BQ\n\u0001\u0001\u0001 \u0002   = _______\n2   2\nAP   BP +\n\u0001\u0001\u0001 \u0002   \u0001\u0001\u0001 \u0002   = ________,   2   2\nAQ   BQ +\n\u0001\u0001\u0001\u0002   \u0001\u0001\u0001 \u0002   = ________\nSo,   ∠ APB = ________ and   AP.BP\n\u0001\u0001\u0001 \u0002 \u0001\u0001\u0001 \u0002   ________   ∠ AQB = ________ and\nAQ.BP\n\u0001\u0001\u0001\u0002 \u0001\u0001\u0001 \u0002   = ________\nSimilarly, for points R, S, T, ________\n∠ ARB   = ________,   ∠ ASB = ________,   ∠ ATB = ________, ________\ni.e., angle in a semi-circle is a right angle.",
+  "discussion": "This activity can be used to explain the\nconcepts of\n(i)   opposite vectors\n(ii) vectors of equal magnitude\nMathematics   159\n(iii) perpendicular vectors\n(iv) Dot product of two vectors.   N OTE\nLet OA = OB =   a   = OP =   p\nOA   –   a =\n\u0001\u0001\u0001\u0002   \u0002   ,   OB   a =\n\u0001\u0001\u0001 \u0002   \u0002   ,   OP   p =\n\u0001\u0001\u0001 \u0002   \u0002\nAP   – OA   OP   a   p =   +   =   +\n\u0001\u0001\u0001 \u0002   \u0001\u0001\u0001\u0002   \u0001\u0001\u0001 \u0002   \u0002   \u0002   .,   BP   – p   a =\n\u0001\u0001\u0001 \u0002   \u0002   \u0002   .\n(   ) (   )   2   2\nAP. BP   .   –   –   0 p   a   p   a   p   a =   +   =   =\n\u0001\u0001\u0001 \u0002 \u0001\u0001\u0001\u0002   \u0002   \u0002   \u0002   \u0002   \u0002   \u0002\n.\n(   ) 2\nsince   p   a =\n\u0002   \u0002\nSo, the angle APB between the vectors   AP\n\u0001\u0001\u0001 \u0002   and\nBP\n\u0001\u0001\u0001\u0002   is a right angle.\nSimilarly, AQ. BQ   0 =\n\u0001\u0001\u0001\u0002 \u0001\u0001\u0001\u0001 \u0002   , so,   ∠ AQB = 90° and so on.",
+  "keywords": [
+    "circle",
+    "coordinate"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

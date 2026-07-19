@@ -1,0 +1,20 @@
+{
+  "id": "y6n0g",
+  "title": "Height Cumulative",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Height Cumulative",
+  "activityType": "Activity 30",
+  "objective": "To determine experimental probability\nof 1, 2, 3, 4, 5 or 6 by throwing a die\n500 times and compare them with their\ntheoretical probabilities.\nA fair die, pen, sheets of white\npaper.",
+  "materials": "",
+  "procedure": "1. Divide the students of the class into ten groups I, II, III, IV, V, VI, VII, VIII,\nIX and X of suitable size.\n2. Each group will throw a die 50 times and will observe the occurrence of\neach 1, 2, 3, 4, 5 and 6.\n3. Count the total number of times (frequency) 1 comes up in each group and\ndenote it by   a 1 ,   a 2 ,   a 3   ,....,   a 10 , respectively.\n4. Calculate the experimental probability of 1 appearing in each group as\n3   10 1   2\n,   ,   , ......,\n50   50   50   50\na   a a   a\n5. Calculate the experimental probability of 1 based on the data of 1st group,\n1st two groups, ....., all ten groups as\n1   2   3   1   2   10 1   1   2   ...\n,   ,   , ...,\n50   100   150   500\na   a   a   a   a   a a   a   a   +   +   +   +   + +   , respectively.\n6. Similarly, calculate the expermental probability of 2 based on the data of\n1st group, 1st two groups, ......., all the ten groups as   1\n50\nb   ,   1   2\n100\n+ b   b   ,   1   2   3\n150\n+   + b   b   b   ,\n...,   1   2   10 ...\n500\n+   +   + b   b   b   , respectively.\n7. Proceed in the same way for getting experimental probabilities for 3, 4, 5 and 6.",
+  "observation": "Class intervals are:\na-b   = __________,   b-c   = __________,   c-d   = __________,\nd-e   = __________,   e-f   = __________,\nf 1   = __________,   f 2   = __________,   f 3   = __________,\nf 4   = __________,\nFig. 1\nMathematics   173\nf 5   = __________,   F 1   = __________,   F 2   = __________,\nF 3   = __________,   F 4   = __________\nCoordinates of point A   =   ____________________\nCoordinates of point B =   ____________________\nCoordinates of point C =   ____________________\nCoordinates of point D =   ____________________\nCoordinates of point E   =   ____________________\nFree hand curve obtained by joining the points A, B, C, D and E is ________\ntype _______",
+  "discussion": "On the same squared paper, if for a given frequency distribution, “less than type\nogive” and “more than type ogive” are drawn, then the   x -coordinate of the point\nof intersection of these ogives will give the “median” of the data.\n174   Laboratory Manual",
+  "keywords": [
+    "probability",
+    "coordinate"
+  ],
+  "interactiveEngine": "Coordinate Engine"
+}

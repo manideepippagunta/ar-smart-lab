@@ -1,0 +1,20 @@
+{
+  "id": "y7za8",
+  "title": "Mathematics   13 14   Laboratory Manual",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Mathematics   13 14   Laboratory Manual",
+  "activityType": "Activity 1",
+  "objective": "To represent some irrational numbers\non the number line.\nTwo   cuboidal   wooden   strips,\nthread, nails, hammer, two photo\ncopies of a scale, a screw with nut,\nglue, cutter.",
+  "materials": "",
+  "procedure": "1. Make a straight slit on the top of one of the wooden strips. Fix another\nwooden strip on the slit perpendicular to the former strip with a screw at\nthe bottom so that it can move freely along the slit [see Fig.1].\n2. Paste one photocopy of the scale on each of these two strips as shown in\nFig. 1.\n3. Fix nails at a distance of 1 unit each, starting from 0, on both the strips as\nshown in the figure.\n4. Tie a thread at the nail at 0 on the horizontal strip.",
+  "observation": "On actual measurement\nAC = ..... ,   AD = ...... ,   AE   = ...... ,   AF   =....... ,   AG = ......\n2   =   AC = ............... (approx.),\n3   =   AD = ............... (approx.),\n4   =   AE = ............... (approx.),\n5   =   AF = ............... (approx.)",
+  "discussion": "Through this activity, existence of irrational numbers can be illustrated.\nMathematics   15",
+  "keywords": [
+    "number line",
+    "cuboid"
+  ],
+  "interactiveEngine": "Number Line Engine"
+}

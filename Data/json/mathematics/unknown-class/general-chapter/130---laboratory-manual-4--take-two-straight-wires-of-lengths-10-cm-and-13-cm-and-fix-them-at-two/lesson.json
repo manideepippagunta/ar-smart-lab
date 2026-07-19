@@ -1,0 +1,19 @@
+{
+  "id": "4ypcw",
+  "title": "130   Laboratory Manual 4. Take two straight wires of lengths 10 cm and 13 cm and fix them at two",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "130   Laboratory Manual 4. Take two straight wires of lengths 10 cm and 13 cm and fix them at two",
+  "activityType": "Activity 12",
+  "objective": "To understand the concepts of\ndecreasing and increasing functions.\nPieces of wire of different lengths,\npiece of plywood of suitable size,\nwhite paper, adhesive, geometry\nbox, trigonometric tables.",
+  "materials": "",
+  "procedure": "1. Take a piece of plywood of a convenient size and paste a white paper on it.\n2. Take two pieces of wires of length say 20 cm each and fix them on the white\npaper to represent   x -axis and   y -axis.\n3. Take two more pieces of wire each of suitable length and bend them in the\nshape of curves representing two functions and fix them on the paper as\nshown in the Fig. 13.",
+  "observation": "1.   a   = __________,   b   = ______________,\nf   ( a ) = ________,   f   ( b )= ____________.\n2.   f   ( a ) –   f   ( b ) = ________,\nb   –   a   = ________,\nMathematics   131\n3.   ( ) –   ( )\n–\nf   b   f   a\nb   a   = ________ = Slope of MN.\n4. Since PQ || MN   ⇒   Slope of PQ =   f   ′ ( c ) =   ( )   ( ) f   a   f   a\nb   a\n−\n−   .",
+  "discussion": "Langrange’s Mean Value Theorem has significant applications in calculus.\nFor example this theorem is used to explain concavity of the graph.",
+  "keywords": [
+    "graph"
+  ],
+  "interactiveEngine": "Graph Engine"
+}

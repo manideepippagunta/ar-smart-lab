@@ -1,0 +1,67 @@
+{
+  "id": "class-9-physics-motion-velocity-acceleration",
+  "title": "Motion, Velocity and Equations of Motion",
+  "subject": "Science",
+  "classLevel": "Class 9",
+  "chapter": "Chapter 8 - Motion",
+  "engine": "Physics Engine",
+  "engineConfig": {
+    "topic": "motion",
+    "initialParams": {
+      "mass": 5,
+      "force": 35,
+      "rampAngle": 10
+    }
+  },
+  "learningOutcomes": [
+    "Differentiate between distance, displacement, speed, and velocity.",
+    "Understand acceleration $a = F/m$ and Newton's second law.",
+    "Simulate physical block motion on inclined ramps with live vector arrows."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Apply force $F=35$ N on a $5$ kg block and calculate acceleration."
+    },
+    {
+      "id": "obj2",
+      "text": "Observe vector arrows representing Gravity, Normal force, and Friction."
+    }
+  ],
+  "theory": "First equation of motion: $v = u + at$. Second equation: $s = ut + \\frac{1}{2}at^2$. Newton's Second Law: $F = ma$.",
+  "formulae": [
+    "a = \\frac{F}{m}",
+    "v = u + a t",
+    "s = u t + \\frac{1}{2} a t^2"
+  ],
+  "hints": [
+    "Click \"Play Motion\" to start the WebGL physics simulation loop.",
+    "Adjust the Ramp Angle slider to observe gravity vector resolution."
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "instruction": "Increase the Applied Force slider above 30 N.",
+      "validationKey": "adjust_slider"
+    }
+  ],
+  "observationPrompts": [
+    "How does doubling the mass of an object change its acceleration under constant force?"
+  ],
+  "realWorldExamples": [
+    {
+      "title": "Automobile Acceleration",
+      "description": "Car engines apply forward traction force to overcome inertia and accelerate the vehicle mass."
+    }
+  ],
+  "keyConcepts": [
+    "Velocity",
+    "Acceleration",
+    "Inertia",
+    "Newton's Second Law",
+    "Displacement"
+  ],
+  "commonMistakes": [
+    "Confusing speed (scalar) with velocity (vector having both magnitude and direction)."
+  ]
+}

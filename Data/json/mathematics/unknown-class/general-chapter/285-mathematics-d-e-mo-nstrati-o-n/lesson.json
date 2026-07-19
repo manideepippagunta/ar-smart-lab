@@ -1,0 +1,20 @@
+{
+  "id": "xj49dw",
+  "title": "285 Mathematics d e MO nstrati O n",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - there",
+  "activityTitle": "285 Mathematics d e MO nstrati O n",
+  "activityType": "Activity 92",
+  "objective": "To explore the changes in behaviours of perimeters and areas of rectangles\nwith respect to each other.\nd escripti O n\n(A)   Rectangles with equal perimeters\nLet us consider the rectangles of the following lengths and breadths:\n(i)   Length = 10 cm ; Breadth = 6 cm\n(ii)   Length = 11 cm ; Breadth = 5 cm\n(iii)   Length = 8 cm ;   Breadth = 8 cm\n(iv)   Length = 9.5 cm ; Breadth = 6.5 cm\n(v)   Length = 8.5 cm ; Breadth = 7.5 cm\nWe may note that perimeter of each of the above rectangles is the same,\nnamely, 32 cm. Let us calculate the areas of these rectangles:\n(i)   Area of the rectangle of length 10 cm and breadth 6 cm\n= 10 cm   ×   6 cm = 60 cm 2 .",
+  "materials": "Isometric dot paper, ruler, sketch pen, squared\ndot paper, pencil.",
+  "procedure": "1.   Take an isometric dot paper and mark a\npoint A on it as shown in Fig.   1.\n2.   Draw a horizontal line through A.\n3.   Identify 3 dots nearest to the point A which\nare above the horizontal line and mark\nthem as X, Y and Z [See Fig. 1].\nFig. 2\nFig. 1\n288 Laboratory Manual – Elementary Stage\n4.   Starting from point A, move 4 dots\nalong AX and mark 4 th  dot as B\n[Fig. 2].\n5.   Starting from point B, now move 4\ndots upward and mark the 4 th  dot as\nC [Fig. 2].\n6.   Starting from point A, move 4 dots\nalong AY   and mark the 4 th   dot as   D\n[Fig. 2].\n7.   Starting from point A, move 4 dots\nalong AZ and mark the 4 th  dot as E [Fig. 2].\n8.   Starting from point E, move 4 dots in the upward direction and mark\nthe 4 th  dot as F [Fig. 2].\n9.   Join F, D and C, D.\n10.   Starting from point C move 4 dots in the direction parallel to DF. Mark\nthe 4 th  dot as G.\n11.   Join FG, CG, BC, AB, AE, EF and AD [Fig. 3].\nOblique   s ketch   O f the   c ube\n1.   Take a squared dot paper and mark a point A\non it [Fig. 4].\n2.   Starting from A, move 4 dots to the right and\nmark the 4 th  dot as B.\n3.   Again, starting from A, move 4 dots vertically\nupwards from the point B and mark the 4 th  dot\nas C.   Similarly, starting from A, move 4 dots\nvertically upward and mark the fifth dot as D\n[Fig. 4].\n4.   Join AB, BC, CD and AD to get the square ABCD\nof side 4 units.\n5.   Now take one more point say E on the square\ndot paper and draw the square EFGH of side 4\nunits by following steps 2 to 4 [Fig. 5].\nFig. 3\nFig. 4\nFig. 5\n289 Mathematics\n6.   Join AE, BF, CG and DH as shown in Fig. 6.\nFig. 6   Fig. 7",
+  "observation": "On actual measurement:\n1.   In Fig. 3, AB = _____, AD = _____, AE = _____\nSo, AB = _____ = _____.\nThus, shape obtained in Fig. 3 is an isometric ________ of a cube of\nside _______.\n2.   In Fig. 6, AB = _____ , AD = _____ and AE = _____.\nSo, AB = _____.\nThus, shape obtained in Fig. 6 is an ________ sketch of a cube of side\n_______.",
+  "discussion": "This activity is useful in drawing a 3-D shape in 2-D shape.\nSimilar activity may be performed for a cuboid.\n290 Laboratory Manual – Elementary Stage\nb ackgr O und\nThe most common problems that people come across in daily life are to\nfence their fields and to determine the size of the field to grow a particular\ntype of crop. These two problems are closely related with the mathematical\nconcepts - perimeter and area, respectively. There is an impression that if\nthe perimeter of a figure is increased, then its area will also increase and\nvice-versa. However, this impression is not always correct. This project tries\nto explain this idea by taking rectangle as a basic figure.",
+  "keywords": [
+    "cube",
+    "cuboid"
+  ],
+  "interactiveEngine": "Cube Engine"
+}

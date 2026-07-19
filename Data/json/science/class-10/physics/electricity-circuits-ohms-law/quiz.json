@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "According to Ohm's Law, if voltage V is doubled while resistance R stays constant, current I will:",
+      "options": [
+        "Double",
+        "Halve",
+        "Remain the same",
+        "Quadruple"
+      ],
+      "correctAnswer": "Double"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "question": "What is the current flowing through a 6 Ω resistor connected across a 12 V battery?",
+      "options": [
+        "2 A",
+        "0.5 A",
+        "72 A",
+        "18 A"
+      ],
+      "correctAnswer": "2 A"
+    }
+  ]
+}

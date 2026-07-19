@@ -1,0 +1,69 @@
+{
+  "title": "Correlations: Scatter Plots",
+  "engine": "Graph Engine",
+  "engineConfig": {
+    "mode": "statistics",
+    "chartType": "scatter",
+    "initialChartData": [
+      {
+        "label": "A",
+        "value": 10
+      },
+      {
+        "label": "B",
+        "value": 35
+      },
+      {
+        "label": "C",
+        "value": 75
+      }
+    ]
+  },
+  "learningOutcomes": [
+    "Master the core principles of Correlations: Scatter Plots.",
+    "Learn substitution and calculations step-by-step."
+  ],
+  "materials": [
+    "Digital Coordinates Toolkit",
+    "CBSE Geometry Workspace"
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Move any data coordinate marker above 80."
+    }
+  ],
+  "theory": "A scatter plot uses coordinates to show values for two variables of a dataset. It is highly effective for visualising correlation trends (positive, negative, or no correlation).",
+  "formulae": [
+    "d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}",
+    "M = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  ],
+  "hints": [
+    "Explore the values using drag-and-drop."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Move any data coordinate marker above 80.",
+      "validationKey": "chart_max_value_80"
+    }
+  ],
+  "observationPrompts": [
+    "How did coordinates react during drag movements?",
+    "Explain slope trends."
+  ],
+  "realWorldExamples": [
+    {
+      "title": "GPS Tracking",
+      "description": "Coordinate analysis maps points globally."
+    }
+  ],
+  "practiceExercises": [],
+  "keyConcepts": [
+    "Linear graphing",
+    "Correlations: Scatter Plots applications"
+  ],
+  "commonMistakes": [
+    "Sign computation errors"
+  ]
+}

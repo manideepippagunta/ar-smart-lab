@@ -1,0 +1,11 @@
+{
+  "estimatedDuration": 165,
+  "requiredEngine": "Probability Engine",
+  "requires3D": true,
+  "requiresGraph": false,
+  "requiresAnimation": true,
+  "requiresAudio": true,
+  "requiresQuiz": true,
+  "requiresFormula": true,
+  "requiresAR": true
+}

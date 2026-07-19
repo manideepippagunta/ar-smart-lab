@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "Which is true?",
+      "options": [
+        "-5 > -2",
+        "-2 > -5",
+        "0 < -1",
+        "-3 = 3"
+      ],
+      "correctAnswer": "-2 > -5"
+    }
+  ]
+}

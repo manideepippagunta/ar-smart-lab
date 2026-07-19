@@ -1,0 +1,19 @@
+{
+  "id": "icy4ke",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Divide the whole class in ten groups say G 1 , G 2 , G 3 , ..., G 10   of a suitable size.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Divide the whole class in ten groups say G 1 , G 2 , G 3 , ..., G 10   of a suitable size.",
+  "activityType": "Activity 34",
+  "objective": "",
+  "materials": "",
+  "procedure": "",
+  "observation": "Fill in the results of your experiment in the following table:\nTherefore,\n.......\nP (1) =  1000   ,   .......\nP (2) =  1000   ,   .......\nP (3) =  1000   ,   .......\nP (4) =  1000   ,\n.......\nP (5) =  1000   ,   .......\nP (6) =  1000   .",
+  "discussion": "Concept of probability is used by several statistical institutions to estimate/\npredict next action based on available data.\nOutcome\\\nGroup\nNumber of times a number comes up on a die   Total\n1   2   3   4   5   6\nG 1   ----   ----   ----   ----   ----   ----   100\nG 2   ----   ----   ----   ----   ----   ----   100\nG 3   ----   ----   ----   ----   ----   ----   100\n.   .   .   .   .   .   .\n.   .   .   .   .   .   .\n.   .   .   .   .   .   .\n.   .   .   .   .   .   .\n.   .   .   .   .   .   .\n.   .   .   .   .   .   .\nG 10   ----   ----   ----   ----   ----   ----   100\nTotal   a   = ----   b   = ----   c   = ----   d   = ----   e   = ----   f   = ----   1000",
+  "keywords": [
+    "probability"
+  ],
+  "interactiveEngine": "Probability Engine"
+}

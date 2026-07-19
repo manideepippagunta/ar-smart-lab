@@ -1,0 +1,66 @@
+{
+  "id": "class-10-biology-life-processes-nutrition-respiration",
+  "title": "Life Processes - Nutrition and Respiration",
+  "subject": "Science",
+  "classLevel": "Class 10",
+  "chapter": "Chapter 6 - Life Processes",
+  "engine": "Biology Engine",
+  "engineConfig": {
+    "topic": "photosynthesis",
+    "initialParams": {
+      "sunlightIntensity": 85,
+      "co2Level": 70
+    }
+  },
+  "learningOutcomes": [
+    "Analyze autotrophic nutrition: Photosynthesis equation $6\\text{CO}_2 + 6\\text{H}_2\\text{O} \\to \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2$.",
+    "Simulate circulatory 4-chamber heart blood flow (oxygenated vs deoxygenated).",
+    "Calculate Lindeman's 10% Trophic Energy Transfer Pyramid."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Increase Sunlight Intensity above 50% and observe oxygen bubble production."
+    },
+    {
+      "id": "obj2",
+      "text": "Switch to Human Anatomy view to observe cardiac output $CO = HR \\times SV$."
+    }
+  ],
+  "theory": "Life processes maintain essential biological homeostasis. Autotrophs capture sunlight to synthesize carbohydrates via photosynthesis.",
+  "formulae": [
+    "6\\text{CO}_2 + 6\\text{H}_2\\text{O} \\xrightarrow{\\text{Light}} \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2",
+    "E_{n+1} = E_n \\times 0.10",
+    "CO = \\text{HR} \\times \\text{SV}"
+  ],
+  "hints": [
+    "Adjust the Sunlight Intensity slider to see gas bubble formation.",
+    "Use the Biology Toolbar tabs to switch between Photosynthesis, Anatomy, and Ecosystem."
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "instruction": "Increase Sunlight Intensity slider above 50%.",
+      "validationKey": "adjust_sunlight"
+    }
+  ],
+  "observationPrompts": [
+    "Why is oxygen gas released as a byproduct during the light reaction of photosynthesis?"
+  ],
+  "realWorldExamples": [
+    {
+      "title": "Global Oxygen Production",
+      "description": "Ocean phytoplankton and rainforests generate over 70% of Earth's atmospheric oxygen."
+    }
+  ],
+  "keyConcepts": [
+    "Photosynthesis",
+    "Autotrophic",
+    "Chloroplast",
+    "Stomata",
+    "Cardiac Output"
+  ],
+  "commonMistakes": [
+    "Thinking plants only perform photosynthesis; plants also perform cellular respiration 24/7."
+  ]
+}

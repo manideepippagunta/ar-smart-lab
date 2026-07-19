@@ -1,0 +1,11 @@
+{
+  "estimatedDuration": 185,
+  "requiredEngine": "Cube Engine",
+  "requires3D": false,
+  "requiresGraph": false,
+  "requiresAnimation": false,
+  "requiresAudio": true,
+  "requiresQuiz": true,
+  "requiresFormula": true,
+  "requiresAR": false
+}

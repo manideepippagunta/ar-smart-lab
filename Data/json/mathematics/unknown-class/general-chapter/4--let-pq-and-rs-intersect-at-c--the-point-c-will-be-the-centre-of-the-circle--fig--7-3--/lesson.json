@@ -1,0 +1,19 @@
+{
+  "id": "ts7i02",
+  "title": "4. Let PQ and RS intersect at C. The point C will be the centre of the circle (Fig. 7.3).",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - the other end to move freely along the circle",
+  "activityTitle": "4. Let PQ and RS intersect at C. The point C will be the centre of the circle (Fig. 7.3).",
+  "activityType": "Activity 7",
+  "objective": "To find the values of sine and cosine\nfunctions in second, third and fourth\nquadrants using their given values in\nfirst quadrant.\nCardboard, white chart paper, ruler,\ncoloured pens, adhesive, steel\nwires and needle.",
+  "materials": "",
+  "procedure": "1. Take a cardboard of convenient size and paste a white chart paper on it.\n2. Draw a unit circle with centre O on chart paper.\n3. Through the centre of the circle, draw two perpendicular lines   X OX ′   and\nYOY ′   representing   x -axis and   y -axis, respectively, as shown in Fig.8.1.",
+  "observation": "Using thread, measure arc lengths RP, PS, RQ, QS and record them in the\ntable given below :\nS.No Arc   length of arc ( l )   radius of circle ( r )   Radian measure\n1.   \u0002 RP   –-------   –-------   ∠   RCP=   \u0002 RP\nr   = __\n2.   \u0003 PS   –-------   –-------   ∠   PCS=   \u0003 PS\nr   = __\n3.   \u0002 SQ   –-------   –-------   ∠   SCQ=   \u0002 SQ\nr   = __\n4.   \u0002 QR   –-------   –-------   ∠   QCR=   \u0002 QR\nr   = __\nMathematics   29\n2. Using protractor, measure the angle in degrees and complete the table.\nAngle   Degree measure   Radian Measure   Ratio =   Degree measure\nRadian measure\n∠   RCP   –-------   –-------   –-------\n∠   PCS   –-------   –-------   –-------\n∠   QCS   –-------   –-------   –-------\n∠   QCR   –-------   –-------   –-------\n3. The value of one radian is equal to ________ degrees.",
+  "discussion": "This result is useful in the study of trigonometric functions.",
+  "keywords": [
+    "circle"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

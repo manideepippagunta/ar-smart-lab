@@ -1,0 +1,19 @@
+{
+  "id": "ut0trc",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Paste three graph sheets on a hardboard and draw two mutually perpendicular",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Paste three graph sheets on a hardboard and draw two mutually perpendicular",
+  "activityType": "Activity 29",
+  "objective": "To obtain truth values of compound\nstatements of the type   p   q ∨   by using\nswitch connections in parallel.\nSwitches, electric wires, battery and\nlamp/bulb.",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. For the curve   x 2   +   y 2   = 25,   dy\ndx   at the point (3, 4) = ________. Value of   θ   =\n_____ tan   θ   = ________   dy\ndx   at (3, 4) = _________.\nMathematics   89\n2. For the curve   x 2   +   y 2   = 25,   dy\ndx   at (– 4, 3) = ________, tan   α   = ________\n,   dy\ndx\nat (– 4, 3) = ________.\n3. For the curve ( x   – 3) 2   +   y 2   = 25,   dy\ndx   at (6, 4) = _____ , value of   θ   = _______,\ntan   θ   = ______,   dy\ndx   at (6, 4) = ________.\n4. For the curve   xy   = 4,   at (2, 2)   ______\ndy\ndx\n      =    \n      ,\nθ   = ____,   tan   θ   = ______.",
+  "discussion": "Same activity can be used to verify\nthe result that the slope of the tangent\nat a point is equal to the value of the\nderivative at that point for other\ncurves.\nN OTE\nThe activity may be repeated\nby taking point (4, 3) on first\nsheet, (0, 4) on second sheet\nand (1, 4) on the third sheet.",
+  "keywords": [
+    "graph"
+  ],
+  "interactiveEngine": "Graph Engine"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cjy4qj",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Take a hollow ball of radius, say,   a   units and cut this ball into two halves",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Take a hollow ball of radius, say,   a   units and cut this ball into two halves",
+  "activityType": "Activity 29",
+  "objective": "To find a formula for the curved surface\narea   of   a   right   circular   cylinder,\nexperimentally.\nColoured chart paper, cellotape,\nruler.",
+  "materials": "",
+  "procedure": "",
+  "observation": "Radius of cone = Height of the cone   = ----------.\nVolume of cone   1\n2\n=   Volume of ---------------.\nVolume of cone   1\n3\n=   Volume of ---------------.\nVolume of cone : Volume of a hemisphere = -------- : ----------\nVolume of cone : Volume of a cylinder = -------- : ----------\nVolume of cone : Volume of hemisphere : Volume of cylinder = -------- :\n---------- : ----------",
+  "discussion": "1. This relationship is useful in obtaining the formula for the volume of a cone\nand that of a hemisphere/sphere from the formula of volume of a cylinder.\n2. This relationship among the volumes can be used in making packages of the\nsame material in containers of different shapes such as cone, hemisphere,\ncylinder.\nMathematics   79",
+  "keywords": [
+    "cone",
+    "cylinder",
+    "cell",
+    "sphere"
+  ],
+  "interactiveEngine": "Cylinder Engine"
+}

@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "What is the theoretical probability of rolling a 4 on a fair 6-sided die?",
+      "options": [
+        "1/6",
+        "1/2",
+        "4/6",
+        "1/4"
+      ],
+      "correctAnswer": "1/6"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "question": "As the number of experiment trials increases indefinitely, experimental probability approaches:",
+      "options": [
+        "Theoretical probability",
+        "Zero",
+        "One",
+        "Random values"
+      ],
+      "correctAnswer": "Theoretical probability"
+    }
+  ]
+}

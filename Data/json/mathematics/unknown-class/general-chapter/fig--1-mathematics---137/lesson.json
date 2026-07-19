@@ -1,0 +1,20 @@
+{
+  "id": "jngu1s",
+  "title": "Fig. 1 Mathematics   137",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 Mathematics   137",
+  "activityType": "Activity 16",
+  "objective": "To find the relationship between areas\nand sides of similar triangles.\nColoured papers, glue, geometry\nbox, scissors/cutters, white paper.",
+  "materials": "",
+  "procedure": "1. Take a coloured paper of size 15 cm × 15 cm.\n2. On a white paper, draw a triangle ABC.\n3. Divide the side AB of   ∆ ABC into some equal parts [say 4 parts].\n4. Through the points of division, draw line segments parallel to BC and through\npoints of division of AC, draw line segments parallel to AB [see Fig. 1].",
+  "observation": "By actual measurement:\nPE = ___________,   PF = ___________,   EQ = ___________,\nFR = ___________\nPE\nEQ   = _______,   PF\nFR   = ___________\nThus,   PE   PF\nEQ   FR\n=   . It verifies the Theorem.",
+  "discussion": "The theorem can be used to establish various criteria of similarity of triangles.\nIt can also be used for constructing a polygon similar to a given polygon with a\ngiven scale factor.\nMathematics   139",
+  "keywords": [
+    "triangle",
+    "polygon"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

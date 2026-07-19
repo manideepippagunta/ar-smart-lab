@@ -1,0 +1,35 @@
+{
+  "title": "Absolute Value",
+  "learningOutcomes": [
+    "Understand absolute value.",
+    "Find distance from zero.",
+    "Calculate absolute value of positive and negative integers."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Learn that distance is always non-negative."
+    }
+  ],
+  "theory": "The absolute value of a number is its distance from zero on the number line. Since distance cannot be negative, absolute value is always positive or zero.",
+  "formulae": [
+    "|x| = x \\text{ (if } x \\ge 0\\text{), } |x| = -x \\text{ (if } x < 0\\text{)}"
+  ],
+  "hints": [
+    "Observe the visual distance bar. Drag the point to negative values to see that absolute value remains positive."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Drag the point to -5.",
+      "validationKey": "val === -5"
+    }
+  ],
+  "keyConcepts": [
+    "Absolute value represents distance.",
+    "Distance is always positive."
+  ],
+  "commonMistakes": [
+    "Writing absolute value of -7 as -7."
+  ]
+}

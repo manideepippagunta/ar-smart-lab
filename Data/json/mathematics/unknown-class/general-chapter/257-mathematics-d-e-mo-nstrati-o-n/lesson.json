@@ -1,0 +1,22 @@
+{
+  "id": "qtcceg",
+  "title": "257 Mathematics d e MO nstrati O n",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - there",
+  "activityTitle": "257 Mathematics d e MO nstrati O n",
+  "activityType": "Activity 79",
+  "objective": "To form a cube and obtain a formula for its surface area",
+  "materials": "Cardboard, ruler, cutter, cellotape, sketch pen/\npencil, white paper, chart paper.",
+  "procedure": "1.   Take a cardboard of convenient size and paste a white paper on it.\n2.   Make a shape involving six identical squares each of side   a   units, using\na thick chart paper as shown in Fig. 1.\n3.   Fold the squares along the dotted markings to form a solid as shown\nin Fig. 2.\nFig. 1",
+  "observation": "On actual measurement:\na   = _________,   b   = ____________.\nDistance between parallel sides =   h   = _________.\nSo, the area of the parallelogram in Fig. 2 = _________.\nThus, the area of the trapezium   =   1\n2   (sum of _________ sides)   ×   _________.",
+  "discussion": "1.   This may be used in finding the area of a field which can be split into\ndifferent trapeziums and right triangles.\n2.   This concept is also used for finding the formula for area of a triangle\nin coordinate geometry which you will study in higher classes.\n258 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "triangle",
+    "cube",
+    "cell",
+    "coordinate"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

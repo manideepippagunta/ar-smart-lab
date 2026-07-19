@@ -1,0 +1,20 @@
+{
+  "id": "992iok",
+  "title": "3. Take a squared paper of size 15 cm × 15 cm and paste it on a coloured chart paper.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "3. Take a squared paper of size 15 cm × 15 cm and paste it on a coloured chart paper.",
+  "activityType": "Activity 29",
+  "objective": "To draw a cumulative frequency curve\n(or an ogive) of more than type.\nColoured chart paper, ruler, squared\npaper, sketch pens, cellotape,\ncutter, adhesive.",
+  "materials": "",
+  "procedure": "1. Collect data on heights of students of your school and make a frequency\ndistribution table as given below :\nHeight   a-b   b-c   c-d   d-e   e-f\nFrequency   f   1   f   2   f   3   f   4   f   5\n2. Form a cumulative frequency table of more than type from the above data as\ngiven below:",
+  "observation": "Intervals :\na-b   = ________,   b-c   = ________,   c-d   = ________,   d-e   = ________,\ne-f   = __________,\nf 1   = __________,   f 2   = __________, f 3   = __________, f 4   = __________,\nf 5   = __________,\nFig. 1\n170   Laboratory Manual\nF 1   = __________,   F 2   = __________,\nF 3   = __________,   F 4   = __________\nCoordinates of A   = ____________________\nCoordinates of B = ____________________\nCoordinates of C = ____________________\nCoordinates of D = ____________________\nCoordinates of E   = ____________________\nFree hand curve obtained by joining the points A, B, C, D and E is\n____________ type _____________",
+  "discussion": "This ogive can be used to find median of the data.\nMathematics   171",
+  "keywords": [
+    "cell",
+    "coordinate"
+  ],
+  "interactiveEngine": "Coordinate Engine"
+}

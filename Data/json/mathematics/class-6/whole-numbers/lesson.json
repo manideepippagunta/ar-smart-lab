@@ -1,0 +1,34 @@
+{
+  "title": "Whole Numbers",
+  "learningOutcomes": [
+    "Understand whole numbers.",
+    "Differentiate between natural and whole numbers.",
+    "Identify zero as a whole number."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Learn that whole numbers start from 0."
+    }
+  ],
+  "theory": "Whole numbers are all natural numbers plus zero. They do not include any fractions, decimals, or negative numbers.",
+  "formulae": [
+    "\\mathbb{W} = \\{0, 1, 2, 3, \\dots\\}"
+  ],
+  "hints": [
+    "Move the pointer to zero to verify it is a whole number."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Set the point to 0.",
+      "validationKey": "val === 0"
+    }
+  ],
+  "keyConcepts": [
+    "Whole numbers are non-negative integers."
+  ],
+  "commonMistakes": [
+    "Thinking negative numbers are whole numbers."
+  ]
+}

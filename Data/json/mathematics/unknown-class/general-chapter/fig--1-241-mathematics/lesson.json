@@ -1,0 +1,19 @@
+{
+  "id": "thpnmd",
+  "title": "Fig. 1 241 Mathematics",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 241 Mathematics",
+  "activityType": "Activity 73",
+  "objective": "To verify that sum of exterior angles of a triangle and quadrilateral\ntaken in order is 360 °   or four right angles",
+  "materials": "Cardboard, white drawing sheet, colours, pencil,\nruler, scissors, tracing paper.",
+  "procedure": "(A)   Triangle\n1.   Take a cardboard of convenient size and\npaste a coloured glaze paper on it.\n2.   Draw a triangle ABC on a drawing sheet\nand produce its sides in an order as shown\nin Fig.1.\n3.   Name the exterior angles as 1, 2 and 3\nand colour them as shown above in Fig.1.\n4.   Make a trace copy of the above figure and\ncolour the exterior angles with the same\ncolours as in Fig. 1.\n5.   Cut out the exterior angles neatly.\n(B)   Quadrilateral\n1.   Draw a quadrilateral ABCD on a drawing\nsheet and produce its sides in an order\nas shown in Fig. 2.",
+  "observation": "On actual measurement:\nAngle   Measure\n∠ A   ____\n∠ B   ____\n∠ C   ____\n∠ D   ____\n∠ A +   ∠ B +   ∠ C   +   ∠ D   ____",
+  "discussion": "This activity can be used in solving many geometrical problems.\n242 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

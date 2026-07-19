@@ -1,0 +1,19 @@
+{
+  "id": "sf6o7",
+  "title": "148   Laboratory Manual R 1   : 16 cm × 8 cm,   R 2   : 15 cm × 9 cm",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "148   Laboratory Manual R 1   : 16 cm × 8 cm,   R 2   : 15 cm × 9 cm",
+  "activityType": "Activity 18",
+  "objective": "To   evaluate   the   definite   integral\n2\n(1   )\nb\na   x − ∫   dx   as the limit of a sum and\nverify it by actual integration.\nCardboard, white paper, scale,\npencil, graph paper",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. Perimeter of each rectangle R 1 , R 2 , R 3 , R 4 , R 4 , R 6 , R 7   is _________.\n2. Area of the rectangle R 3   ________ than the area of rectangle R 5 .\nMathematics   149\n3. Area of the rectangle R 6   _______ than the area of rectangle R 5 .\n4. The rectangle R 5   has the diamensions ______ × ______ and hence it is a\n________.\n5. Of all the rectangles with same perimeter, the ________ has the maximum\narea.",
+  "discussion": "This activity is useful in explaining the idea\nof Maximum of a function. The result is also\nuseful in preparing economical packages.\nLet the length and breadth of rectangle be   x   and   y .\nThe perimeter of the rectangle P = 48 cm.\n2 ( x   +   y ) = 48\nor   24   or   24 – x   y   y   x +   =   =\nLet A ( x ) be the area of rectangle, then\nA ( x ) =   xy\n=   x   (24 –   x )\n= 24 x   –   x 2\nA ′   ( x ) = 24 – 2 x\nA ′   ( x ) =   ⇒   24 – 2 x   = 0   ⇒   x   = 12\nA ′′   ( x ) = – 2\nA ′′   (12) = – 2, which is negative\nTherefore, area is maximum when   x   = 12\ny   =   x   = 24 – 12 = 12\nSo,   x   =   y   = 12\nHence, amongst all rectangles, the square has the maximum area.\nN OTE",
+  "keywords": [
+    "graph"
+  ],
+  "interactiveEngine": "Graph Engine"
+}

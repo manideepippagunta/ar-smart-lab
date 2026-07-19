@@ -1,0 +1,7 @@
+{
+  "formulae": [
+    "n_1 \\sin(i) = n_2 \\sin(r)",
+    "r = \\arcsin\\left(\\frac{\\sin i}{n_2}\\right)",
+    "P = \\frac{100}{f_{\\text{cm}}}"
+  ]
+}

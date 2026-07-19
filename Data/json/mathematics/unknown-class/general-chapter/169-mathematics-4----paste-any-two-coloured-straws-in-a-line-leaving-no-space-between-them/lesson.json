@@ -1,0 +1,21 @@
+{
+  "id": "sznhyl",
+  "title": "169 Mathematics 4.   Paste any two coloured straws in a line leaving no space between them",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - cardboard as shown in Fig",
+  "activityTitle": "169 Mathematics 4.   Paste any two coloured straws in a line leaving no space between them",
+  "activityType": "Activity 44",
+  "objective": "To find the ratio of circumference and diameter of a circle",
+  "materials": "Geometry box, thick paper, scissors, eraser, pen/\npencil.",
+  "procedure": "1.   Draw a circle on a thick paper and cut it out.\n2.   Fold it into two halves and obtain a crease.   Name the line of folding\nas AB [Fig. 1].\nFig. 1\n3.   Draw a ray on a paper and mark its initial point as P [Fig. 2].\nFig. 2\n4.   Hold the circular disc such that point A on the circle coincides with\nthe point P on the ray [Fig. 3].",
+  "observation": "∠ ADC   =   _____.\n∠ BEC   =   _____.\n∠ CFA   =   _____.\nAD is the altitude to side _____.\nBE is the _____ of side AC.\n_____ is the altitude of side AB.\nAll the altitudes of a triangle meet at a _____.",
+  "discussion": "This activity can be used to explain the concept of altitude of a triangle and\nin solving many problems related to geometry and mensuration.\n176 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "triangle",
+    "circle",
+    "mensuration"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

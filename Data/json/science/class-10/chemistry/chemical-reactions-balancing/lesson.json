@@ -1,0 +1,66 @@
+{
+  "id": "class-10-chemistry-chemical-reactions-balancing",
+  "title": "Chemical Reactions and Balancing Equations",
+  "subject": "Science",
+  "classLevel": "Class 10",
+  "chapter": "Chapter 1 - Chemical Reactions and Equations",
+  "engine": "Chemistry Engine",
+  "engineConfig": {
+    "topic": "balancing",
+    "initialParams": {
+      "coefA": 2,
+      "coefB": 1,
+      "coefC": 2
+    }
+  },
+  "learningOutcomes": [
+    "Apply the Law of Conservation of Mass to balance chemical equations.",
+    "Balance synthesis reactions: $2\\text{H}_2 + \\text{O}_2 \\rightarrow 2\\text{H}_2\\text{O}$.",
+    "Observe real-time reactant vs product atom count tally meters."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Set coefficient $a=2, b=1, c=2$ to balance $2\\text{H}_2 + \\text{O}_2 \\rightarrow 2\\text{H}_2\\text{O}$."
+    },
+    {
+      "id": "obj2",
+      "text": "Verify that Hydrogen (4 atoms) and Oxygen (2 atoms) match on both sides."
+    }
+  ],
+  "theory": "A chemical equation must have an equal number of atoms of each element on both sides to satisfy the Law of Conservation of Mass.",
+  "formulae": [
+    "\\sum \\text{Reactant Atoms} = \\sum \\text{Product Atoms}",
+    "2\\text{H}_2 + \\text{O}_2 \\longrightarrow 2\\text{H}_2\\text{O}"
+  ],
+  "hints": [
+    "Use the coefficient stepper buttons (+) and (-) to adjust stoichiometric multipliers.",
+    "Watch the status badge turn GREEN when the equation is balanced."
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "instruction": "Balance the chemical equation $2\\text{H}_2 + \\text{O}_2 \\rightarrow 2\\text{H}_2\\text{O}$.",
+      "validationKey": "balance_equation"
+    }
+  ],
+  "observationPrompts": [
+    "Why can coefficients be changed when balancing an equation, but subscripts in chemical formulas cannot?"
+  ],
+  "realWorldExamples": [
+    {
+      "title": "Industrial Hydrogen Combustion",
+      "description": "Rocket propulsion uses stoichiometric hydrogen-oxygen combustion ($2\\text{H}_2 + \\text{O}_2 \\rightarrow 2\\text{H}_2\\text{O}$) for maximum thrust."
+    }
+  ],
+  "keyConcepts": [
+    "Balancing Equations",
+    "Conservation of Mass",
+    "Stoichiometry",
+    "Reactants",
+    "Products"
+  ],
+  "commonMistakes": [
+    "Changing chemical subscripts (e.g. turning H₂O into H₂O₂) instead of modifying coefficients."
+  ]
+}

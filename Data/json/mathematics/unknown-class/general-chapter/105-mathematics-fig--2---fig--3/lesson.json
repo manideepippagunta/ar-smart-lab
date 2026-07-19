@@ -1,0 +1,19 @@
+{
+  "id": "gqlbq",
+  "title": "105 Mathematics Fig. 2   Fig. 3",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "105 Mathematics Fig. 2   Fig. 3",
+  "activityType": "Activity 18",
+  "objective": "To represent a decimal number using a grid paper",
+  "materials": "3 cardboards, 3 white chart papers, ruler, pencil,\neraser, adhesive, three sketch pens of different\ncolours (say Blue, Green and Red).",
+  "procedure": "1.   Take 3 cardboards of convenient size and paste a white paper on each\none of them.\n2.   Make three 10   ×   10 grids on them and label the corners of the grids\nas A, B, C and D as shown in Fig. 1.\n3.   Take one of the grids and shade 6 horizontal strips out of 10 strips by\nusing red sketch pen starting from the bottom as shown in Fig. 2.",
+  "observation": "Complete the following table:\nNumber of sticks\nused\nShape formed   Change shape after\npushing at a vertex\n3\n4\n5\n6\n7\n8\nTriangle\nQuadrilateral\nPentagon\nHexagon\nSeptagon\nOctagon\nNo\n––\n––\n––\n––\n––",
+  "discussion": "This property of rigidity of triangles is used in day to day life in the\nconstruction of bridges, ropes, ladders, furniture etc.\n106 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

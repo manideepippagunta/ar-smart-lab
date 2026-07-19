@@ -1,0 +1,19 @@
+{
+  "id": "gt94hl",
+  "title": "Fig. 2 Fig. 3",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 2 Fig. 3",
+  "activityType": "Activity 13",
+  "objective": "To establish the fact that triangle is the most rigid figure",
+  "materials": "Cycle spokes/wooden sticks/tooth picks etc.,\nvalve tube pieces, nut bolts, thick thread, cutter.",
+  "procedure": "1.   Take a sufficient number of wooden sticks about 10 cm in length.\n2.   Cut valve tube into several pieces each of length, say, 3 cm.\n3.   Join the sticks with the help of valve tube pieces to make different\nshapes   such   as   a   triangle,   quadrilateral,   pentagon   and   hexagon   [Fig.1].\nFig. 1",
+  "observation": "1.   Press any vertex or any side of the hexagon made of sticks.\nDoes it change its shape? Yes (Fig. 2).",
+  "discussion": "This activity may be used to explain the concept of area of various\ngeometrical   shapes.\n104 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

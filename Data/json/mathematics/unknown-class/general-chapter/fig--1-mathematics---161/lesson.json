@@ -1,0 +1,19 @@
+{
+  "id": "x326h8",
+  "title": "Fig. 1 Mathematics   161",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 Mathematics   161",
+  "activityType": "Activity 25",
+  "objective": "To obtain formula for area of a circle\nexperimentally.\nThreads   of   different   colours,\nscissors, cardboard, thick sheet of\npaper, adhesive, ruler.",
+  "materials": "",
+  "procedure": "1. Draw a circle of radius say   r   units on a thick sheet of paper, cut it out and\npaste it on the cardboard.\n2. Cut the coloured threads of different sizes in pairs.\n3. Fill up the circle by pasting one set of coloured threads of different sizes in\nconcentric pattern so that there is no gap left in between the threads as\nshown in Fig. 1.\n4. Arrange the other set of coloured threads starting from smallest to the largest\nin the pattern shown in Fig. 2. Last thread will be of same colour and same\nlength as that of the outermost thread of the circle as shown in Fig. 2.",
+  "observation": "S.No.\nAngle measured\nthrough\nprotractor\n(Angle of\nelevation ) ) ) ) )   θ θ θ θ θ\nHeight of the\nprotractor from\nground ( h )\nDistance ( d ) of\nthe building\nfrom\nthe centre of\nthe protractor\ntan   θ θ θ θ θ   H =   h + d\ntan   θ θ θ θ θ\n1.   ----   ---   ---   ---   ---\n2.   ----   ---   ---   ---   ---\n3.   ----   ---   ---   ---   ---\n...   ----   ---   ---   ---   ---\n...   ----   ---   ---   ---   ---\n...",
+  "discussion": "1. A clinometer can be used in measuring an angle of elevation and an angle of\ndepression.\n2. It can be used in measuring the heights of distant (inaccessible) objects,\nwhere it is difficult to measure the height directly.\n162   Laboratory Manual",
+  "keywords": [
+    "circle"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

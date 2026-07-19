@@ -1,0 +1,7 @@
+{
+  "formulae": [
+    "\\bar{x} = \\frac{\\sum x_i}{n}",
+    "M = x_{\\frac{n+1}{2}}",
+    "R = x_{\\max} - x_{\\min}"
+  ]
+}

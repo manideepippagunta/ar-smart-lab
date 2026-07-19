@@ -1,0 +1,19 @@
+{
+  "id": "y0bb95",
+  "title": "Fig. 1 154   Laboratory Manual",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 154   Laboratory Manual",
+  "activityType": "Activity 22",
+  "objective": "To find the number of tangents from a\npoint to a circle.\nCardboard, geometry box, cutter,\ndifferent coloured sheets, adhesive.",
+  "materials": "",
+  "procedure": "1. Take a cardboard of a suitable size and paste a coloured sheet on it.\n2. Draw a circle of suitable radius on a coloured sheet and cut it out [see Fig. 1].",
+  "observation": "By actual measurement:\nOP = .............., OQ =.............., OR = ..............\nOP 1   = .............., OP 2   =..............\nOP < OP 1 , OP ........... OP 2\nTherefore, OP ..... BC\nThus, the tangent is .............. to the radius through the point of contact.",
+  "discussion": "This result can be used in proving various other results of geometry.\nMathematics   155",
+  "keywords": [
+    "circle"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

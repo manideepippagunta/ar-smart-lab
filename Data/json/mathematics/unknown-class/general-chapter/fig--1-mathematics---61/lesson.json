@@ -1,0 +1,21 @@
+{
+  "id": "fotk1i",
+  "title": "Fig. 1 Mathematics   61",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 Mathematics   61",
+  "activityType": "Activity 21",
+  "objective": "To verify that the angle subtended by an\narc of a circle at the centre is double the\nangle subtended by it at any point on the\nremaining part of the circle.\nCardboard,   coloured   drawing\nsheets,   scissors,   sketch   pens,\nadhesive, geometry box, transparent\nsheet.",
+  "materials": "",
+  "procedure": "1. Take a rectangular cardboard of a\nconvenient size and paste a white paper\non it.\n2. Cut out a circle of suitable radius on a\ncoloured drawing sheet and paste on the\ncardboard.\n3. Take two points B and C on the circle to\nobtain the arc BC [see Fig. 1].\n4. Join the points B and C to the centre O to\nobtain an angle subtended by the arc BC\nat the centre O.\n5. Take any point A on the remaining part of\nthe circle. Join it to B and C to get   ∠ BAC\nsubtended by the arc BC on any point A\non the remaining part of the circle\n[see Fig. 1].\n6. Make a cut-out of   ∠ BOC and two cut-\nouts of angle BAC, using transparent sheet\n[see Fig. 2].",
+  "observation": "1. The number of squares in triangle PAB =...............\n2. The number of squares in parallelogram ABCD =............... .\nSo, the area of parallelogram ABCD = 2 [Area of triangle PAB]\nThus, area of parallelogram ABCD : area of DPAB = ........ : ...........\nFig. 2\n62   Laboratory Manual\nN OTE\nYou may take different triangles\nPAB by taking different positions\nof point P and the two parallel\nstrips as shown in Fig. 2.",
+  "discussion": "This activity is useful in deriving formula\nfor the area of a triangle and also in solving\nproblems on mensuration.\nOne should study Mathematics because it is only through\nMathematics that nature can be conceived in hormonious\nform.\n– Birkhoff\nMathematics   63",
+  "keywords": [
+    "triangle",
+    "circle",
+    "mensuration"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

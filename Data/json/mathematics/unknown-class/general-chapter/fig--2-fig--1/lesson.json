@@ -1,0 +1,20 @@
+{
+  "id": "df13j",
+  "title": "Fig. 2 Fig. 1",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 2 Fig. 1",
+  "activityType": "Activity 74",
+  "objective": "",
+  "materials": "",
+  "procedure": "",
+  "observation": "On actual measurement:\n(A)   Triangle\nAngle   Measure\n∠ 1   ___\n∠ 2   ___\n∠ 3   ___\n∠ 1 +   ∠ 2 +   ∠ 3   =   ___.\nFig. 3\nFig. 4\n244 Laboratory Manual – Elementary Stage\n(B)   Quadrilateral\nAngle   Measure\n∠ 1   ___\n∠ 2   ___\n∠ 3   ___\n∠ 4   ___\n∠ 1 +   ∠ 2 +   ∠ 3 +   ∠ 4 =   ___.",
+  "discussion": "This activity can be used to find the sum of exterior angles produced in\norder, of a   pentagon, a hexagon or in general any polygon.",
+  "keywords": [
+    "triangle",
+    "polygon"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

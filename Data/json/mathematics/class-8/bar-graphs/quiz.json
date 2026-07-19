@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "What does the height of a bar represent?",
+      "options": [
+        "Frequency / Value",
+        "Width of group",
+        "Color key",
+        "Label index"
+      ],
+      "correctAnswer": "Frequency / Value"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hnl03",
+  "title": "3. Cut-out the two triangles and paste them on a chart paper in such a way that the bases of the two triangles make a straight line as shown in Fig. 3. Name",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "3. Cut-out the two triangles and paste them on a chart paper in such a way that the bases of the two triangles make a straight line as shown in Fig. 3. Name",
+  "activityType": "Activity 20",
+  "objective": "",
+  "materials": "",
+  "procedure": "",
+  "observation": "By actual measurement:\nAP = _______,   AD = _______,   DP = _______,\nBP   = _______,   BC   = _______,   PC   = _______,\nAD 2   + AP 2   = _______, DP 2   = _______,\nBP 2   + BC 2   = _______, PC 2   = _______,\nThus,   a 2   +   b 2   = _______",
+  "discussion": "Whenever two, out of the three sides, of a right triangle are given, the third side\ncan be found out by using Pythagoras theorem.",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

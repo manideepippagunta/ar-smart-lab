@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "What is the median of the dataset [3, 7, 9, 12, 15]?",
+      "options": [
+        "7",
+        "9",
+        "12",
+        "9.2"
+      ],
+      "correctAnswer": "9"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "question": "Which measure of central tendency is most affected by extreme values (outliers)?",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Range"
+      ],
+      "correctAnswer": "Mean"
+    }
+  ]
+}

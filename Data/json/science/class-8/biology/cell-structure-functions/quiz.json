@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "Which organelle is known as the \"Powerhouse of the Cell\"?",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Golgi Apparatus"
+      ],
+      "correctAnswer": "Mitochondria"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "question": "Which of the following structures is present in plant cells but absent in animal cells?",
+      "options": [
+        "Cell Wall",
+        "Mitochondria",
+        "Nucleus",
+        "Cell Membrane"
+      ],
+      "correctAnswer": "Cell Wall"
+    }
+  ]
+}

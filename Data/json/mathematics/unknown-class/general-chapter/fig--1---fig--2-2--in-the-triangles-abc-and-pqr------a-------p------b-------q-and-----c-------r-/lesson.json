@@ -1,0 +1,19 @@
+{
+  "id": "e6nfl",
+  "title": "Fig. 1   Fig. 2 2. In the triangles ABC and PQR,   ∠ A =   ∠ P;   ∠ B =   ∠ Q and   ∠ C =   ∠ R.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2 2. In the triangles ABC and PQR,   ∠ A =   ∠ P;   ∠ B =   ∠ Q and   ∠ C =   ∠ R.",
+  "activityType": "Activity 13",
+  "objective": "To draw a system of similar squares,\nusing two intersecting strips with nails.\nTwo wooden strips (each of size\n1 cm wide and 30 cm long),\nadhesive, hammer, nails.",
+  "materials": "",
+  "procedure": "1. Take two wooden strips say AB and CD.\n2. Join both the strips intersecting each other at right angles at the point O\n[see Fig. 1].\n3. Fix five nails at equal distances on each of the strips (on both sides of O)\nand name them, say A 1 , A 2 , ......., A 5 , B 1 , B 2 , ......., B 5 , C 1 , C 2 , ......., C 5   and\nD 1 , D 2 , ......., D 5   [see Fig. 2].",
+  "observation": "By actual measurement:\nI. In   ∆ ABC and   ∆ PQR,\n∠ A = ______,   ∠ P = ______,   ∠ B = ______,   ∠ Q = ______,   ∠ C = ______,\n∠ R = ______,\nAB\nPQ   = _______;   BC\nQR   = _________;   AC\nPR   = _________\nIf corresponding angles of two triangles are _________, the sides are\n________. Hence the triangles are _________.\nII. In   ∆ ABC and   ∆ PQR\nAB\nPQ   = _______;   BC\nQR   = _________;   AC\nPR   = _________\n∠ A = _______,   ∠ B = _______,   ∠ C = _______,   ∠ P = _______,\n∠ Q = _______,   ∠ R = _______.\nIf the corresponding sides of two triangles are ______, then their\ncorresponding angles are ________. Hence, the triangles are ________.\nMathematics   129\nIII. In   ∆ ABC and   ∆ PQR ,\nAB\nPQ   = _______;   AC\nPR   = _________\n∠ A = _______,   ∠ P = _______,   ∠ B = _______,   ∠ Q = _______,\n∠ C = _______,   ∠ R = _______.\nIf two sides of one triangle are ______ to the two sides of other triangle\nand angles included between them are _______, then the triangles are\n_______.",
+  "discussion": "The concept of similarity is useful in reducing or enlarging images or pictures\nof objects.\n130   Laboratory Manual",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mvgva",
+  "title": "A B",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - the other end to move freely along the circle",
+  "activityTitle": "A B",
+  "activityType": "Activity 5",
+  "objective": "To distinguish between a Relation\nand a Function.\nDrawing board, coloured drawing\nsheets, scissors, adhesive, strings,\nnails etc.",
+  "materials": "",
+  "procedure": "1. Take a drawing board/a piece of plywood of convenient size and paste a\ncoloured sheet on it.\n2. Take a white drawing sheet and cut out a rectangular strip of size\n6 cm × 4 cm and paste it on the left side of the drawing board (see Fig. 6.1).\n1\n2\na\nb\nc\nFig. 6.1   Fig. 6.2\na\nb\nc\n1\n2\na\nb\nc\n1\n2\na\nb\nc\nFig. 6.3   Fig. 6.4",
+  "observation": "1. In Fig.5, ordered pairs are _________.\n2. These ordered pairs constitute a _______.\n3. The ordered pairs (A, P), (B, R), (C, Q), (E, Q), (D, T), (G, T), (F, U), (H, U)\nconstitute a relation which is also a _____.\n4. The ordered pairs (B, R), (C, Q), (D, T), (E, S), (E, Q) constitute a _____\nwhich is not a _____.",
+  "discussion": "The activity can be used to explain the concept of a relation or a function. It can\nalso be used to explain the concept of one-one, onto functions.",
+  "keywords": [
+    "circle"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

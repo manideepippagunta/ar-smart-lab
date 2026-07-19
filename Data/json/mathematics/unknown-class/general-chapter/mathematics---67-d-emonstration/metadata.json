@@ -1,0 +1,11 @@
+{
+  "estimatedDuration": 165,
+  "requiredEngine": "Cone Engine",
+  "requires3D": true,
+  "requiresGraph": true,
+  "requiresAnimation": true,
+  "requiresAudio": true,
+  "requiresQuiz": true,
+  "requiresFormula": true,
+  "requiresAR": true
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Data Handling: Bar Graphs",
+  "engine": "Graph Engine",
+  "engineConfig": {
+    "mode": "statistics",
+    "chartType": "bar",
+    "initialChartData": [
+      {
+        "label": "Q1",
+        "value": 20
+      },
+      {
+        "label": "Q2",
+        "value": 50
+      },
+      {
+        "label": "Q3",
+        "value": 80
+      }
+    ]
+  },
+  "learningOutcomes": [
+    "Master the core principles of Data Handling: Bar Graphs.",
+    "Learn substitution and calculations step-by-step."
+  ],
+  "materials": [
+    "Digital Coordinates Toolkit",
+    "CBSE Geometry Workspace"
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Increase any category value to 80% or more."
+    }
+  ],
+  "theory": "A bar graph is a pictorial representation of data using rectangular bars of uniform widths. The heights of the bars are proportional to the values they represent.",
+  "formulae": [
+    "d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}",
+    "M = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  ],
+  "hints": [
+    "Explore the values using drag-and-drop."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Increase any category value to 80% or more.",
+      "validationKey": "chart_max_value_80"
+    }
+  ],
+  "observationPrompts": [
+    "How did coordinates react during drag movements?",
+    "Explain slope trends."
+  ],
+  "realWorldExamples": [
+    {
+      "title": "GPS Tracking",
+      "description": "Coordinate analysis maps points globally."
+    }
+  ],
+  "practiceExercises": [],
+  "keyConcepts": [
+    "Linear graphing",
+    "Data Handling: Bar Graphs applications"
+  ],
+  "commonMistakes": [
+    "Sign computation errors"
+  ]
+}

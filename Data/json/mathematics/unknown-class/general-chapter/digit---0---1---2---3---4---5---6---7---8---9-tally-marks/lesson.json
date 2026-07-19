@@ -1,0 +1,19 @@
+{
+  "id": "ldya6d",
+  "title": "Digit   0   1   2   3   4   5   6   7   8   9 Tally marks",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Digit   0   1   2   3   4   5   6   7   8   9 Tally marks",
+  "activityType": "Activity 33",
+  "objective": "To find experimental probability of each\noutcome of a die when it is thrown a large\nnumber of times.\nDie, note book, pen.",
+  "materials": "",
+  "procedure": "",
+  "observation": "Total number of telephone numbers on a page (N) = .......................... .\nNumber of times 0 occurring at unit’s place ( n 0 ) = ........................ .\nNumber of times 1 occurring at unit’s place ( n 1 ) = ........................ .\nNumber of times 2 occurring at unit’s place ( n 2 ) = ........................ .\n---------------------3 -------------------------- ( n 3 ) = ......................... .\n--------------------- 4   ------------------------ ( n 4 ) = .........................\nNumber of times 9 occurring at unit’s place ( n 9 )= ........................\nTherefore, experimental probability of occurence of 0   ( )   0\nP 0   N\nn\n=   =   = .............,\nExperimental probability of occurence of   1   ( )   1\nP 1   N\nn\n=   =   = ............. .\n( )   2\nP 2   N\nn\n=   = ............., ...,\n( )   9\nP 9   N\nn\n=   = ............. .\n.\n.\n.\n90   Laboratory Manual",
+  "discussion": "Concept of experimental probability is used for deciding premium tables by\ninsurance companies, by metreological department to forecast weather, for\nforecasting the performance of a company in stock market.\nThe mathematics experience of the students is incomplete\nif he never had the opportunity to solve a problem invented\nby himself.\n– G. Polya\nMathematics   91",
+  "keywords": [
+    "probability"
+  ],
+  "interactiveEngine": "Probability Engine"
+}

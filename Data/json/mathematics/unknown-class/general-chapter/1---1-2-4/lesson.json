@@ -1,0 +1,20 @@
+{
+  "id": "e7og2r",
+  "title": "1   1 2 4",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "1   1 2 4",
+  "activityType": "Activity 15",
+  "objective": "To construct an open box of maximum\nvolume from a given rectangular sheet\nby cutting equal squares from each\ncorner.\nChart papers, scissors, cellotape,\ncalculator.",
+  "materials": "",
+  "procedure": "1. Take a rectangular chart paper of size 20 cm × 10 cm and name it as ABCD.\n2. Cut four equal squares each of side   x   cm from each corner A, B, C and D.\n3. Repeat the process by taking the same size of chart papers and different\nvalues of   x .\n4. Make an open box by folding its flaps using cellotape/adhesive.",
+  "observation": "1. The absolute maximum value of   f   ( x ) is ________ at   x   = ________.\n2. Absolute minimum value of   f   ( x ) is ________ at   x   = _________.",
+  "discussion": "The activity is useful in explaining the concepts of absolute maximum / minimum\nvalue of a function graphically.\nMathematics   139\nN OTE\nConsider   f   ( x ) = (4 x 2   – 9) ( x 2   – 1)\nf   ( x ) = 0 gives the values of   x   as   3  and   1\n2\n±   ±   . Both these values of   x   lie in the\ngiven closed interval [–2, 2].\nf   ′   ( x ) = (4 x 2   – 9) 2 x   + 8 x   ( x 2   – 1) = 16 x 3   – 26 x   = 2 x   (8 x 2   – 13)\nf   ′   ( x ) = 0 gives   13\n0,   1.27\n8\nx   x =   = ±   = ±   . These two values of   x   lie in [–2, 2].\nThe function has local maxima/minima at   x   = 0 and   x   =   ±   1.27, respectively.",
+  "keywords": [
+    "graph",
+    "cell"
+  ],
+  "interactiveEngine": "Graph Engine"
+}

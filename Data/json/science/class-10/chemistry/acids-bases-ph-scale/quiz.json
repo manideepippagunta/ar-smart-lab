@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "What is the pH of a neutral aqueous solution like pure water at 25°C?",
+      "options": [
+        "7.0",
+        "0.0",
+        "14.0",
+        "1.0"
+      ],
+      "correctAnswer": "7.0"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "question": "A solution turns Universal Indicator paper RED. It is:",
+      "options": [
+        "Strongly Acidic",
+        "Strongly Basic",
+        "Neutral",
+        "Weakly Alkaline"
+      ],
+      "correctAnswer": "Strongly Acidic"
+    }
+  ]
+}

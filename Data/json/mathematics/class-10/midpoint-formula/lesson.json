@@ -1,0 +1,68 @@
+{
+  "title": "Segment Section: Midpoint Formula",
+  "engine": "Graph Engine",
+  "engineConfig": {
+    "mode": "coordinate",
+    "initialPoints": [
+      {
+        "id": "p1",
+        "x": -2,
+        "y": -2,
+        "label": "A"
+      },
+      {
+        "id": "p2",
+        "x": 2,
+        "y": 2,
+        "label": "B"
+      }
+    ]
+  },
+  "learningOutcomes": [
+    "Master the core principles of Segment Section: Midpoint Formula.",
+    "Learn substitution and calculations step-by-step."
+  ],
+  "materials": [
+    "Digital Coordinates Toolkit",
+    "CBSE Geometry Workspace"
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Move the points so the distance between them is exactly 5 units."
+    }
+  ],
+  "theory": "The midpoint formula averages the x and y coordinates: M = ((x1+x2)/2, (y1+y2)/2). The midpoint bisects the segment into two equal lengths.",
+  "formulae": [
+    "d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}",
+    "M = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  ],
+  "hints": [
+    "Explore the values using drag-and-drop."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Move the points so the distance between them is exactly 5 units.",
+      "validationKey": "distance_is_5"
+    }
+  ],
+  "observationPrompts": [
+    "How did coordinates react during drag movements?",
+    "Explain slope trends."
+  ],
+  "realWorldExamples": [
+    {
+      "title": "GPS Tracking",
+      "description": "Coordinate analysis maps points globally."
+    }
+  ],
+  "practiceExercises": [],
+  "keyConcepts": [
+    "Linear graphing",
+    "Segment Section: Midpoint Formula applications"
+  ],
+  "commonMistakes": [
+    "Sign computation errors"
+  ]
+}

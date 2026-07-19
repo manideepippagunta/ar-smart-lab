@@ -1,0 +1,20 @@
+{
+  "id": "ku7n9h",
+  "title": "267 Mathematics 2.   Length of the rectangular paper =   l   = circumference of the base of the",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - there",
+  "activityTitle": "267 Mathematics 2.   Length of the rectangular paper =   l   = circumference of the base of the",
+  "activityType": "Activity 84",
+  "objective": "To verify that the opposite sides of a parallelogram are equal",
+  "materials": "Cardboard, white sheet of paper, adhesive, scissors,\nred sketch pen.",
+  "procedure": "1.   Take a cardboard of convenient size and\npaste a white paper on it.\n2.   Draw two identical parallelograms on a\nwhite sheet of paper. Name them as ABCD.\nJoin AC in both the parallelograms. Cut\nout both the parallelograms.\n3.   Paste one of the parallelograms on the cardboard (Fig. 1).\n4.   Cut the other parallelogram ABCD along the diagonal AC as shown in\nFig. 2 to get two triangles ABC and ACD.\n5.   Superpose and paste the triangle CDA on the triangle ABC as shown\nin Fig. 3.\nFig. 2   Fig. 3",
+  "observation": "On actual measurement :\nl   =   ,   b   =   ,\nSo,   2 π r   =   l   =   ,   h   =   b   =   ,\nArea of the rectangular paper =   l   ×   b   =   .\nTherefore, the curved surface area of the cylinder = 2 π rh.",
+  "discussion": "This result can be used in finding the material used in making cylindrical\ncontainers, i.e., powder tins, drums, oil tanks used in industrial units,\noverhead water tanks etc.\n268 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "triangle",
+    "cylinder"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

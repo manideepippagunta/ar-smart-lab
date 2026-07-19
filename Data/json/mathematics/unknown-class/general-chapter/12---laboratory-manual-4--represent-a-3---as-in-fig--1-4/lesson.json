@@ -1,0 +1,19 @@
+{
+  "id": "j79np8",
+  "title": "12   Laboratory Manual 4. Represent A 3   as in Fig. 1.4",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - the other end to move freely along the circle",
+  "activityTitle": "12   Laboratory Manual 4. Represent A 3   as in Fig. 1.4",
+  "activityType": "Activity 1",
+  "objective": "To verify that for two sets A and B,\nn   (A×B) =   pq   and the total number of\nrelations from A to B is 2 pq , where\nn (A) =   p   and   n (B) =   q .\nPaper, different coloured pencils.",
+  "materials": "",
+  "procedure": "1. Take a set A 1   which has one element (say)   a 1 , and take another set B 1 , which\nhas one element (say)   b 1 .\n2. Take a set A 2   which has two elements (say)   a 1   and   a 2   and take another set B 3 ,\nwhich has three elements (say)   b 1   ,   b 2   and   b 3 .\n3. Take a set A 3   which has three elements (say)   a 1 ,   a 2   and   a 3 , and take another\nset B 4 , which has four elements (say)   b 1   ,   b 2   ,   b 3   and   b 4 .",
+  "observation": "1. Represent all the possible correspondences of the elements of set A 1   to the\nelements of set B 1   visually as shown in Fig. 2.1.",
+  "discussion": "The activity can be used for calculating the number of subsets of a given set.",
+  "keywords": [
+    "circle"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

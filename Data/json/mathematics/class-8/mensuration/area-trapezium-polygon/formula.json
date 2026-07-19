@@ -1,0 +1,7 @@
+{
+  "formulae": [
+    "A_{\\text{trapezium}} = \\frac{1}{2}(a + b)h",
+    "A_{\\text{rhombus}} = \\frac{1}{2} d_1 d_2",
+    "P_{\\text{rectangle}} = 2(l + b)"
+  ]
+}

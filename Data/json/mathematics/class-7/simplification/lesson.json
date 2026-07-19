@@ -1,0 +1,39 @@
+{
+  "title": "Simplifying Expressions",
+  "learningOutcomes": [
+    "Collect like terms.",
+    "Simplify algebraic expressions."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Combine like tiles and simplify."
+    }
+  ],
+  "theory": "Simplification means collecting like terms. Terms are 'like' if they have the same variable and power. For example, 3x + 2x = 5x, but 3x + 2 cannot be simplified further.",
+  "formulae": [
+    "3x + 2x = 5x",
+    "3x + 2 \\text{ (cannot simplify)}"
+  ],
+  "hints": [
+    "Match tiles of the same color — those are like terms."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Simplify 3x + 2 + x using the workspace.",
+      "validationKey": "any"
+    }
+  ],
+  "keyConcepts": [
+    "Like terms have the same variable and power.",
+    "Only like terms can be added."
+  ],
+  "commonMistakes": [
+    "Adding 3x + 4 to get 7x — this is incorrect!"
+  ],
+  "engineConfig": {
+    "mode": "simplify",
+    "expression": "3x + 2 + x"
+  }
+}

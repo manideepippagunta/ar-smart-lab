@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "When light passes from air into a glass slab, it bends:",
+      "options": [
+        "Towards the normal",
+        "Away from the normal",
+        "Without any deviation",
+        "Reflects back 180°"
+      ],
+      "correctAnswer": "Towards the normal"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "question": "What is the power of a convex lens with a focal length of 20 cm?",
+      "options": [
+        "+5 D",
+        "+0.05 D",
+        "+20 D",
+        "+2 D"
+      ],
+      "correctAnswer": "+5 D"
+    }
+  ]
+}

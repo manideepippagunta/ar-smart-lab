@@ -1,0 +1,21 @@
+{
+  "id": "y31p04",
+  "title": "263 Mathematics 5.   Now cut the cuboid into two equal pieces along its height as shown in",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - there",
+  "activityTitle": "263 Mathematics 5.   Now cut the cuboid into two equal pieces along its height as shown in",
+  "activityType": "Activity 82",
+  "objective": "To establish a formula for the volume of a right circular cylinder",
+  "materials": "Cylindrical can, cutter, plastic clay, ruler, piece of\ncardboard, pen/pencil",
+  "procedure": "1.   Take any metallic cylindrical can open at\nboth ends.   Measure its height. Let it be   h .\n2.   Put this firmly on the cardboard and fill it\nwith plastic clay.\n3.   Push the clay gently out of the can.\n4.   Cut the clay into as many sections as you\ncan as shown below and number them as 1,\n2, 3, 4, 5, 6, 7, 8…   (Fig. 1).",
+  "observation": "S. No   l   b   h   No. of Units cuboids\n(Volume)\nl   ×   b   ×   h\n(Volume)\n1.\n2.\n3.\n4.\n5\n2\n3\n5\n4\n1\n4\n3\n2\n2\n2\n2\n40\n__\n__\n__\n5   ×   4   ×   2\n__   ×   __   ×   __\n__   ×   __   ×   __\n__   ×   __   ×   __",
+  "discussion": "This activity can be used in explaining the formula for volume of a cube.\n264 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "cube",
+    "cylinder",
+    "cuboid"
+  ],
+  "interactiveEngine": "Cube Engine"
+}

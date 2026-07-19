@@ -1,0 +1,19 @@
+{
+  "id": "0nvjbm",
+  "title": "Fig. 1 140   Laboratory Manual",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 140   Laboratory Manual",
+  "activityType": "Activity 17",
+  "objective": "To verify experimentally that the ratio\nof the areas of two similar triangles is\nequal to the ratio of the squares of their\ncorresponding sides.\nColoured papers, geometry box,\nsketch pen, white paper, cardboard.",
+  "materials": "",
+  "procedure": "1. Take a cardboard of a convenient size and paste a white paper on it.\n2. Make a triangle (equilateral) on a coloured paper of side   x   units and cut it\nout [see Fig. 1]. Call it a unit triangle.\n3. Make sufficient number of triangles congruent to the unit triangle using\ncoloured papers.",
+  "observation": "By actual measurement:\nBC =   ______________, IL = ______________, FH = ______________,\nDE = ______________.\nLet area of   ∆ ADE be 1 sq. unit. Then\n⎛\n⎝ ⎜   ⎞\n⎠ ⎟\n⎛\n⎝ ⎜   ⎞\n⎠ ⎟\n⎛\n⎝ ⎜   ⎞\n⎠ ⎟\nMathematics   141\nar (   ADE)\nar (   AFH)\n∆\n∆   = __________,   ar (   ADE)\nar (   AIL)\n∆\n∆   = __________,\nar (   ADE)\nar (   ABC)\n∆\n∆   = __________,\n2\nDE\nFH   = __________,\n2\nDE\nIL   = __________,\n2\nDE\nBC   = __________\nwhich shows that ratio of the areas of similar triangles is ______ to the\nratio of the squares of their corresponding sides.",
+  "discussion": "This result is useful in comparing the areas of two similar figures.\n⎛\n⎝ ⎜   ⎞\n⎠ ⎟\n⎛\n⎝ ⎜   ⎞\n⎠ ⎟\n⎛\n⎝ ⎜   ⎞\n⎠ ⎟\n142   Laboratory Manual",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

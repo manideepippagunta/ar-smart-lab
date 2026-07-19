@@ -1,0 +1,33 @@
+{
+  "title": "Improper Fractions",
+  "learningOutcomes": [
+    "Convert between mixed and improper fractions.",
+    "Understand fractions greater than 1."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Create fractions where numerator is larger than denominator."
+    }
+  ],
+  "theory": "An improper fraction is a fraction where the numerator is greater than or equal to the denominator. It represents a quantity larger than one whole.",
+  "formulae": [
+    "\\frac{A}{B} \\text{ where } A > B"
+  ],
+  "hints": [
+    "In advanced mode, type numerator = 5 and denominator = 4 to see mixed representation."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Create an improper fraction.",
+      "validationKey": "isImproper"
+    }
+  ],
+  "keyConcepts": [
+    "Improper fractions represent numbers greater than or equal to 1."
+  ],
+  "commonMistakes": [
+    "Thinking a fraction must always be less than 1."
+  ]
+}

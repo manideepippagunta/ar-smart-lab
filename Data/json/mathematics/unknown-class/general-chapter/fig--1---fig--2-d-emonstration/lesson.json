@@ -1,0 +1,20 @@
+{
+  "id": "1x9cxo",
+  "title": "Fig. 1   Fig. 2 D EMONSTRATION",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2 D EMONSTRATION",
+  "activityType": "Activity 28",
+  "objective": "To draw a cumulative frequency curve\n(or an ogive) of less than type.\nColoured chart paper, ruler, squared\npaper, sketch pens, cellotape,\ncutter, glue.",
+  "materials": "",
+  "procedure": "1. Collect data on heights of the students of a school and make a frequency\ndistribution table, containing, say, five classes as given below:\nHeight   a-b   b-c   c-d   d-e   e-f\nFrequency   f   1   f   2   f   3   f   4   f   5\n2. Form a cumulative frequency table of less than type of the above data as\ngiven below :",
+  "observation": "On actual measurement:\nr 1   = __________,   r 2   = ____________\nh 1   = __________,   h 2   = ____________\nl 1   = __________,   l 2   = ____________\nCurved surface area of the frustum = ______________________.\nTotal surface area of the frustum = ________________________.\nVolume of the frustum = ________________________.",
+  "discussion": "These results may be used in finding the material required in making containers/\nobjects in the shape of a frustum of a cone and also to find their capacities.\n168   Laboratory Manual",
+  "keywords": [
+    "cone",
+    "cell"
+  ],
+  "interactiveEngine": "Cone Engine"
+}

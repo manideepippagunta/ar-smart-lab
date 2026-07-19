@@ -1,0 +1,21 @@
+{
+  "id": "mp4sgv",
+  "title": "36   Laboratory Manual 3. Draw two lines, one joining 0º-180º line and another 90º-270º line,",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - the other end to move freely along the circle",
+  "activityTitle": "36   Laboratory Manual 3. Draw two lines, one joining 0º-180º line and another 90º-270º line,",
+  "activityType": "Activity 9",
+  "objective": "To plot the graphs of sin   x , sin 2 x ,\n2sin x   and sin   2\nx   , using same\ncoordinate axes.\nPlyboard, squared paper, adhesive,\nruler, coloured pens, eraser.",
+  "materials": "",
+  "procedure": "1. Take a plywood of size 30 cm × 30 cm.\n2. On the plywood, paste a thick graph paper of size 25 cm × 25 cm.\n3. Draw two mutually perpendicular lines on the squared paper, and take them\nas coordinate axes.\n4. Graduate the two axes as shown in the Fig. 10.\n5. Prepare the table of ordered pairs for sin   x , sin 2 x , 2sin   x   and sin   2\nx   for\ndifferent values of   x   shown in the table below:\nT. ratios   0º   12\nπ\n6\nπ\n4\nπ\n3\nπ   5\n12\nπ\n2\nπ   7\n12\nπ   2\n3\nπ   9\n12\nπ   5\n6\nπ   11\n12\nπ   π\nsin   x   0   0.26 0.50 0.71   0.86 0.97   1.00   0.97   0.86   0.71   0.50   0.26   0\nsin 2 x   0   0.50 0.86 1.00   0.86 0.50   0   –0.5   –0.86 –1.0   –0.86 –0.50   0\n2 sin   x   0   0.52 1.00 1.42   1.72 1.94   2.00   1.94   1.72   1.42   1.00   0.52   0\nsin  2\nx   0   0.13 0.26   0.38 0.50 0.61   0.71   0.79   0.86   0.92   0.97   0.99   1.00",
+  "observation": "1. When radius line of circular plate is at 0º indicating the point A (1,0),\ncos 0   =   ______ and sin 0 = _______.\n2. When radius line of circular plate is at 90º indicating the point B (0, 1),\nπ   π\ncos   = _______ and sin   = _______\n2   2   .\n3. When radius line of circular plate is at 180º indicating the point C (–1,0),\ncos   π   = ______ and sin   π   = _________.\n4. When radius line of circular plate is at 270º indicating the point D (0, – 1)\nwhich means   3 π   3 π\ncos   = _______ and sin   = _______\n2   2\n5. When radius line of circular plate is at 360º indicating the point again at A\n(1,0), cos 2   π   = _______ and sin 2   π   = ________.\nMathematics   37\nNow fill in the table :\nTrigonometric   0   π\n2   π   3 π\n2   2   π   5 π\n2   3   π   7 π\n2   4   π\nfunction\nsin   θ   –   –   –   –   –   –   –   –   –\ncos   θ   –   –   –   –   –   –   –   –   –",
+  "discussion": "This activity can be used to determine the values of other trigonometric functions\nfor angles being multiple of   2\nπ   and   π .",
+  "keywords": [
+    "circle",
+    "graph",
+    "coordinate"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

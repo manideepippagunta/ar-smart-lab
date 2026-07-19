@@ -1,0 +1,7 @@
+{
+  "formulae": [
+    "6\\text{CO}_2 + 6\\text{H}_2\\text{O} \\xrightarrow{\\text{Light}} \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2",
+    "E_{n+1} = E_n \\times 0.10",
+    "CO = \\text{HR} \\times \\text{SV}"
+  ]
+}

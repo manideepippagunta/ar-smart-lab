@@ -1,0 +1,11 @@
+{
+  "estimatedDuration": 5,
+  "requiredEngine": "Interactive Engine",
+  "requires3D": true,
+  "requiresGraph": false,
+  "requiresAnimation": true,
+  "requiresAudio": true,
+  "requiresQuiz": true,
+  "requiresFormula": false,
+  "requiresAR": true
+}

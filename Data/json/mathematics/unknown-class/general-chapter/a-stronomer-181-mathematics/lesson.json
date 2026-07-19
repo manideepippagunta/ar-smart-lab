@@ -1,0 +1,19 @@
+{
+  "id": "njvust",
+  "title": "A STRONOMER 181 Mathematics",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "A STRONOMER 181 Mathematics",
+  "activityType": "Project 1",
+  "objective": "To explore the changes in behaviours of surface areas and volumes of cuboids\nwith respect to each other.\nD ESCRIPTION\n(A) Cuboids with equal volumes\nLet us consider some cuboids with equal volumes, having the following\ndimensions:\n(i)   l   = 12 cm,   b   = 6 cm and   h   = 3 cm\n(ii)   l   = 6 cm,   b   = 6 cm and   h   = 6 cm\n(iii)   l   = 9 cm,   b   = 6 cm and   h   = 4 cm\n(iv)   l   = 8 cm,   b   = 6 cm and   h   = 4.5 cm.\nNow, we calculate the surface area of each of the above cuboids, using the\nformula\nsurface area = 2 ( lb + bh + hl ).\nFor (i), surface area = 2 (12 × 6 + 6 × 3 + 3 × 12) cm 2   = 252 cm 2\nFor (ii), surface area = 2 (6 × 6 + 6 × 6 + 6 × 6) cm 2   = 216 cm 2   →   Minimum\nFor (iii), surface area = 2 (9 × 6 + 6 × 4 + 4 × 9) cm 2   = 228 cm 2\nFor (iv), surface area = 2 (8 × 6 + 6 × 4.5 + 4.5 × 8) cm 2   = 222 cm 2",
+  "materials": "",
+  "procedure": "",
+  "observation": "",
+  "discussion": "",
+  "keywords": [
+    "cuboid"
+  ],
+  "interactiveEngine": "Cuboid Engine"
+}

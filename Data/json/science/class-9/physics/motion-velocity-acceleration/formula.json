@@ -1,0 +1,7 @@
+{
+  "formulae": [
+    "a = \\frac{F}{m}",
+    "v = u + a t",
+    "s = u t + \\frac{1}{2} a t^2"
+  ]
+}

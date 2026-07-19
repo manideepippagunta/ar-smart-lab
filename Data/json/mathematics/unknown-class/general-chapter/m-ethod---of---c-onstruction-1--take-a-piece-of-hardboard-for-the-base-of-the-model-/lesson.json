@@ -1,0 +1,22 @@
+{
+  "id": "07qbor",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Take a piece of hardboard for the base of the model.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Take a piece of hardboard for the base of the model.",
+  "activityType": "Activity 25",
+  "objective": "To form a cube and find the formula for\nits surface area experimentally.\nCardboard, ruler, cutter, cellotape,\nsketch pen/pencil.",
+  "materials": "",
+  "procedure": "",
+  "observation": "Lengths of parallel sides of the trapezium = -------,-------.\nLength of altitude of the parallelogram = --------.\nArea of parallelogram = ---------------.\nArea of the trapezium   1\n2\n=   (Sum of ---------- sides) × ---------.",
+  "discussion": "This concept is used for finding the formula for area of a triangle in coordinate\ngeometry. This may also be used in finding the area of a field which can be split\ninto different trapeziums and right triangles.\nMathematics   71",
+  "keywords": [
+    "triangle",
+    "cube",
+    "cell",
+    "coordinate"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

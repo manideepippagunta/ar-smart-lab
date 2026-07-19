@@ -1,0 +1,17 @@
+{
+  "id": "l412d",
+  "title": "Fig. 8 X",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit CI - Cardboard",
+  "activityTitle": "Fig. 8 X",
+  "activityType": "Activity 8",
+  "objective": "To find analytically the limit of a\nfunction   f   ( x ) at   x   =   c   and also to check\nthe continuity of the function at that\npoint.\nPaper, pencil, calculator.",
+  "materials": "",
+  "procedure": "1. Consider the function given by\n2   – 16  ,   4\n( )   – 4\n10,   4\nx   x\nf   x   x\nx\n   \n≠    \n=      \n    =    \n2. Take some points on the left and some points on the right side of   c   (= 4)\nwhich are very near to   c .\n3. Find the corresponding values of   f   ( x ) for each of the points considered in\nstep 2 above.\n4. Record the values of points on the left and right side of   c   as   x   and the\ncorresponding values of   f   ( x ) in a form of a table.",
+  "observation": "1. The values of   x   and   f   ( x ) are recorded as follows:\nTable 1   :   For   points on the left of   c   (= 4).\nx   3.9   3.99   3.999   3.9999   3.99999 3.999999 3.9999999\nf   ( x )   7.9   7.99   7.999   7.9999   7.99999 7.999999 7.9999999",
+  "discussion": "This activity is useful in converting log of a number in one given base to log of\nthat number in another base.\nLet,   y   = log 10 x , i.e.,   x   = 10 y .\nTaking logarithm to base   e   on both the sides, we get   log   log 10 e   e x   y =\nor   (   )\n1   log\nlog 10   e\ne\ny   x =\n10 log   1\nlog   log 10 e   e\nx\nx\n⇒   =   = 0.434294 (using log tables/calculator).\nN OTE",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2kg24",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Make six identical squares each of side   a   units, using cardboard and join",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Make six identical squares each of side   a   units, using cardboard and join",
+  "activityType": "Activity 26",
+  "objective": "To form a cuboid and find the formula\nfor its surface area experimentally.\nCardboard, cellotape, cutter, ruler,\nsketch pen/pencil.",
+  "materials": "boxes needed for packing.\nFig. 2\nN OTE\nInstead of making six squares\nseparately as done in the activity,\na net of a cube be directly\nprepared on the cardboard itself.\nMathematics   73",
+  "procedure": "",
+  "observation": "On actual measurement:\nLength of side   a   = ..................\nArea of one square / one face =   a 2   = ............... .\nSo, sum of the areas of all the squares = ..........+............+..........+ ..........+ ..........\n+ ............\nTherefore, surface area of the cube = 6 a 2",
+  "discussion": "This result is useful in estimating",
+  "keywords": [
+    "cube",
+    "cell",
+    "cuboid"
+  ],
+  "interactiveEngine": "Cube Engine"
+}

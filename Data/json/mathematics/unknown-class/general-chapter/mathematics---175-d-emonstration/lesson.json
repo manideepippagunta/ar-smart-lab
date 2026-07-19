@@ -1,0 +1,19 @@
+{
+  "id": "rovao",
+  "title": "Mathematics   175 D EMONSTRATION",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Mathematics   175 D EMONSTRATION",
+  "activityType": "Activity 31",
+  "objective": "To determine experimental probability\nof a head (or a tail) by tossing a coin\n1000 times and compare it with its\ntheoretical probability.\nA fair coin, pen, sheets of white\npaper.",
+  "materials": "",
+  "procedure": "1. Divide the students of the class in 10 groups I, II, III, ..., X.\n2. Each group will toss a coin 100 times and will observe the occurrence of a\nhead.\n3. Count the total number of times (frequency) a head comes up in each group\nand denote these by   a 1 ,   a 2 , ...,   a 10 , respectively.\n4. Calculate the experimental probability of a head in each group as\n10 1   2\n,   ,...,\n100   100   100\na a   a\n5. Calculate the experimental probabilities of a head based on the data of 1st\ngroup, 1st two groups, ..., all ten groups as   1\n100\na   ,   1   2\n200\na   a +   ,   1   2   3\n300\na   a   a +   +   , ... ,\n1   2   10 ...\n1000\na   a   a +   +   +   , respectively.",
+  "observation": "1. The probabilities   1\n100\na   ,   1   2\n200\na   a +   ,   1   2   3\n300\na   a   a +   +   , ...,   1   2   10 .......\n1000\na   a   a +   +   +   are coming\ncloser and closer   to   1\n2   .",
+  "discussion": "Probability is used extensively in the fields like physical sciences, commerce,\nbiological sciences, medical sciences, weather forecasting, etc.\n∑ ∑ ∑\n∑   ∑   ∑   ∑\n∑   ∑\nMathematics   177",
+  "keywords": [
+    "probability"
+  ],
+  "interactiveEngine": "Probability Engine"
+}

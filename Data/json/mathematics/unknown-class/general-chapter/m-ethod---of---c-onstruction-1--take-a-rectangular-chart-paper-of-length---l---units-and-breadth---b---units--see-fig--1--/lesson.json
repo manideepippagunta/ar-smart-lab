@@ -1,0 +1,20 @@
+{
+  "id": "b1j5q",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Take a rectangular chart paper of length   l   units and breadth   b   units [see Fig. 1].",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Take a rectangular chart paper of length   l   units and breadth   b   units [see Fig. 1].",
+  "activityType": "Activity 30",
+  "objective": "To obtain the formula for the surface area\nof a sphere.\nA ball, cardboard/wooden strips,\nthick sheet of paper, ruler, cutter,\nstring, measuring tape, adhesive.",
+  "materials": "",
+  "procedure": "",
+  "observation": "On actual measurement :\nl   = ....................,   b   = .....................,\n2\nπ   r   =   l   = ....................,   h   =   b   = ....................,\nArea of the rectangular paper =   l   ×   b   = .................\nTherefore, curved surface area of the cylinder = 2 π rh.",
+  "discussion": "This result can be used in finding the material used in making cylindrical\ncontainers, i.e., powder tins, drums, oil tanks used in industrial units, overhead\nwater tanks, etc.\nMathematics   81",
+  "keywords": [
+    "cylinder",
+    "sphere"
+  ],
+  "interactiveEngine": "Cylinder Engine"
+}

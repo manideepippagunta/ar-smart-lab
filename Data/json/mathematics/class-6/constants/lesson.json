@@ -1,0 +1,38 @@
+{
+  "title": "Constants",
+  "learningOutcomes": [
+    "Distinguish between variables and constants.",
+    "Identify constants in expressions."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Identify the constant in an expression."
+    }
+  ],
+  "theory": "A constant is a fixed value that does not change. In the expression 3x + 7, the number 7 is a constant because it stays the same regardless of x.",
+  "formulae": [
+    "3x + 7 \\quad (\\text{7 is the constant})"
+  ],
+  "hints": [
+    "Constants are the numbers standing alone without a variable."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Add 3 positive constant tiles to the workspace.",
+      "validationKey": "any"
+    }
+  ],
+  "keyConcepts": [
+    "Constants have fixed values.",
+    "They stand alone in expressions."
+  ],
+  "commonMistakes": [
+    "Confusing the coefficient (3 in 3x) with a constant."
+  ],
+  "engineConfig": {
+    "mode": "simplify",
+    "expression": "3x + 7"
+  }
+}

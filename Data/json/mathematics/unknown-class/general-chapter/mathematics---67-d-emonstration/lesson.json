@@ -1,0 +1,22 @@
+{
+  "id": "vy6v4d",
+  "title": "Mathematics   67 D EMONSTRATION",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Mathematics   67 D EMONSTRATION",
+  "activityType": "Activity 21",
+  "objective": "To construct a parabola.   Cardboard, white paper, sketch pen,\npencil, compass, ruler etc.",
+  "materials": "",
+  "procedure": "1. Take a cardboard of a convenient size and paste a white paper on it.\n2. Mark a point S on the white paper on the board (see Fig. 22).\n3. Through S draw a line. Draw another line   l   perpendicular to the line through\nS at some distance   k   units to the left of S.",
+  "observation": "1. In Fig. 21.2, the transparent plane sheet is ______ to the base of the cone.\nThe section obtained is _____.\n2. In Fig. 21.3, the plane sheet is inclined to ______. The conic section\nobtained is _________.\n3. In Fig. 21.4, the plane sheet is parallel to the _________. The conic section\nso obtained is ______.\n4. In Fig. 21.5, the plane sheet is ________ to the axis. The conic section so\nobtained is a part of ______.\n68   Laboratory Manual",
+  "discussion": "This activity helps in understanding various types of conic sections which have\nwide spread applications in real life situations and modern sciences. For example,\nconics have interesting geometric properties that can be used for the reflection of\nlight rays and beams of sound, i.e.\n1. Circular disc reflects back the light issuing from centre to the centre again.\n2. Elliptical disc reflects back the light issuing from one focus to the other focus.\n3. Parabolic disc reflects back the light issuing from one focus parallel to its\naxis.\n4. Hyperbolic disc reflects back the light issuing from one focus as if coming\nfrom other focus.",
+  "keywords": [
+    "cone",
+    "reflection",
+    "light",
+    "sound"
+  ],
+  "interactiveEngine": "Cone Engine"
+}

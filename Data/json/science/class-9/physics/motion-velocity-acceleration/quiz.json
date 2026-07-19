@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "What is the acceleration of a 4 kg mass subjected to a net force of 20 N?",
+      "options": [
+        "5 m/s²",
+        "80 m/s²",
+        "0.2 m/s²",
+        "16 m/s²"
+      ],
+      "correctAnswer": "5 m/s²"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "question": "Which equation gives displacement under constant acceleration?",
+      "options": [
+        "s = ut + ½at²",
+        "v = u + at",
+        "v² = u² + 2as",
+        "F = ma"
+      ],
+      "correctAnswer": "s = ut + ½at²"
+    }
+  ]
+}

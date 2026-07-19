@@ -1,0 +1,19 @@
+{
+  "id": "ek3u4",
+  "title": "161 Mathematics 3.   Shade three horizontal strips using a sketch pen of say, red colour",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - cardboard as shown in Fig",
+  "activityTitle": "161 Mathematics 3.   Shade three horizontal strips using a sketch pen of say, red colour",
+  "activityType": "Activity 41",
+  "objective": "To verify that the sum of any two sides of a triangle is always greater\nthan the third side",
+  "materials": "Thick sheet, coloured straws, adhesive, a pair of\nscissors, cardboard, white sheet.",
+  "procedure": "1.   Take a cardboard of convenient size and paste a white sheet on it.\n2.   Draw a triangle ABC of any dimension as shown in Fig.   1.\nFig. 1\n3.   Cut straws of three different colours   (say pink, green and red) of the\nsame size as the three sides of the triangle.",
+  "observation": "On actual measurement\nMeasure of   ∠ A =_____.\nMeasure of   ∠ B =_____.\nMeasure of   ∠ ACD =_____.\n∠ ACD =   ∠ A +   ∠   _____.\nSo, the exterior angle of a triangle is the ______ of its two _____ angles.",
+  "discussion": "This activity can be used to explain:\n1.   The relationship between an exterior angle and its interior angles.\n2.   Exterior angle of a triangle if interior angles are given.\n3.   Unknown interior angle of a triangle if exterior angle is given.\n168 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

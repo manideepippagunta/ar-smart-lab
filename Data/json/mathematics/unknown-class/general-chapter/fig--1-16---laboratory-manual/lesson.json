@@ -1,0 +1,20 @@
+{
+  "id": "b7ab1m",
+  "title": "Fig. 1 16   Laboratory Manual",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 16   Laboratory Manual",
+  "activityType": "Activity 2",
+  "objective": "To verify the algebraic identity :\n( a   +   b ) 2   =   a 2   + 2 ab   +   b 2\nDrawing sheet, cardboard, cello-\ntape, coloured papers, cutter and\nruler.",
+  "materials": "",
+  "procedure": "1. Cut out a square of side length   a   units from a drawing sheet/cardboard and\nname it as square ABCD [see Fig. 1].\n2. Cut out another square of length   b   units from a drawing sheet/cardboard and\nname it as square CHGF [see Fig. 2].",
+  "observation": "On actual measurement:\na   – 1 = ...........   a   =   ...........",
+  "discussion": "The activity may help in representing some\nirrational numbers such as   2 ,   3   ,   4 ,\n5   ,   6   ,   7   , .... on the number line.\nN OTE\nYou may also find   a   such as\n13   by fixing the perpendicular\nstrip at 3 on the horizontal strip\nand tying the other end of thread\nat 2 on the vertical strip.\nMathematics   17",
+  "keywords": [
+    "cell",
+    "number line"
+  ],
+  "interactiveEngine": "Number Line Engine"
+}

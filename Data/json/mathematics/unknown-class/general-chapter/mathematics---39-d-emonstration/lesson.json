@@ -1,0 +1,20 @@
+{
+  "id": "dh4rqa",
+  "title": "Mathematics   39 D EMONSTRATION",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - the other end to move freely along the circle",
+  "activityTitle": "Mathematics   39 D EMONSTRATION",
+  "activityType": "Activity 10",
+  "objective": "",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. Graphs of sin   x   and 2 sin   x   are of same shape but the maximum height of the\ngraph of sin   x   is ________ the maximum height of the graph of __________.\n2. The maximum height of the graph of sin 2 x   is ___________. It is at   x   =\n_________.\n3. The maximum height of the graph of 2 sin   x   is ___________ . It is at   x   =\n_________ .\n40   Laboratory Manual\n4. The maximum height of the graph of sin   2\nx   is ___________ . It is at\n2\nx   = _________ .\n5. At   x   = ________, sin   x   = 0, at   x   = _______, sin 2 x   = 0 and at   x   = ________,\nsin   2\nx   = 0.\n6. In the interval [0,   π ], graphs of sin   x , 2 sin   x   and sin   2\nx   are _______   x   - axes\nand some portion of the graph of sin 2 x   lies _______   x -axes.\n7. Graphs of sin   x   and sin 2 x   intersect at   x   = _______ in the interval (0,   π )\n8. Graphs of sin   x   and sin   2\nx   intersect at   x   = ________ in the interval (0,   π ).",
+  "discussion": "This activity may be used in comparing graphs of a trigonometric function of\nmultiples and submultiples of angles.",
+  "keywords": [
+    "circle",
+    "graph"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

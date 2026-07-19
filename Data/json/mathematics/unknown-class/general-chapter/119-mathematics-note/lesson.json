@@ -1,0 +1,20 @@
+{
+  "id": "ol2oyo",
+  "title": "119 Mathematics NOTE",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "119 Mathematics NOTE",
+  "activityType": "Activity 23",
+  "objective": "To obtain formula for the area of a rectangle",
+  "materials": "Cardboard, ruler, pencil/pen, colours, adhesive,\nglaze paper.",
+  "procedure": "1.   Take a cardboard and paste a light\nglaze paper on it.\n2.   Draw   a   rectangle   of   length   a\nand breadth   b   (say   a   = 6 cm and\nb   = 4 cm) (Fig. 1).\n3.   Paste it on the cardboard and draw\nlines parallel to breadth of the\nrectangle at a distance of 1cm each\n(Fig. 2).\nFig. 2",
+  "observation": "On actual measurement:\n∠ ADC   =   _____.\n∠ BDC   =   _____.\nSo,   CD is ______ to AB.",
+  "discussion": "1.   This activity may be helpful in explaining the meaning of a\nperpendicular   on the line.\n2.   This activity can also be used in drawing three altitudes of a triangle\nwhich meet at a point.\n1.   Repeat this activity taking some more points other than C not\nlying on AB. It can be seen that there may be infinitely many\nperpendiculars to a line but there is only one perpendicular\nto a line through a point not on it.\n2.   Through the same activity, drawing a line parallel to a given\nline can also be demonstrated.\n120 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "triangle",
+    "light"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

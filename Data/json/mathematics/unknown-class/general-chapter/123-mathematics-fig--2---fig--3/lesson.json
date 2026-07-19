@@ -1,0 +1,19 @@
+{
+  "id": "q7xrsw",
+  "title": "123 Mathematics Fig. 2   Fig. 3",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "123 Mathematics Fig. 2   Fig. 3",
+  "activityType": "Activity 25",
+  "objective": "To find the lines of symmetry of a figure (say, a rectangle) by paper folding",
+  "materials": "White sheet, tracing paper, scissors, pen/pencil\nand geometry box.",
+  "procedure": "1.   Draw a rectangle ABCD on a white sheet of paper\n(Fig. 1).\n2.   Make a trace copy of the rectangle ABCD and cut\nit out.\n3.   Try to fold this cut out of the\nrectangle along its width into two\nhalves (Fig. 2).\n4.   Try to fold this cut out of the\nrectangle along its length into two\nhalves.\n5.   Open the fold and try to fold it\nalong some other line say\nthe diagonal BD (Fig. 3).\n6.   Try to fold the cut out of\nthe rectangle along the\nother diagonal AC.",
+  "observation": "On actual measurement:\nAC = _______, BC = ________.\n∠ ACD = ______,   ∠ BCD = ________.\nPerpendicular bisector of AB is ________.",
+  "discussion": "This activity may   be used in obtaining perpendicular bisector of sides of\na triangle and to show that the three perpendicular bisectors of a triangle\nmeet at a point.\n124 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

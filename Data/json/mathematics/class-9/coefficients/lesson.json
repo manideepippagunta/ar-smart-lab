@@ -1,0 +1,39 @@
+{
+  "title": "Coefficients",
+  "learningOutcomes": [
+    "Identify the coefficient in a term.",
+    "Understand how coefficients scale variables."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Identify the coefficient in each term of an expression."
+    }
+  ],
+  "theory": "A coefficient is the numerical part of a term. In 5x, the coefficient is 5. In -3x², the coefficient is -3. Coefficients tell us how many times the variable is counted.",
+  "formulae": [
+    "5x \\implies \\text{coefficient} = 5",
+    "-3x^2 \\implies \\text{coefficient} = -3"
+  ],
+  "hints": [
+    "Look at the number directly before the variable letter."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Identify the coefficient in 4x + 7.",
+      "validationKey": "any"
+    }
+  ],
+  "keyConcepts": [
+    "Coefficient is the numerical multiplier of a variable.",
+    "Can be positive, negative, or fractional."
+  ],
+  "commonMistakes": [
+    "Confusing coefficient with constant."
+  ],
+  "engineConfig": {
+    "mode": "simplify",
+    "expression": "4x + 7"
+  }
+}

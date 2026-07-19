@@ -1,0 +1,17 @@
+{
+  "id": "ptdhg8",
+  "title": "Activity 16",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Activity 16",
+  "activityType": "Activity 16",
+  "objective": "To find the multiples of numbers 2, 3, 4, 5,....,9",
+  "materials": "Cardboard, thick chart paper, ruler, pencil, eraser,\nsketch pens of different colours, cutter etc.",
+  "procedure": "1.   Cut a cardboard of size 12   ×   12 units.\n2.   Make a square of size 10   ×   10 units on a chart paper and divide it into\nunit squares. Make 6 copies of it.\n3.   In one copy write numbers from 1 to 100 in unit squares as shown in\nFig. 1 and paste it on the cardboard.\n4.   Take one more copy from the remaining copies of Step 2, and make\nholes after leaving one square as shown in Fig. 2.\n33 Mathematics\nFig. 3   Fig. 4\nFig. 5   Fig. 6\n5.   From the other copies make holes after leaving 2 squares, 3 squares\nrespectively as shown in Fig. 3 to Fig. 6.",
+  "observation": "Number   2   3   4   5   6   7   8   9\nMultiples   2, 4, 6,\n8, 10,\n12, ...",
+  "discussion": "1.   This activity is useful in finding   common multiples of numbers. For\nexample, to find the common multiples of 2, 3 and 4, place the squares\nof Fig. 2, Fig. 3 and Fig. 4. on Fig. 1. The holes will display common\nmultiples of 2, 3 and 4 like 12, 24, 36, 48, 60, 72, 84, 96.\n2.   The activity can also be used to find the least common mulitiple of\nnumbers. For example the smallest of the common multiples of 2, 3\nand 4 above   is 12. It is the Least Common Multiple of 2, 3 and 4.",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

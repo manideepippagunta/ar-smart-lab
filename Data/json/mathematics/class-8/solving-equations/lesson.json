@@ -1,0 +1,38 @@
+{
+  "title": "Solving Linear Equations",
+  "learningOutcomes": [
+    "Isolate the variable.",
+    "Solve one-step and two-step equations."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Solve the equation step by step."
+    }
+  ],
+  "theory": "To solve a linear equation, isolate the variable by applying inverse operations. For 2x + 5 = 13: subtract 5 from both sides to get 2x = 8, then divide by 2 to get x = 4.",
+  "formulae": [
+    "2x + 5 = 13 \\implies x = 4"
+  ],
+  "hints": [
+    "Use the Step-by-Step solver. At each step, decide what operation brings x closer to being alone."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Solve 2x + 5 = 13 using the step-by-step solver.",
+      "validationKey": "isSolved"
+    }
+  ],
+  "keyConcepts": [
+    "Inverse operations undo each other.",
+    "Isolate x by reversing all operations applied to it."
+  ],
+  "commonMistakes": [
+    "Forgetting to apply inverse operation to BOTH sides."
+  ],
+  "engineConfig": {
+    "mode": "solve",
+    "expression": "2x + 5 = 13"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Coordinate Geometry: Distance Formula",
+  "engine": "Graph Engine",
+  "engineConfig": {
+    "mode": "coordinate",
+    "initialPoints": [
+      {
+        "id": "p1",
+        "x": 0,
+        "y": 0,
+        "label": "A"
+      },
+      {
+        "id": "p2",
+        "x": 3,
+        "y": 4,
+        "label": "B"
+      }
+    ]
+  },
+  "learningOutcomes": [
+    "Master the core principles of Coordinate Geometry: Distance Formula.",
+    "Learn substitution and calculations step-by-step."
+  ],
+  "materials": [
+    "Digital Coordinates Toolkit",
+    "CBSE Geometry Workspace"
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Adjust the distance between points A and B to exactly 5 units."
+    }
+  ],
+  "theory": "The distance formula is derived from Pythagoras theorem: d = sqrt((x2 - x1)^2 + (y2 - y1)^2). it computes the straight line distance between any two coordinates.",
+  "formulae": [
+    "d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}",
+    "M = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  ],
+  "hints": [
+    "Explore the values using drag-and-drop."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Adjust the distance between points A and B to exactly 5 units.",
+      "validationKey": "distance_is_5"
+    }
+  ],
+  "observationPrompts": [
+    "How did coordinates react during drag movements?",
+    "Explain slope trends."
+  ],
+  "realWorldExamples": [
+    {
+      "title": "GPS Tracking",
+      "description": "Coordinate analysis maps points globally."
+    }
+  ],
+  "practiceExercises": [],
+  "keyConcepts": [
+    "Linear graphing",
+    "Coordinate Geometry: Distance Formula applications"
+  ],
+  "commonMistakes": [
+    "Sign computation errors"
+  ]
+}

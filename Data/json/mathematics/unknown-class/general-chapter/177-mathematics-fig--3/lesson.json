@@ -1,0 +1,19 @@
+{
+  "id": "bz1xmp",
+  "title": "177 Mathematics Fig. 3",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - cardboard as shown in Fig",
+  "activityTitle": "177 Mathematics Fig. 3",
+  "activityType": "Activity 47",
+  "objective": "To verify that when two lines intersect, vertically opposite angles\nare equal",
+  "materials": "Drawing sheet, thumb pins, colour pencil, tracing\npaper, adhesive, cardboard.",
+  "procedure": "1.   Take a cardboard of convenient size and paste a white sheet on it.\n2.   Draw a pair of intersecting lines AB and CD as shown in Fig. 1.\nFig. 1\n3.   Mark the point of intersection P of these lines.\n4.   Colour   ∠ BPC and   ∠ APD with the same colour, say yellow.\n5.   Colour   ∠ BPD and   ∠ APC with the same colour, say green.",
+  "observation": "1.   Δ   PQR and   Δ   ABC are __________ triangles.\n2.   Area of   Δ   PQR = __________ squares.\nArea of   Δ   ABC = __________ squares.\nArea of   Δ   PQR = Area of   Δ   _______.\nSo, congruent triangles have _________ area.\n3.   Area of   Δ   RST = __________ squares.\nArea of   Δ   XYZ = __________squares.\nSo, area of   Δ   RST = area of   Δ   _______.\n4.   Δ   RST and   Δ   XYZ do not cover each other _______.\nΔ   RST and   Δ   XYZ are not _______.\nThus, triangles having equal area may not be congruent.",
+  "discussion": "This activity can be used to explain relationship between congruency and\nareas of different geometric shapes.\n184 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

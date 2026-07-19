@@ -1,0 +1,20 @@
+{
+  "id": "kawpni",
+  "title": "3. Fix two nails A 1   and A 2   on one of the strips [see Fig. 1]. 4. Fix nails at equal distances on the other strip as shown in the figure.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "3. Fix two nails A 1   and A 2   on one of the strips [see Fig. 1]. 4. Fix nails at equal distances on the other strip as shown in the figure.",
+  "activityType": "Activity 19",
+  "objective": "To verify that the triangles on the same\nbase and between the same parallels are\nequal in area.\nA piece of plywood, graph paper, pair\nof wooden strips, colour box , scissors,\ncutter, adhesive, geometry box.",
+  "materials": "",
+  "procedure": "1. Cut a rectangular plywood of a convenient size.\n2. Paste a graph paper on it.\n3. Fix any two horizontal wooden strips on it which are parallel to each other.\n4. Fix two points A and B on the paper along the first strip (base strip).\n5. Fix a pin at a point, say at C, on the second strip.\n6. Join C to A and B as shown in Fig. 1.",
+  "observation": "Number of squares in 1st parallelogram = --------------.\nNumber of squares in 2nd parallelogram = -------------------.\nNumber of squares in 1st parallelogram = Number of squares in 2nd\nparallelogram.\nArea of 1st parallelogram = --------- of 2nd parallelogram",
+  "discussion": "This   result   helps   in   solving   various\ngeometrical problems. It also helps in\nderiving the formula for the area of a\nparalleogram.\nN OTE\nIn   finding   the   area   of   a\nparallelogram,   by   counting\nsquares, find the number of\ncomplete squares, half squares,\nmore than half squares. Less than\nhalf squares may be ignored.\n58   Laboratory Manual",
+  "keywords": [
+    "triangle",
+    "graph"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "6bi87f",
+  "title": "D EMONSTRATION 1. Take the set X = { a, b }",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit CI - Cardboard",
+  "activityTitle": "D EMONSTRATION 1. Take the set X = { a, b }",
+  "activityType": "Activity 4",
+  "objective": "To draw the graph of   1\nsin   x −   , using the\ngraph of sin   x   and demonstrate the\nconcept of mirror reflection (about\nthe line   y   =   x ).\nCardboard, white chart paper, ruler,\ncoloured pens, adhesive, pencil,\neraser, cutter, nails and thin wires.",
+  "materials": "",
+  "procedure": "1. Take a cardboard of suitable dimensions, say, 30 cm × 30 cm.\n2. On the cardboard, paste a white chart paper of size 25 cm × 25 cm (say).\n3. On the paper, draw two lines, perpendicular to each other and name them\nX ′ OX and YOY ′   as rectangular axes [see Fig. 5].",
+  "observation": "1. The image of the element   a   of X in Y is ______________.\nThe image of the element   b   of X in Y is ______________.\nSo, the Fig. 4.3   represents a _____________________.\n2. Every element in X has a _________ image in Y. So, the function is\n_____________ (one-one/not one-one).\n3. The pre-image of the element 1 of Y in X __________ (exists/does not\nexist). So, the function is __________ (onto/not onto).\nThus, Fig. 4.3 represents a function which is _________ but not onto.",
+  "discussion": "This activity can be used to demonstrate the concept of one-one but not onto\nfunction.",
+  "keywords": [
+    "graph",
+    "reflection"
+  ],
+  "interactiveEngine": "Graph Engine"
+}

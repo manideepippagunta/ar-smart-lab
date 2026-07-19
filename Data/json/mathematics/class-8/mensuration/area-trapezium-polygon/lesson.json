@@ -1,0 +1,67 @@
+{
+  "id": "class-8-mensuration-area-trapezium-polygon",
+  "title": "Area of Trapezium, Rhombus and Polygons",
+  "subject": "Mathematics",
+  "classLevel": "Class 8",
+  "chapter": "Chapter 11 - Mensuration",
+  "engine": "Mensuration Engine",
+  "engineConfig": {
+    "shape": "trapezium",
+    "initialParams": {
+      "baseA": 10,
+      "baseB": 6,
+      "height": 5
+    }
+  },
+  "learningOutcomes": [
+    "Calculate the area of a trapezium using parallel bases $a, b$ and height $h$.",
+    "Understand rhombus area via diagonal lengths $d_1, d_2$.",
+    "Interactively adjust parametric sliders to observe real-time area scaling."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Calculate the area of a trapezium with $a=10, b=6, h=5$."
+    },
+    {
+      "id": "obj2",
+      "text": "Adjust the height slider to observe step-by-step KaTeX updates."
+    }
+  ],
+  "theory": "Area of Trapezium $A = \\frac{1}{2}(a+b)h$. Area of Rhombus $A = \\frac{1}{2}d_1 d_2$. Area of General Polygon is calculated by splitting into triangles and trapeziums.",
+  "formulae": [
+    "A_{\\text{trapezium}} = \\frac{1}{2}(a + b)h",
+    "A_{\\text{rhombus}} = \\frac{1}{2} d_1 d_2",
+    "P_{\\text{rectangle}} = 2(l + b)"
+  ],
+  "hints": [
+    "Move the Parallel Side sliders $a$ and $b$ to change base geometry.",
+    "Switch shapes using the 2D Figures toolbar tab."
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "instruction": "Increase the Parallel Side A slider above 8.",
+      "validationKey": "adjust_slider"
+    }
+  ],
+  "observationPrompts": [
+    "What happens to the area of a trapezium if both parallel sides are doubled?"
+  ],
+  "realWorldExamples": [
+    {
+      "title": "Roof & Bridge Trusses",
+      "description": "Civil engineers calculate the surface area of trapezoidal trusses for material estimation."
+    }
+  ],
+  "keyConcepts": [
+    "Trapezium",
+    "Rhombus",
+    "Parallel Bases",
+    "Height",
+    "Area"
+  ],
+  "commonMistakes": [
+    "Confusing height (perpendicular distance) with non-parallel side lengths."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Slope & Linear Equations",
+  "engine": "Graph Engine",
+  "engineConfig": {
+    "mode": "coordinate",
+    "initialPoints": [
+      {
+        "id": "p1",
+        "x": 0,
+        "y": 0,
+        "label": "A"
+      },
+      {
+        "id": "p2",
+        "x": 4,
+        "y": 4,
+        "label": "B"
+      }
+    ]
+  },
+  "learningOutcomes": [
+    "Master the core principles of Slope & Linear Equations.",
+    "Learn substitution and calculations step-by-step."
+  ],
+  "materials": [
+    "Digital Coordinates Toolkit",
+    "CBSE Geometry Workspace"
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Adjust the slope of line AB to exactly 1.0 (45 degrees angle)."
+    }
+  ],
+  "theory": "Slope (m) is the ratio of vertical change (rise) to horizontal change (run): m = (y2 - y1) / (x2 - x1). Parallel lines have equal slopes (m1 = m2). Perpendicular lines have slopes that multiply to -1 (m1 * m2 = -1).",
+  "formulae": [
+    "d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}",
+    "M = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  ],
+  "hints": [
+    "Explore the values using drag-and-drop."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Adjust the slope of line AB to exactly 1.0 (45 degrees angle).",
+      "validationKey": "slope_is_1"
+    }
+  ],
+  "observationPrompts": [
+    "How did coordinates react during drag movements?",
+    "Explain slope trends."
+  ],
+  "realWorldExamples": [
+    {
+      "title": "GPS Tracking",
+      "description": "Coordinate analysis maps points globally."
+    }
+  ],
+  "practiceExercises": [],
+  "keyConcepts": [
+    "Linear graphing",
+    "Slope & Linear Equations applications"
+  ],
+  "commonMistakes": [
+    "Sign computation errors"
+  ]
+}

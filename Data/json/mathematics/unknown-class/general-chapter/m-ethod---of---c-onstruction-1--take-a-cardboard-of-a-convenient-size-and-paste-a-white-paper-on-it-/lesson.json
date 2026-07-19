@@ -1,0 +1,20 @@
+{
+  "id": "kavp28",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Take a cardboard of a convenient size and paste a white paper on it.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Take a cardboard of a convenient size and paste a white paper on it.",
+  "activityType": "Activity 19",
+  "objective": "To verify geometrically that\n(   ) c   a   b   c   a   c   b ×   +   =   ×   +   ×\n\u0001   \u0001   \u0001   \u0001   \u0001   \u0001   \u0001   Geometry box, cardboard, white\npaper, cutter, sketch pen, cellotape.",
+  "materials": "",
+  "procedure": "1. Fix a white paper on the cardboard.\n2. Draw a line segment OA (= 6 cm, say) and let it represent   c\n\u0001   .\n3. Draw another line segment OB (= 4 cm, say) at an angle (say 60°) with OA.\nLet OB   a =\n\u0002\u0002\u0002 \u0001   \u0001",
+  "observation": "1. Function representing the arc of the quadrant of the circle is   y   = ______.\n2. Area of the quadrant of a circle with radius 1 unit =\n1\n2\n0\n1–   x ∫   dx   = ________.\nsq. units\n3. Area of the quadrant as a limit of a sum = _______ sq. units.\n4. The two areas are nearly _________.",
+  "discussion": "This activity can be used to demonstrate the\nconcept of area bounded by a curve. This\nactivity can also be applied to find the\napproximate value of   π .   N OTE\nDemonstrate the same activity\nby drawing the circle   x 2   +   y 2   = 9\nand find the area between   x   = 1\nand   x   = 2.",
+  "keywords": [
+    "circle",
+    "cell"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "zchs7",
+  "title": "Mathematics   97 3. When a coin is tossed three times, the sample space is",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Mathematics   97 3. When a coin is tossed three times, the sample space is",
+  "activityType": "Activity 33",
+  "objective": "",
+  "materials": "",
+  "procedure": "",
+  "observation": "Number of elements in sample space, when a\n1. coin is tossed once = __________.\n2. coin is tossed twice = __________.\n3. coin is tossed three times = __________.\n4. coin is tossed four times = __________.",
+  "discussion": "Sample space of an experiment is useful in determining the probabilities of\ndifferent events associated with the sample space.\n4.   When a coin is tossed four times, the S = Sample space is\nHHHH, HHHT, HHTH, HHTT, HTHH, HTHT, HTTH, HTTT,\nTHHH, THHT, THTH, THTT, TTHH, TTHT, TTTH, TTTT\n   \n   \n   \nNumber of elements in S = 16 = 2 4   and so on.",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

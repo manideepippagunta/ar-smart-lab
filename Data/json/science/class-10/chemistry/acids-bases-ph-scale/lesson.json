@@ -1,0 +1,65 @@
+{
+  "id": "class-10-chemistry-acids-bases-ph-scale",
+  "title": "Acids, Bases, Salts and the pH Scale",
+  "subject": "Science",
+  "classLevel": "Class 10",
+  "chapter": "Chapter 2 - Acids, Bases and Salts",
+  "engine": "Chemistry Engine",
+  "engineConfig": {
+    "topic": "acids_bases",
+    "initialParams": {
+      "phValue": 7
+    }
+  },
+  "learningOutcomes": [
+    "Define pH as $-\\log_{10}[H^+]$ on a scale from 0 to 14.",
+    "Classify solutions: $\\text{pH} < 7$ (Acidic), $\\text{pH} = 7$ (Neutral), $\\text{pH} > 7$ (Basic).",
+    "Simulate Universal Indicator color transitions and neutralisation reactions."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Slide the pH slider to 2.4 (Lemon Juice) and observe RED color."
+    },
+    {
+      "id": "obj2",
+      "text": "Slide the pH slider to 11.5 (Ammonia) and observe PURPLE color."
+    }
+  ],
+  "theory": "Acids release $H^+$ ions in aqueous solutions (pH < 7). Bases release $OH^-$ ions (pH > 7). Universal indicator displays a rainbow spectrum according to $[H^+]$ concentration.",
+  "formulae": [
+    "\\text{pH} = -\\log_{10}[H^+]",
+    "[H^+] = 10^{-\\text{pH}}",
+    "\\text{HCl} + \\text{NaOH} \\longrightarrow \\text{NaCl} + \\text{H}_2\\text{O}"
+  ],
+  "hints": [
+    "Drag the pH spectrum slider from 0 to 14 to see the beaker liquid change color.",
+    "Check the Substance indicator card to see household examples."
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "instruction": "Move the pH slider away from neutral pH 7.0.",
+      "validationKey": "adjust_ph"
+    }
+  ],
+  "observationPrompts": [
+    "How does hydrogen ion concentration $[H^+]$ change as pH decreases from 7 to 2?"
+  ],
+  "realWorldExamples": [
+    {
+      "title": "Soil pH in Agriculture",
+      "description": "Farmers adjust soil pH using lime (base) or sulfur (acid) to optimize crop yield."
+    }
+  ],
+  "keyConcepts": [
+    "pH Scale",
+    "Acids",
+    "Bases",
+    "Universal Indicator",
+    "Hydrogen Ion Concentration"
+  ],
+  "commonMistakes": [
+    "Thinking a lower pH value means lower acidity; lower pH actually means HIGHER $[H^+]$ concentration."
+  ]
+}

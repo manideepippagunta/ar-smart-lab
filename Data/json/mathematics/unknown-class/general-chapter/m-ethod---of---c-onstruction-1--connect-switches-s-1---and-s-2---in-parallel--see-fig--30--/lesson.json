@@ -1,0 +1,17 @@
+{
+  "id": "bijk7s",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Connect switches S 1   and S 2   in parallel (See Fig. 30).",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Connect switches S 1   and S 2   in parallel (See Fig. 30).",
+  "activityType": "Activity 30",
+  "objective": "To obtain truth values of compound\nstatements of the type   p   q ∧   by using\nswitch connections in series.\nSwitches, electric wires, battery and\nlamp/bulb.",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. If S 1   is on, truth value of   p   is _______________.\nIf S 1   is off, truth value of   p   is _______________.\nIf S 2   is on, truth value of   q   is _______________.\nIf S 2   is off, truth value of   q   is _______________.\n2. If S 1   is on, S 2   is off, truth value of   p   q ∨   is ________.\nIf S 1   is on, S 2   is on, truth value of   p   q ∨   is ________.\nIf S 1   is off, S 2   is off, truth value of   p   q ∨   is ________.\nIf S 1   is off, S 2   is on, truth value of   p   q ∨   is ________.\nIf S 1   is _____, S 2   is ____, truth value of   p   q ∨   is T.",
+  "discussion": "This activity helps in understanding truth values of the statements   p   q ∨   in\ndifferent cases of the statements   p   and   q .\np   q ∨",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

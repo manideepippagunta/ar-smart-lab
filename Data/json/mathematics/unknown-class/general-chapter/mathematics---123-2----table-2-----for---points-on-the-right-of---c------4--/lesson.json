@@ -1,0 +1,17 @@
+{
+  "id": "uc5fla",
+  "title": "Mathematics   123 2.   Table 2 :   For   points on the right of   c   (= 4).",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit CI - Cardboard",
+  "activityTitle": "Mathematics   123 2.   Table 2 :   For   points on the right of   c   (= 4).",
+  "activityType": "Activity 9",
+  "objective": "To   verify that for a function   f   to be\ncontinuous at given point   x 0 ,\n(   )   (   ) 0   0 – y   f   x   x   f   x ∆   =   + ∆   is\narbitrarily small provided.   x ∆   is\nsufficiently small.\nHardboard, white sheets, pencil,\nscale, calculator, adhesive.",
+  "materials": "",
+  "procedure": "1. Paste a white sheet on the hardboard.\n2. Draw the curve of the given continuous function as represented in the Fig. 10.\n3. Take any point A ( x 0 , 0) on the positive side of   x -axis and corresponding to\nthis point, mark the point P ( x 0 ,   y 0 ) on the curve.",
+  "observation": "1. The value of   f   ( x ) is approaching to   ________,   as   x   →   4 from the left.\n2. The value of   f   ( x ) is approaching to   ________, as   x   →   4 from the right.\n3. So,   (   ) 4\nlim\nx\nf   x\n→   = ________ and   (   ) 4\nlim\nx\nf   x +\n→   = ________.\n4. Therefore,   (   ) 4\nlim\nx\nf   x\n→   = ________ ,   f   (4) = ________.\n5. Is   (   ) 4\nlim\nx\nf   x\n→   =   f   (4)   ________ ? (Yes/No)\n6. Since   ( )   lim   ( )\nx   c\nf   c   f   x\n→\n≠   , so, the function is ________ at   x   = 4 (continuous/\nnot continuous).",
+  "discussion": "This activity is useful in understanding the concept of limit and continuity of a\nfunction at a point.",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

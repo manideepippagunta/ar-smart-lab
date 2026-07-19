@@ -1,0 +1,17 @@
+{
+  "id": "6ohna9",
+  "title": "D EMONSTRATION 1. Take the set X = {1, 2, 3}",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit CI - Cardboard",
+  "activityTitle": "D EMONSTRATION 1. Take the set X = {1, 2, 3}",
+  "activityType": "Activity 3",
+  "objective": "To demonstrate a function which is\none-one but not onto.\nCardboard, nails, strings, adhesive\nand plastic strips.",
+  "materials": "",
+  "procedure": "1. Paste a plastic strip on the left hand side of the cardboard and fix two nails\nin it as shown in the Fig. 4.1. Name the nails as   a   and   b .\n2. Paste another strip on the right hand side of the cardboard and fix three\nnails on it as shown in the Fig. 4.2. Name the nails on the right strip as\n1, 2 and 3.\n3. Join nails on the left strip to the nails on the right strip as shown in the Fig. 4.3.",
+  "observation": "1. The image of the element 1 of X in   Y is __________.\nThe image of the element 2 of X in   Y   is __________.\n106   Laboratory Manual\nThe image of the element 3 of X in Y is   __________.\nSo, Fig. 3.3 represents a   __________ .\n2. Every element in X has a _________ image in Y. So, the function is\n_________(one-one/not one-one).\n3. The pre-image of each element of Y in X _________ (exists/does not exist).\nSo, the function is ________ (onto/not onto).",
+  "discussion": "This activity can be used to demonstrate the\nconcept of one-one and onto function.\nDemonstrate   the   same\nactivity by changing the\nnumber of the elements of\nthe sets X and Y.\nN OTE",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

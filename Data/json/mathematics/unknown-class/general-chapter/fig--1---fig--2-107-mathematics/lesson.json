@@ -1,0 +1,17 @@
+{
+  "id": "1avmwc",
+  "title": "Fig. 1   Fig. 2 107 Mathematics",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2 107 Mathematics",
+  "activityType": "Activity 19",
+  "objective": "To obtain angle bisector of an angle by paper folding",
+  "materials": "Thick paper, pencil/pen, ruler, scissors.",
+  "procedure": "1.   Take a thick paper and make an   ∠   ABC by paper folding (or by drawing)\nand cut it out.\n2.   Fold   ∠ ABC through the vertex B such that ray BA falls along ray BC.\n3.   Now, unfold it.   Mark a point D anywhere on the crease as shown in\nFig. 1.\nFig. 1\n4.   Make cut outs of   ∠ ABD and   ∠ DBC.",
+  "observation": "1.   Place the cut out of   ∠ ABD on   ∠ DBC or the cut out of   ∠ DBC on   ∠ ABD.\n2.   ∠ ABD exactly covers   ∠ DBC.\n3.   So,   ∠ ABD is equal to   ∠ DBC.\ni.e., BD is the angle bisector of   ∠ ABC.",
+  "discussion": "1.   This activity can be used to measure and construct some specific\nangles.\n2.   Similar activity can be used to make a ‘protractor’ of 360 ° .\n112 Laboratory Manual – Elementary Stage",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

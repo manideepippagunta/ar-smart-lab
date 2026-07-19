@@ -1,0 +1,19 @@
+{
+  "id": "6v9tzk",
+  "title": "Fig. 1   Fig. 2 4. Arrange and paste these triangles on the cardboard as shown in Fig. 2 and",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2 4. Arrange and paste these triangles on the cardboard as shown in Fig. 2 and",
+  "activityType": "Activity 18",
+  "objective": "To draw a quadrilateral similar to a\ngiven quadrilateral as per given scale\nfactor (less than 1).\nChart paper (coloured and white),\ngeometry   box,   cutter,   eraser,\ndrawing pins, glue, pins, sketch\npens, tape.",
+  "materials": "",
+  "procedure": "1. Take a cut-out of the given quadrilateral ABCD from a coloured chart paper\nand paste it on another chart paper [see Fig. 1].\n2. Divide the base (here AB) of the quadrilateral ABCD internally in the ratio\n(given by scale factor) at P [see Fig. 2].\n3. With the help of ruler (scale),   join the diagonal AC of the quadrilateral\nABCD.\n4. From P, draw a line-segment PQ||BC,   with the help of compasses\n(set squares or paper folding) meeting AC at R [see Fig. 3].",
+  "observation": "By actual measurement:\nx   = ______. Area of the unit triangle [equilateral triangle in Fig. 1] =_____\nArea of   ∆ ABC = ______,   Area of   ∆ PQR =   ______\nSide BC of   ∆ ABC = ______,   Side QR of   ∆ PQR =   ______\nFig. 3\n144   Laboratory Manual\nBC 2   =   ___________,   QR 2   =   ___________,\nAB =   ___________,   AC =   ___________,\nPQ =   ___________,   PR =   ___________,\nAB 2   =   ___________,   AC 2   =   ___________,\nPQ 2   =   ___________,   PR 2   =   ___________,\n2\n2\nBC\nQR   =   ___________,   Area of   ABC\nArea of   PQR\n∆\n∆   =   ___________\n2   2 2\nArea of   ABC   BC   AB   –\nArea of   PQR   –   –   PR\n∆   =   =   =\n∆",
+  "discussion": "This result can be used for similar figures other\nthan triangles also, which in turn helps in\npreparing maps for plots etc.\nN OTE\nThis activity can be performed by\ntaking any triangle as a unit\ntriangle.\n⎛\n⎝ ⎜   ⎞\n⎠ ⎟\n⎛\n⎝ ⎜   ⎞\n⎠ ⎟\nMathematics   145",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

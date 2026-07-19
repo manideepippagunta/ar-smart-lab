@@ -1,0 +1,19 @@
+{
+  "id": "1t39i7",
+  "title": "Fig. 1   Fig. 2 Fig. 3   Fig. 4",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2 Fig. 3   Fig. 4",
+  "activityType": "Activity 23",
+  "objective": "To verify that the lengths of tangents\nto a circle from some external point\nare equal.\nGlazed papers of different colours,\ngeometry box, sketch pen, scissors,\ncutter and glue.",
+  "materials": "",
+  "procedure": "1. Draw a circle of any radius, say   a   units, with centre O on a coloured glazed\npaper of a convenient size [see Fig. 1].\n2. Take any point P outside the circle.\n3. Place a ruler touching the point P and the circle, lift the paper and fold it to\ncreate a crease passing through P [see Fig. 2].",
+  "observation": "1. In Fig. 2, number of tangents through P = -------------------.\n2. In Fig. 3, number of tangents through P = ----------------.\n3. In Fig. 4, number of tangents through P = ------------------.",
+  "discussion": "This activity is useful in verifying the property that the lengths of the two tangents\ndrawn from an external point are equal.\nMathematics   157",
+  "keywords": [
+    "circle"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

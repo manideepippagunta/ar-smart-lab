@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "In the expression 5x + 2, what is the variable?",
+      "options": [
+        "5",
+        "x",
+        "2",
+        "+"
+      ],
+      "correctAnswer": "x"
+    }
+  ]
+}

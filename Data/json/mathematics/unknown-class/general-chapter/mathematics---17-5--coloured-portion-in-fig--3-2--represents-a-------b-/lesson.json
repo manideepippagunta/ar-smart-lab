@@ -1,0 +1,19 @@
+{
+  "id": "1j660g",
+  "title": "Mathematics   17 5. Coloured portion in Fig. 3.2. represents A   ∩   B.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - the other end to move freely along the circle",
+  "activityTitle": "Mathematics   17 5. Coloured portion in Fig. 3.2. represents A   ∩   B.",
+  "activityType": "Activity 3",
+  "objective": "To verify distributive law for three\ngiven non-empty sets A, B and C, that\nis, A   ∪   (B   ∩   C) = (A   ∪   B)   ∩   (A   ∪   C)\nHardboard, white thick sheets of\npaper, pencil, colours, scissors,\nadhesive.",
+  "materials": "",
+  "procedure": "1. Cut five rectangular strips from a sheet of paper and paste them on the\nhardboard in such a way that three of the rectangles are in horizontal line\nand two of the remaining rectangles are also placed horizontally in a line\njust below the above three rectangles. Write the symbol U in the left/right\ntop corner of each rectangle as shown in Fig. 4.1, Fig. 4.2, Fig. 4.3, Fig. 4.4\nand Fig. 4.5.\n2. Draw three circles and mark them as A, B and C in each of the five rectangles\nas shown in the figures.\n3. Colour/shade the portions as shown in the figures.",
+  "observation": "1. U denotes the universal set represented by the rectangle in each figure.\n2. Circles A, B and C represent the subsets of the universal set U.",
+  "discussion": "Set theoretic representation of Venn diagrams are used in Logic and Mathematics.",
+  "keywords": [
+    "circle"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

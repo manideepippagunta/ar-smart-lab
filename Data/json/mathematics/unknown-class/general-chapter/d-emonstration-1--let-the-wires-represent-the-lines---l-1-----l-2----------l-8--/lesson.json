@@ -1,0 +1,17 @@
+{
+  "id": "i4nkw",
+  "title": "D EMONSTRATION 1. Let the wires represent the lines   l 1 ,   l 2 , ...,   l 8 .",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit CI - Cardboard",
+  "activityTitle": "D EMONSTRATION 1. Let the wires represent the lines   l 1 ,   l 2 , ...,   l 8 .",
+  "activityType": "Activity 2",
+  "objective": "To demonstrate a function which is\nnot one-one but is onto.\nCardboard, nails, strings, adhesive\nand plastic strips.",
+  "materials": "",
+  "procedure": "1. Paste a plastic strip on the left hand side of the cardboard and fix three nails\non it as shown in the Fig.3.1. Name the nails on the strip as 1, 2 and 3.\n2. Paste another strip on the right hand side of the cardboard and fix two nails in\nthe plastic strip as shown in Fig.3.2. Name the nails on the strip as   a   and   b.\n3. Join nails on the left strip to the nails on the right strip as shown in Fig. 3.3.",
+  "observation": "1. In Fig. 2, every line is parallel to itself. So the relation R = {(   l ,   m ) :   l   ||   m }\n.... reflexive relation (is/is not)\n2. In Fig. 2, observe that   2   3 l   l \u0001   . Is   l 3   ...   l 2 ? (|| / || )\nSo,   ( l 2 ,   l 3 )   ∈   R   ⇒   ( l 3 ,   l 2 ) ... R ( ∉/∈ )\nSimilarly,   l 3   ||   l 4 . Is   l 4   ... l 3 ? (|| / || )\nSo,   ( l 3 ,   l 4 )   ∈   R   ⇒   ( l 4 ,   l 3 ) ... R ( ∉/∈ )\nand   ( l 5 ,   l 8 )   ∈   R   ⇒   ( l 8 ,   l 5 ) ... R ( ∉/∈ )\n∴   The relation R ... symmetric relation (is/is not)\n3. In Fig. 2, observe that   l 2   ||   l 3   and   l 3   ||   l 4 . Is   l 2   ...   l 4   ? (|| / || )\nSo,   ( l 2 ,   l 3 )   ∈   R and ( l 3 ,   l 4 ) ∈   R   ⇒   ( l 2 ,   l 4 ) ... R ( ∈ / ∉ )\nSimilarly,   l 3   ||   l 4   and   l 4   ||   l 2 . Is   l 3   ...   l 2   ? (|| / || )\nSo,   ( l 3 ,   l 4 )   ∈   R, ( l 4 ,   l 2 )   ∈   R   ⇒   ( l 3 ,   l 2 ) ... R ( ∈ , ∉ )\nThus, the relation R ...   transitive relation (is/is not)\nHence, the relation R is reflexive, symmetric and transitive. So, R is an\nequivalence relation.",
+  "discussion": "This activity is useful in understanding the\nconcept of an equivalence relation.\nThis activity can be repeated\nby taking some more wires\nin different positions.\nN OTE",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Data Distribution: Histograms",
+  "engine": "Graph Engine",
+  "engineConfig": {
+    "mode": "statistics",
+    "chartType": "histogram",
+    "initialChartData": [
+      {
+        "label": "10-20",
+        "value": 30
+      },
+      {
+        "label": "20-30",
+        "value": 65
+      },
+      {
+        "label": "30-40",
+        "value": 40
+      }
+    ]
+  },
+  "learningOutcomes": [
+    "Master the core principles of Data Distribution: Histograms.",
+    "Learn substitution and calculations step-by-step."
+  ],
+  "materials": [
+    "Digital Coordinates Toolkit",
+    "CBSE Geometry Workspace"
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Adjust the highest interval bar to 80."
+    }
+  ],
+  "theory": "A histogram is a continuous bar chart representing class interval frequencies. Unlike standard bar graphs, there are no gaps between bars, representing continuous variables.",
+  "formulae": [
+    "d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}",
+    "M = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  ],
+  "hints": [
+    "Explore the values using drag-and-drop."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Adjust the highest interval bar to 80.",
+      "validationKey": "chart_max_value_80"
+    }
+  ],
+  "observationPrompts": [
+    "How did coordinates react during drag movements?",
+    "Explain slope trends."
+  ],
+  "realWorldExamples": [
+    {
+      "title": "GPS Tracking",
+      "description": "Coordinate analysis maps points globally."
+    }
+  ],
+  "practiceExercises": [],
+  "keyConcepts": [
+    "Linear graphing",
+    "Data Distribution: Histograms applications"
+  ],
+  "commonMistakes": [
+    "Sign computation errors"
+  ]
+}

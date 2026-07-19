@@ -1,0 +1,43 @@
+{
+  "title": "Variables",
+  "learningOutcomes": [
+    "Understand what variables represent.",
+    "Use letters to denote unknown quantities."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Identify variables in an expression."
+    },
+    {
+      "id": "obj2",
+      "text": "Write an expression with a variable."
+    }
+  ],
+  "theory": "A variable is a symbol (usually a letter like x, y, or n) that represents an unknown or changing quantity. For example, if a bag has x apples, we can write expressions using x.",
+  "formulae": [
+    "\\text{Expression} = \\text{variable} + \\text{constant}",
+    "\\text{e.g. } x + 3"
+  ],
+  "hints": [
+    "Think of a variable as a box that can hold any number."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Add an x tile to the workspace.",
+      "validationKey": "any"
+    }
+  ],
+  "keyConcepts": [
+    "Variables are letters representing unknown values.",
+    "A variable can take different values."
+  ],
+  "commonMistakes": [
+    "Thinking that x always equals 24 (it doesn't — it changes!)"
+  ],
+  "engineConfig": {
+    "mode": "simplify",
+    "expression": "x + 3"
+  }
+}

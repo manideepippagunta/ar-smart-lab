@@ -1,0 +1,19 @@
+{
+  "id": "fqa5k6",
+  "title": "Fig. 1 207 Mathematics",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 207 Mathematics",
+  "activityType": "Activity 58",
+  "objective": "To make a kite by paper folding and cutting",
+  "materials": "Thick paper, cardboard, pen/pencil, ruler, scissors,\nadhesive.",
+  "procedure": "1.   Take a rectangular thick white paper.\n2.   Fold it once as shown in Fig. 1.\nFig. 1",
+  "observation": "On actual measurement:\nS. No.   Name of sides   Length of sides (cm)\nFigure 4   Equilateral   ∆\nAB = ____,   ∠ A = ____.\nBC = ____,   ∠ B = ____.\nAC = ____,   ∠ C = ____.\n__\n__\n__\n__\nFigure 5   AB = ____,   ∠ A = ____.\nBC = ____,   ∠ B = ____.\nCD = ____,   ∠ C = ____.\nAD = ____,   ∠ D = ____.\n__\n__\n__\n__\nFigure 6   AB = ____,   ∠ A = ____.\nBC = ____,   ∠ B = ____.\nCD = ____,   ∠ C = ____.\nDE = ____,   ∠ D = ____.\nAE = ____,   ∠ E = ____.\n__\n__\n__\n__\n__\nIn Fig. 4 all the three sides are ____ and all the three angles are ____.\nSo, ABC is a regular polygon of sides ____.\nFig. 5\nFig. 6\n237 Mathematics\nIn Fig. 5, all the four sides are _____and all the four angles are_____.\nSo, ABCD is a regular polygon of sides _____.\nIn Fig. 6, all the five sides are _____ and all the five angles are _____.\nSo, ABCDE is a polygon of sides_____.",
+  "discussion": "This activity is useful in explaining the meaning of a regular polygon and\nhow to draw a regular polygon.\n238 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "polygon"
+  ],
+  "interactiveEngine": "Polygon Engine"
+}

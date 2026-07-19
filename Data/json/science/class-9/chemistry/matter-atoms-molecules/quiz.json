@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "What is the maximum number of electrons that can occupy the L shell (n=2)?",
+      "options": [
+        "8",
+        "2",
+        "18",
+        "32"
+      ],
+      "correctAnswer": "8"
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "question": "What is the electronic configuration of Sodium (Z=11)?",
+      "options": [
+        "2, 8, 1",
+        "2, 9",
+        "2, 8, 2",
+        "11"
+      ],
+      "correctAnswer": "2, 8, 1"
+    }
+  ]
+}

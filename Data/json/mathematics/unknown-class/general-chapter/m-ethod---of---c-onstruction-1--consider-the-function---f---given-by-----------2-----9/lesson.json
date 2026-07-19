@@ -1,0 +1,19 @@
+{
+  "id": "qluxxj",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Consider the function   f   given by   (   )   2   – 9",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Consider the function   f   given by   (   )   2   – 9",
+  "activityType": "Activity 28",
+  "objective": "Verification of the geometrical signi-\nficance of derivative.\nGraph sheets, adhesive, hardboard,\ntrigonometric tables, geometry box,\nwires.",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. Values of   f   ( x ) as   x   →   3 from the left, as in Table 1 are coming closer and\ncloser to _____.\n2. Values of   f   ( x ) as   x   →   3 from the right, as in Table 2 are coming closer and\ncloser to _____ from tables (2) and (3),   (   ) lim 3   f   x\nx →   =\n2   9\n3\nx\nx\n−\n−   = ______.",
+  "discussion": "This activity can be used to demonstrate the concept of a limit   (   ) lim   f   x\nx   c →   when\nf   ( x ) is not defined at   x   =   c .",
+  "keywords": [
+    "graph"
+  ],
+  "interactiveEngine": "Graph Engine"
+}

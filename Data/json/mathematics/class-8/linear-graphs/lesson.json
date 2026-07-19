@@ -1,0 +1,67 @@
+{
+  "title": "Introduction to Linear Graphs",
+  "engine": "Graph Engine",
+  "engineConfig": {
+    "mode": "coordinate",
+    "initialPoints": [
+      {
+        "id": "p1",
+        "x": 1,
+        "y": 1,
+        "label": "A",
+        "color": "#3b82f6"
+      }
+    ]
+  },
+  "learningOutcomes": [
+    "Master the core principles of Introduction to Linear Graphs.",
+    "Learn substitution and calculations step-by-step."
+  ],
+  "materials": [
+    "Digital Coordinates Toolkit",
+    "CBSE Geometry Workspace"
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Plot a point at coordinates (0, 0)."
+    },
+    {
+      "id": "obj2",
+      "text": "Understand that a linear graph represents a straight line relationship."
+    }
+  ],
+  "theory": "A linear graph is a graphical representation of a linear equation. It forms a straight line. Every point on the line satisfies the equation of the line. The relation is expressed in the form y = mx + c.",
+  "formulae": [
+    "d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}",
+    "M = \\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)"
+  ],
+  "hints": [
+    "Explore the values using drag-and-drop."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Plot a point at coordinates (0, 0).",
+      "validationKey": "plot_point_origin"
+    }
+  ],
+  "observationPrompts": [
+    "How did coordinates react during drag movements?",
+    "Explain slope trends."
+  ],
+  "realWorldExamples": [
+    {
+      "title": "GPS Tracking",
+      "description": "Coordinate analysis maps points globally."
+    }
+  ],
+  "practiceExercises": [],
+  "keyConcepts": [
+    "Linear graphing",
+    "Introduction to Linear Graphs applications"
+  ],
+  "commonMistakes": [
+    "Sign computation errors"
+  ]
+}

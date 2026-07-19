@@ -1,0 +1,21 @@
+{
+  "id": "v3zze5",
+  "title": "259 Mathematics NOTE",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - there",
+  "activityTitle": "259 Mathematics NOTE",
+  "activityType": "Activity 80",
+  "objective": "To form a cuboid and obtain a formula for its surface area",
+  "materials": "Cardboard, cellotape, cutter, ruler, sketch pen,\npencil, white paper, chart paper.",
+  "procedure": "1.   Take a cardboard of convenient size and paste a white paper on it.\n2.   Make a shape involving two identical rectangles of dimensions   a   units\n×   b   units, two identical rectangles of dimensions   b   units   ×   c   units and\ntwo identical rectangles of dimensions   c   units   ×   a   units, using a thick\nchart paper as shown in Fig. 1.\n3.   Fold the six rectangles along the dotted lines to obtain a solid as shown\nin Fig. 2.",
+  "observation": "On actual measurement:\nLength of side   a   =   ,\nSo, area of one face =   a 2  =   .\nThe sum of the areas of all the faces =   +   +\n+   +   +   .\nTherefore, the surface area of the cube = 6 a 2 .",
+  "discussion": "This result is useful in estimating materials required for making cubical\nboxes needed for packing.\nShape in Fig. 1 is called a   net   of the cube.\nFig. 2\n260 Laboratory Manual – Elementary Stage",
+  "keywords": [
+    "cube",
+    "cell",
+    "cuboid"
+  ],
+  "interactiveEngine": "Cube Engine"
+}

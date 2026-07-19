@@ -1,0 +1,19 @@
+{
+  "id": "zh4t9g",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Paste a white paper on a piece of plywood of a convenient size.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Paste a white paper on a piece of plywood of a convenient size.",
+  "activityType": "Activity 27",
+  "objective": "",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. Outcome(s) favourable to A : _________,   n   (A) = _________.\n2. Outcomes favourable to B : _________,   n   (B) = _________.\n3. Outcomes favourable to A   ∩   B : _________,   n   (A   ∩   B) = _________.\n4. P (A   ∩   B) = _________.\n5. P (A | B) =   _________ = _________.",
+  "discussion": "This activity is helpful in understanding the concept of conditional probability,\nwhich is further used in Bayes’ theorem.\nN OTE\n1.   You may repeat this activity by\ntaking more events such as the\nprobability of getting a sum 10 when\na doublet has already occurred.\n2.   Conditional   probability\nP (A | B) can also be found by first\ntaking the sample space of event B\nout of the sample space of the\nexperiment, and then finding the\nprobability A from it.",
+  "keywords": [
+    "probability"
+  ],
+  "interactiveEngine": "Probability Engine"
+}

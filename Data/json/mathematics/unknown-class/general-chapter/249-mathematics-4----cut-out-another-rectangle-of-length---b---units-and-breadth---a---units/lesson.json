@@ -1,0 +1,17 @@
+{
+  "id": "7foqq",
+  "title": "249 Mathematics 4.   Cut out another rectangle of length   b   units and breadth   a   units",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - there",
+  "activityTitle": "249 Mathematics 4.   Cut out another rectangle of length   b   units and breadth   a   units",
+  "activityType": "Activity 76",
+  "objective": "To obtain a formula for the area of a trapezium",
+  "materials": "Cardboard,   coloured   glaze   papers,   adhesive,\nscissors.",
+  "procedure": "1.   Take a piece of cardboard to serve as a base for the activity.\n2.   Draw two identical trapeziums of parallel sides as ‘ a ’ and ‘ b ’ units on\na coloured paper and cut them out (see Fig. 1).\n3.   Place them on the cardboard as shown in Fig. 2.\nFig. 1\nFig. 2",
+  "observation": "On actual measurement:\na   =   ,   b   =   ,\nSo, ( a + b ) =   ,\na 2  =   ,   b 2  =   ,   ( a – b ) =   ,\na 2   – b 2  =   ,   ( a + b ) ( a – b )   =   ,\nTherefore,   a 2   –   b 2  = ( a + b )   ( a – b ).",
+  "discussion": "The identity may be used for finding values of\n1.   difference of two squares.\n2.   some products involving two numbers.\n3.   This identity may be used for simplification and factorisation of\nalgebraic expressions.\n256 Laboratory Manual – Elementary Stage",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

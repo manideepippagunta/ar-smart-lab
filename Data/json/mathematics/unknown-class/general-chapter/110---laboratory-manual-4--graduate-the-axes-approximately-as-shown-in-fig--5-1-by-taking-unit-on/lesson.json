@@ -1,0 +1,20 @@
+{
+  "id": "h49fx",
+  "title": "110   Laboratory Manual 4. Graduate the axes approximately as shown in Fig. 5.1 by taking unit on",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit CI - Cardboard",
+  "activityTitle": "110   Laboratory Manual 4. Graduate the axes approximately as shown in Fig. 5.1 by taking unit on",
+  "activityType": "Activity 5",
+  "objective": "To explore the principal value of\nthe function sin –1 x   using a unit\ncircle.\nCardboard, white chart paper, rails,\nruler, adhesive, steel wires and\nneedle.",
+  "materials": "",
+  "procedure": "1. Take a cardboard of a convenient size and paste a white chart paper on it.\n2. Draw a unit circle with centre O on it.\n3. Through the centre of the circle, draw two perpendicular lines X ′ OX and\nYOY ′   representing   x -axis and   y -axis, respectively as shown in Fig. 6.1.\n4. Mark the points A, C, B and D, where the circle cuts the   x -axis and   y -axis,\nrespectively as shown in Fig. 6.1.\n5. Fix two rails on opposite\nsides of the cardboard\nwhich are parallel to\ny -axis. Fix one steel wire\nbetween the rails such\nthat   the   wire   can   be\nmoved parallel to   x -axis\nas shown in Fig. 6.2.",
+  "observation": "The image of point N 1   in the mirror (the line   y   =   x ) is _________.\nThe image   of point   N 2   in the mirror (the line   y   =   x ) is _________.\nThe image of   point   N 3   in the mirror (the line   y   =   x ) is _________.\nThe image of point   N 4   in the mirror (the line   y   =   x ) is _________.\nThe image of point   1 N ′   in the mirror (the line   y   =   x ) is _________.\nThe image point of   2 N ′   in the mirror (the line   y   =   x ) is _________.\nThe image point of   3 N ′   in the mirror (the line   y   =   x ) is _________.\nThe image point of   4 N ′   in the mirror (the line   y   =   x ) is _________.\nThe image of the graph of six   x   in   y   =   x   is the graph of _________, and the\nimage of the graph of sin –1 x   in   y   =   x   is the graph of __________.",
+  "discussion": "Similar activity can be performed for drawing the graphs of   –1   1\ncos   , tan x   x −   , etc.",
+  "keywords": [
+    "circle",
+    "graph"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "qvygsm",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Make two identical rectangles of dimensions   a   units ×   b   units, two identical",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Make two identical rectangles of dimensions   a   units ×   b   units, two identical",
+  "activityType": "Activity 27",
+  "objective": "To form a cone from a sector of a circle\nand to find the formula for its curved\nsurface area.\nWooden hardboard, acrylic sheets,\ncellotape, glazed papers, sketch\npens, white paper, nails, marker.",
+  "materials": "boxes/almirahs, etc.\nN OTE\nInstead of making six rectangles\nseparately, as done in the activity,\na net of a cuboid be directly\nprepared on the cardboard itself.\nMathematics   75",
+  "procedure": "",
+  "observation": "On actual measurement:\na   = .....................,   b   = .....................,   c   = .....................,\nSo,   ab   = .....................,   bc   = .....................,   ca   = .....................,\n2 ab   = .....................,   2 bc   = .....................,   2 ca   = .....................\nSum of areas of all the six rectangles = ..............\nTherefore, surface area of the cuboid = 2 ( ab+bc+ca )",
+  "discussion": "This result is useful in estimating",
+  "keywords": [
+    "circle",
+    "cone",
+    "cell",
+    "cuboid"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

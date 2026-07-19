@@ -1,0 +1,19 @@
+{
+  "id": "szf05f",
+  "title": "Fig. 7 Mathematics   117",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit CI - Cardboard",
+  "activityTitle": "Fig. 7 Mathematics   117",
+  "activityType": "Activity 7",
+  "objective": "To establish a relationship between\ncommon logarithm (to the base 10)\nand natural logarithm (to the base   e )\nof the number   x .\nHardboard, white sheet, graph\npaper, pencil, scale, log tables or\ncalculator (graphic/scientific).",
+  "materials": "",
+  "procedure": "1. Paste a graph paper on a white sheet and fix the sheet on the hardboard.\n2. Find some ordered pairs satisfying the function   y   = log 10 x . Using log tables/\ncalculator and draw the graph of the function on the graph paper (see Fig. 8)",
+  "observation": "1. Image of ordered pair (1, 2) on the graph of   y   = 2 x   in   y   =   x   is ______. It lies\non the graph of   y   = _______.\n2. Image of the point (4, 2) on the graph   y   = log 2 x   in   y   =   x   is _________ which\nlies on the graph of   y   = _______.\nRepeat this process for some more points lying on the two graphs.",
+  "discussion": "This activity is useful in understanding the concept of (exponential and\nlogarithmic functions) which are mirror images of each other in   y   =   x .",
+  "keywords": [
+    "graph"
+  ],
+  "interactiveEngine": "Graph Engine"
+}

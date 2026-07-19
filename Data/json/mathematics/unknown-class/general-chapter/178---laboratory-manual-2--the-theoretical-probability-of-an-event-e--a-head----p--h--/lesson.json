@@ -1,0 +1,19 @@
+{
+  "id": "zoj6e",
+  "title": "178   Laboratory Manual 2. The theoretical probability of an event E (a head) = P (H).",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "178   Laboratory Manual 2. The theoretical probability of an event E (a head) = P (H).",
+  "activityType": "Activity 32",
+  "objective": "",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. Each group will complete the following table :\nGroup   Number of times a coin\nis thrown in a group\nI.   100   a 1   = _______\nII.   100   a 2   = _______\nIII.   100   a 3   = _______\nIV.   100   a 4   = _______\n.   .\n,   .\n,   .\nX   100   a 10   = _______\nTotal number of times a\nhead comes up\n2.   1\n100\na   = ______,   1   2\n200\na   a +   =\n2\n1\n200\ni\ni\na\n=   = _______,\n3\n1\n300\ni\ni\na\n=   = _______,\n4\n1\n400\ni\ni\na\n=   = ______,\n5\n1\n500\ni\ni\na\n=   = ______,\n6\n1\n600\ni\ni\na\n=   = ________,\n∑\n∑ ∑ ∑\n∑\nMathematics   179\na i\ni   =\n∑ 1\n7\n700\n= _______,\na i\ni   =\n∑ 1\n8\n800\n= ______,\na i\ni   =\n∑ 1\n9\n900\n= ______,\na i\ni   =\n∑ 1\n10\n1000\n= ________\n3. Experimental probability of a head =   1000\n− − −\n4. Experimental probability of a head is\nnearly equal to theoretical _______\n5. _______ probability of a head is nearly\n_____ to theoretical ________",
+  "discussion": "Probability is used extensively in the fields like physical sciences, commerce,\nbiological sciences, medical sciences, weather forecasting, etc.\nN OTE\nSimilar activity can be performed\nfor the occurrence of a tail.",
+  "keywords": [
+    "probability"
+  ],
+  "interactiveEngine": "Probability Engine"
+}

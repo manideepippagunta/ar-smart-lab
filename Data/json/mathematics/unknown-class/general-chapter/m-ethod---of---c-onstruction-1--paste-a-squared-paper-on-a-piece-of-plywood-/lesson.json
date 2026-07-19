@@ -1,0 +1,20 @@
+{
+  "id": "f18u5",
+  "title": "M ETHOD   OF   C ONSTRUCTION 1. Paste a squared paper on a piece of plywood.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "M ETHOD   OF   C ONSTRUCTION 1. Paste a squared paper on a piece of plywood.",
+  "activityType": "Activity 26",
+  "objective": "To explain the computation of\nconditional probability of a given\nevent A, when event B has already\noccurred, through an example of\nthrowing a pair of dice.\nA piece of plywood, white paper\npen/pencil, scale, a pair of dice.",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. Coordinates of point P are ________.\n2. Coordinates of point Q are ________.\n3. Coordinates of point R are ________.\n4. Coordinates of point S are ________.\n5. Equation of line PQ is ________.\n6. Equation of line RS is ________.\nShortest distance between PQ and RS analytically = ________.\nShortest distance by actual measurement = ________.\nThe results so obtained are ________.",
+  "discussion": "This activity can be used to explain the concept of skew lines and of shortest\ndistance between two lines in space.",
+  "keywords": [
+    "probability",
+    "coordinate"
+  ],
+  "interactiveEngine": "Coordinate Engine"
+}

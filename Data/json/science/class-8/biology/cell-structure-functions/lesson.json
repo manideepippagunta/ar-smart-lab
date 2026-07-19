@@ -1,0 +1,65 @@
+{
+  "id": "class-8-biology-cell-structure-functions",
+  "title": "Cell Structure and Functions",
+  "subject": "Science",
+  "classLevel": "Class 8",
+  "chapter": "Chapter 8 - Cell Structure and Functions",
+  "engine": "Biology Engine",
+  "engineConfig": {
+    "topic": "cell_structure",
+    "initialParams": {
+      "cellType": "plant"
+    }
+  },
+  "learningOutcomes": [
+    "Understand cell as the basic structural unit of life.",
+    "Compare plant cell vs animal cell organelles (Cell Wall, Chloroplasts, Vacuoles).",
+    "Explore mitochondrial respiration generating 38 ATP per glucose molecule."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Select Nucleus to inspect DNA control functions."
+    },
+    {
+      "id": "obj2",
+      "text": "Toggle to Animal Cell and compare vacuole size differences."
+    }
+  ],
+  "theory": "All living organisms are made up of cells. Plant cells possess a rigid cell wall and chloroplasts for photosynthesis, whereas animal cells lack cell walls.",
+  "formulae": [
+    "\\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2 \\longrightarrow 6\\text{CO}_2 + 6\\text{H}_2\\text{O} + 38\\text{ ATP}",
+    "\\text{Proton count } p^+ = \\text{Neutron count } n^0"
+  ],
+  "hints": [
+    "Click on organelles to open the detailed function inspector.",
+    "Use the Plant Cell / Animal Cell toggle to compare structural differences."
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "instruction": "Click any organelle to inspect its biological function.",
+      "validationKey": "select_organelle"
+    }
+  ],
+  "observationPrompts": [
+    "Why do plant cells require a rigid cell wall, whereas animal cells do not?"
+  ],
+  "realWorldExamples": [
+    {
+      "title": "Microscopic Diagnostics",
+      "description": "Pathologists inspect cell organelle abnormalities under electron microscopes to diagnose diseases."
+    }
+  ],
+  "keyConcepts": [
+    "Cell Wall",
+    "Nucleus",
+    "Mitochondria",
+    "Chloroplast",
+    "Vacuole",
+    "Cytoplasm"
+  ],
+  "commonMistakes": [
+    "Thinking animal cells contain chloroplasts; chloroplasts are unique to photosynthetic plant cells."
+  ]
+}

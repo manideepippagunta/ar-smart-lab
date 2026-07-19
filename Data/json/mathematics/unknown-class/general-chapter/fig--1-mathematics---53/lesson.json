@@ -1,0 +1,19 @@
+{
+  "id": "l5r1gw",
+  "title": "Fig. 1 Mathematics   53",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 Mathematics   53",
+  "activityType": "Activity 17",
+  "objective": "To verify experimentally that in a\ntriangle, the longer side has the greater\nangle opposite to it.\nColoured paper, scissors, tracing\npaper, geometry box, cardboard\nsheet, sketch pens.",
+  "materials": "",
+  "procedure": "1. Take a piece of cardboard of a convenient size and paste a white paper on it.\n2. Cut out a   ∆ ABC from a coloured paper and paste it on the cardboard [see\nFig. 1].\n3. Measure the lengths of the sides of   ∆ ABC.\n4. Colour all the angles of the triangle ABC as shown in Fig. 2.\n5. Make the cut-out of the angle opposite to the longest side using a tracing\npaper [see Fig. 3].",
+  "observation": "Measure of   ∠ A = ----------.\nMeasure of   ∠ B = ----------.   Measure of   ∠ C = ----------.\nMeasure of   ∠ D = ----------.   Sum [   ∠ A+   ∠ B+   ∠ C+   ∠ D] = -------------.",
+  "discussion": "This property can be used in solving problems relating to special types of\nquadrilaterals, such as trapeziums, parallelograms, rhombuses, etc.\nFig. 3\n54   Laboratory Manual",
+  "keywords": [
+    "triangle"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

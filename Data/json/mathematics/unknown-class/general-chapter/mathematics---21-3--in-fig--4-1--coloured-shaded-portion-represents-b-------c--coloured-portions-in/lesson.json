@@ -1,0 +1,19 @@
+{
+  "id": "8m6xjn",
+  "title": "Mathematics   21 3. In Fig. 4.1, coloured/shaded portion represents B   ∩   C, coloured portions in",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit L - the other end to move freely along the circle",
+  "activityTitle": "Mathematics   21 3. In Fig. 4.1, coloured/shaded portion represents B   ∩   C, coloured portions in",
+  "activityType": "Activity 4",
+  "objective": "To identify a relation and a function.   Hardboard, battery, electric bulbs\nof two different colours, testing\nscrews, tester, electrical wires and\nswitches.",
+  "materials": "",
+  "procedure": "1. Take a piece of hardboard of suitable size and paste a white paper on it.\n2. Drill eight holes on the left side of board in a\ncolumn and mark them as A, B, C, D, E, F, G and\nH as shown in the Fig.5.\n3. Drill seven holes on the right side of the board\nin a column and mark them as P, Q, R, S, T, U\nand V as shown in the Figure 5.\n4. Fix bulbs of one colour in the holes A, B, C, D,\nE, F, G and H.\n5. Fix bulbs of the other colour in the holes P, Q,\nR, S, T, U and V.\n6. Fix testing screws at the bottom of the board marked as 1, 2, 3, ..., 8.\n7. Complete the electrical circuits in such a manner that a pair of corresponding\nbulbs, one from each column glow simultaneously.\n8. These pairs of bulbs will give ordered pairs, which will constitute a relation\nwhich in turn may /may not be a function [see Fig. 5].",
+  "observation": "1. Coloured portion in Fig. 4.1 represents ___________.\n2. Coloured portion in Fig. 4.2, represents ___________.\n3. Coloured portion in Fig. 4.3, represents ___________.\n4. Coloured portion in Fig. 4.4, represents ___________.\n5. Coloured portion in Fig. 4.5, represents ___________.\n6. The common coloured portions in Fig. 4.4 and Fig. 4.5 are __________.\n7.   (   ) A   B   C ∪   ∩   =   ____________.\nThus, the distributive law is verified.",
+  "discussion": "Distributivity property of set operations\nis used in the simplification of problems\ninvolving set operations.\nN OTE\nIn the same way, the other distributive\nlaw\nA   ∩   (B   ∪   C) = (A   ∩   B)   ∪   (A   ∩   C)\ncan also be verified.",
+  "keywords": [
+    "circle"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

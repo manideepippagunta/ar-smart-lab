@@ -1,0 +1,19 @@
+{
+  "id": "m5d4c",
+  "title": "Fig. 1   Fig. 2 Fig. 3",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2 Fig. 3",
+  "activityType": "Activity 18",
+  "objective": "To verify experimentally that the\nparallelograms on the same base and\nbetween same parallels are equal in area.\nA piece of plywood, two wooden\nstrips, nails, elastic strings, graph\npaper.",
+  "materials": "",
+  "procedure": "1. Take a rectangular piece of plywood of convenient size and paste a graph\npaper on it.\n2. Fix two horizontal wooden strips on it parallel to each other [see Fig. 1].",
+  "observation": "Length of side AB = .......................\nLength of side BC = .......................\nLength of side CA = .......................\nMeasure of the angle opposite to longest side = .......................\nMeasure of the other two angles = ...................... and .......................\nThe angle opposite the ...................... side is ...................... than either of the other\ntwo angles.",
+  "discussion": "The result may be used in solving different geometrical problems.\nFig. 4\n56   Laboratory Manual",
+  "keywords": [
+    "graph"
+  ],
+  "interactiveEngine": "Graph Engine"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "0h3toe",
+  "title": "4. Take two straight wires of the same length and fix them in such way that they are perpendicular to   x -axis at the points A and B and meeting the curve",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "4. Take two straight wires of the same length and fix them in such way that they are perpendicular to   x -axis at the points A and B and meeting the curve",
+  "activityType": "Activity 11",
+  "objective": "To verify Lagrange’s Mean Value\nTheorem.\nA piece of plywood, wires, white\npaper, sketch pens, wires.",
+  "materials": "",
+  "procedure": "1. Take a piece of plywood and paste a white paper on it.\n2. Take two wires of convenient size and fix them on the white paper pasted on\nthe plywood to represent   x -axis and   y -axis (see Fig. 12).\n3. Take a piece of wire of about 10 cm length and bend it in the shape of a\ncurve as shown in the figure. Fix this curved wire on the white paper pasted\non the plywood.",
+  "observation": "From Fig. 11.\na   = ______________,   b   = _____________\nf   ( a )   = ____________,   f   ( b )   = _________ Is   f   ( a ) =   f   ( b ) ?   (Yes/No)\nSlope of tangent at P = __________,   so,   f   ( x ) (at P) =",
+  "discussion": "This theorem may be used to find the roots of an equation.",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

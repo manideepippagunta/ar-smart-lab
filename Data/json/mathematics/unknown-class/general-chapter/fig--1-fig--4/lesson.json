@@ -1,0 +1,21 @@
+{
+  "id": "dof89b",
+  "title": "Fig. 1 Fig. 4",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 Fig. 4",
+  "activityType": "Activity 6",
+  "objective": "To verify the algebraic identity :\n( a + b ) 3   =   a 3   +   b 3   + 3 a 2 b   + 3 ab 2\nAcrylic sheet, coloured papers,\nglazed papers, saw, sketch pen,\nadhesive, Cello-tape.",
+  "materials": "",
+  "procedure": "1. Make a cube of side   a   units and one more cube of side   b   units ( b   <   a ), using\nacrylic sheet and cello-tape/adhesive [see Fig. 1 and Fig. 2].\n2. Similarly, make three cuboids of dimensions   a×a×b   and three cuboids of\ndimensions   a×b×b   [see Fig. 3 and Fig. 4].",
+  "observation": "On actual measurement:\na   = ..............,   b   = ..............,   c   = ..............,\nSo,   a 2   =   ..............,   b 2   = ..............,   c 2 = ..............,   ab = ..............,\nbc = ..............,   ca   = .............., 2 ab   = ..............,   2 bc   = ..............,\n2ca = ..............,   a+b+c   = ..............,   ( a+b+c ) 2   = ..............,\nTherefore,   (a+b+c) 2   = a 2   + b 2   +c 2   + 2 ab +   2 bc +   2 ca",
+  "discussion": "The identity may be used for\n1. simiplification/factorisation of algebraic expressions\n2. calculating the square of a number expressed as a sum of three convenient\nnumbers.\nFig. 5\nMathematics   27",
+  "keywords": [
+    "cube",
+    "cell",
+    "cuboid"
+  ],
+  "interactiveEngine": "Cube Engine"
+}

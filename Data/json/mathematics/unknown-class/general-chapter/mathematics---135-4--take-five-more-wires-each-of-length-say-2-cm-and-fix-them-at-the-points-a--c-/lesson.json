@@ -1,0 +1,19 @@
+{
+  "id": "m3qbho",
+  "title": "Mathematics   135 4. Take five more wires each of length say 2 cm and fix them at the points A, C,",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Mathematics   135 4. Take five more wires each of length say 2 cm and fix them at the points A, C,",
+  "activityType": "Activity 14",
+  "objective": "To   understand   the   concepts   of\nabsolute maximum and minimum\nvalues of a function in a given closed\ninterval through its graph.\nDrawing board, white chart paper,\nadhesive, geometry box, pencil and\neraser, sketch pens, ruler, calculator.",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. Sign of the slope of the tangent (first derivative) at a point on the curve to\nthe immediate left of A is _______.\n2. Sign of the slope of the tangent (first derivative) at a point on the curve to\nthe immediate right of A is_______.\n3. Sign of the first derivative at a point on the curve to immediate left\nof B is _______.\n4. Sign of the first derivative at a point on the curve to immediate right\nof B is _______.\n5. Sign of the first derivative at a point on the curve to immediate left\nof C is _______.\n6. Sign of the first derivative at a point on the curve to immediate right\nof C is _______.\n7. Sign of the first derivative at a point on the curve to immediate left\nof D is _______.\n136   Laboratory Manual\n8. Sign of the first derivative at a point on the curve to immediate right\nof D is _______.\n9. Sign of the first derivative at a point immediate left of P is _______ and\nimmediate right of P is_______.\n10. A and B are points of local _______.\n11. C and D are points of local _______.\n12. P is a point of _______.",
+  "discussion": "1. This activity may help in explaining the concepts of points of local maxima,\nlocal minima and inflection.\n2. The concepts of maxima/minima are useful in problems of daily life such\nas making of packages of maximum capacity at minimum cost.",
+  "keywords": [
+    "graph"
+  ],
+  "interactiveEngine": "Graph Engine"
+}

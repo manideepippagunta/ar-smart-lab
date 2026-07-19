@@ -1,0 +1,17 @@
+{
+  "id": "c1ycmp",
+  "title": "4. Take two straight wires each of suitable length for the purpose of showing tangents to the curves at different points on them.",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "4. Take two straight wires each of suitable length for the purpose of showing tangents to the curves at different points on them.",
+  "activityType": "Activity 13",
+  "objective": "To understand the concepts of local\nmaxima, local minima and point of\ninflection.\nA   piece   of   plywood,   wires,\nadhesive, white paper.",
+  "materials": "",
+  "procedure": "1. Take a piece of plywood of a convenient size and paste a white paper on it.\n2. Take two pieces of wires each of length 40 cm and fix them on the paper on\nplywood in the form of   x -axis and   y -axis.\n3. Take another wire of suitable length and bend it in the shape of curve. Fix\nthis curved wire on the white paper pasted on plywood, as shown in Fig. 14.",
+  "observation": "1.   α 1   = _______ , > 90°   α 2   = _______ > _______,   α 3   = _______> _______,\ntan   α 1   = _______, (negative) tan   α 2   = _______, ( _______ ), tan   α 3   =\n_______, ( _______). Thus the function is _______.\n2.   β 1   = _______< 90°,   β 2   = _______, < _______,   β 3   = _______ , < _______\ntan   β 1   = _______ , (positive), tan   β 2   = _______, ( _______ ), tan   β 3   =\n_______( _______ ). Thus, the function is _______.",
+  "discussion": "This activity may be useful in explaining the concepts of decreasing and\nincreasing functions.",
+  "keywords": [],
+  "interactiveEngine": "Interactive Engine"
+}

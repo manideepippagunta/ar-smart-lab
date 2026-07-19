@@ -1,0 +1,105 @@
+{
+  "id": "class-9-data-handling-mean-median-mode",
+  "title": "Mean, Median and Mode of Ungrouped Data",
+  "subject": "Mathematics",
+  "classLevel": "Class 9",
+  "chapter": "Chapter 14 - Statistics",
+  "engine": "Statistics Engine",
+  "engineConfig": {
+    "tab": "statistics",
+    "chartType": "bar",
+    "initialDataset": [
+      {
+        "id": "d1",
+        "label": "Math",
+        "value": 75,
+        "color": "#3b82f6",
+        "x": 1,
+        "y": 75
+      },
+      {
+        "id": "d2",
+        "label": "Physics",
+        "value": 88,
+        "color": "#8b5cf6",
+        "x": 2,
+        "y": 88
+      },
+      {
+        "id": "d3",
+        "label": "Chem",
+        "value": 64,
+        "color": "#ec4899",
+        "x": 3,
+        "y": 64
+      },
+      {
+        "id": "d4",
+        "label": "Bio",
+        "value": 92,
+        "color": "#10b981",
+        "x": 4,
+        "y": 92
+      },
+      {
+        "id": "d5",
+        "label": "English",
+        "value": 81,
+        "color": "#f59e0b",
+        "x": 5,
+        "y": 81
+      }
+    ]
+  },
+  "learningOutcomes": [
+    "Understand measures of central tendency: Mean, Median, and Mode.",
+    "Interactively adjust dataset values by dragging graph bars.",
+    "Observe step-by-step KaTeX mathematical calculations."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Calculate the mean of 5 subject scores."
+    },
+    {
+      "id": "obj2",
+      "text": "Drag a bar to alter dataset values and observe shifts in median."
+    }
+  ],
+  "theory": "Mean is the sum of all values divided by count ($n$). Median is the middle value when sorted. Mode is the value that occurs most frequently.",
+  "formulae": [
+    "\\bar{x} = \\frac{\\sum x_i}{n}",
+    "M = x_{\\frac{n+1}{2}}",
+    "R = x_{\\max} - x_{\\min}"
+  ],
+  "hints": [
+    "Drag the bar tops up or down to edit values directly.",
+    "Use the Dataset Editor panel to add new categories or shuffle values."
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "instruction": "Drag any graph bar to increase its value above 60.",
+      "validationKey": "drag_bar"
+    }
+  ],
+  "observationPrompts": [
+    "How does increasing an extreme value affect the Mean vs the Median?"
+  ],
+  "realWorldExamples": [
+    {
+      "title": "Class Test Averages",
+      "description": "Teachers calculate the mean score of a class to evaluate test performance."
+    }
+  ],
+  "keyConcepts": [
+    "Mean",
+    "Median",
+    "Mode",
+    "Range",
+    "Central Tendency"
+  ],
+  "commonMistakes": [
+    "Forgetting to sort the data array before computing the Median."
+  ]
+}

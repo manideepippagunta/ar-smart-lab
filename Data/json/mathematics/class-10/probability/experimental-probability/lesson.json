@@ -1,0 +1,61 @@
+{
+  "id": "class-10-probability-experimental-probability",
+  "title": "Theoretical vs Experimental Probability",
+  "subject": "Mathematics",
+  "classLevel": "Class 10",
+  "chapter": "Chapter 15 - Probability",
+  "engine": "Probability Engine",
+  "engineConfig": {
+    "tab": "probability",
+    "probabilityType": "coin"
+  },
+  "learningOutcomes": [
+    "Differentiate between theoretical and empirical (experimental) probability.",
+    "Simulate coin tosses, dice rolls, and card draws.",
+    "Observe the Law of Large Numbers convergence across 1,000 trials."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Run single coin flips and observe individual outcomes."
+    },
+    {
+      "id": "obj2",
+      "text": "Execute a batch of 100 trials to observe convergence toward 50%."
+    }
+  ],
+  "theory": "Theoretical probability $P(E) = m/n$ is calculated based on sample space. Experimental probability $P_{exp}(E)$ is calculated from actual observed trials. By the Law of Large Numbers, $P_{exp}(E) \\to P(E)$ as trials $N \\to \\infty$.",
+  "formulae": [
+    "P(E) = \\frac{m}{n}",
+    "P_{exp}(E) = \\frac{\\text{Observed Favorable Trials}}{\\text{Total Experiments}}"
+  ],
+  "hints": [
+    "Click \"+100\" or \"+1000\" to run batch trials instantly.",
+    "Check the Convergence Analysis card to compare rates."
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "instruction": "Run at least 100 trials to test convergence.",
+      "validationKey": "run_100_trials"
+    }
+  ],
+  "observationPrompts": [
+    "Why does 10 trials often deviate from 50%, whereas 1000 trials stays near 50%?"
+  ],
+  "realWorldExamples": [
+    {
+      "title": "Weather Forecasting",
+      "description": "Meteorologists calculate experimental probability using historical atmospheric simulation data."
+    }
+  ],
+  "keyConcepts": [
+    "Theoretical Probability",
+    "Experimental Probability",
+    "Law of Large Numbers",
+    "Sample Space"
+  ],
+  "commonMistakes": [
+    "Expecting small sample sizes (e.g. 10 flips) to yield exact theoretical ratios."
+  ]
+}

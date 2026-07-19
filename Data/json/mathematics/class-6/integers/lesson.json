@@ -1,0 +1,34 @@
+{
+  "title": "Integers",
+  "learningOutcomes": [
+    "Understand positive and negative integers.",
+    "Represent integers on a number line."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Locate negative integers on the number line."
+    }
+  ],
+  "theory": "Integers include all natural numbers, their negative counterparts, and zero.",
+  "formulae": [
+    "\\mathbb{Z} = \\{\\dots, -3, -2, -1, 0, 1, 2, 3, \\dots\\}"
+  ],
+  "hints": [
+    "Explore the negative side of the number line by dragging points to the left of zero."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Move the point to a negative integer.",
+      "validationKey": "isNegative"
+    }
+  ],
+  "keyConcepts": [
+    "Integers have no fractional parts.",
+    "Negative integers are located to the left of zero."
+  ],
+  "commonMistakes": [
+    "Thinking 2.5 is an integer."
+  ]
+}

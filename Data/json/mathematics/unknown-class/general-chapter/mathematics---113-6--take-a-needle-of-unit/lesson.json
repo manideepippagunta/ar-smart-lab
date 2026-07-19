@@ -1,0 +1,19 @@
+{
+  "id": "5h8h8a",
+  "title": "Mathematics   113 6. Take a needle of unit",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "Unit CI - Cardboard",
+  "activityTitle": "Mathematics   113 6. Take a needle of unit",
+  "activityType": "Activity 6",
+  "objective": "To sketch the graphs of   a x   and log a x ,\na   > 0,   a   ≠   1 and to examine that they\nare mirror images of each other.\nDrawing board, geometrical instru-\nments, drawing pins, thin wires,\nsketch pens, thick white paper,\nadhesive, pencil, eraser, a plane\nmirror, squared paper.",
+  "materials": "",
+  "procedure": "1. On the drawing board, fix a thick paper sheet of convenient size 20 cm × 20 cm\n(say) with adhesive.",
+  "observation": "1. sine function is non-negative in _________ and __________ quadrants.\n2. For the quadrants 3rd and 4th, sine function is _________.\n3.   θ   = arc sin   y   ⇒   y   = ________   θ   where   2\nπ\n−   ≤ θ ≤   ________.\n4. The other domains of sine function on which it is one-one and onto provides\n_________ for arc sine function.",
+  "discussion": "This activity can be used for finding the principal value of arc cosine function\n(cos –1 y ).",
+  "keywords": [
+    "graph"
+  ],
+  "interactiveEngine": "Graph Engine"
+}

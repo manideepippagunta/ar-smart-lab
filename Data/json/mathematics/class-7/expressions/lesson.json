@@ -1,0 +1,39 @@
+{
+  "title": "Algebraic Expressions",
+  "learningOutcomes": [
+    "Write algebraic expressions.",
+    "Evaluate expressions by substituting values."
+  ],
+  "objectives": [
+    {
+      "id": "obj1",
+      "text": "Build an expression using algebra tiles."
+    }
+  ],
+  "theory": "An algebraic expression is a combination of variables, constants, and operations. For example, 2x + 5 is an expression. Expressions do not have an equals sign.",
+  "formulae": [
+    "2x + 5",
+    "3x^2 - 4x + 1"
+  ],
+  "hints": [
+    "Use the tile picker to build your expression on the workspace."
+  ],
+  "tasks": [
+    {
+      "id": "task1",
+      "instruction": "Build the expression 2x + 3 using tiles.",
+      "validationKey": "any"
+    }
+  ],
+  "keyConcepts": [
+    "Expressions contain terms separated by + or -.",
+    "Unlike equations, they have no = sign."
+  ],
+  "commonMistakes": [
+    "Calling an expression an equation."
+  ],
+  "engineConfig": {
+    "mode": "simplify",
+    "expression": "2x + 3"
+  }
+}

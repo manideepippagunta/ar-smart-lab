@@ -1,0 +1,21 @@
+{
+  "id": "zsag0c",
+  "title": "Fig. 1   Fig. 2   Fig. 3 Fig. 4   Fig. 5   Fig. 6",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1   Fig. 2   Fig. 3 Fig. 4   Fig. 5   Fig. 6",
+  "activityType": "Activity 27",
+  "objective": "To obtain formulae for the surface area\nand the volume of a frustum of a cone.\nAcrylic sheet, geometry box,\nsketch pens, cellotape.",
+  "materials": "",
+  "procedure": "1. Make a frustum of a cone by cutting a smaller cone from a bigger cone\nusing an acrylic sheet as explained in Activity 27 [see Fig. 1 and Fig. 2].\n2. Name the radii of the bigger cone and smaller cone as   r 1   and   r 2 , respectively,\nslant heights of the bigger cone and smaller cone as   l 1   and   l 2   , respectively\nand heights as   h 1   and   h 2 , respectively.",
+  "observation": "On actual measurement:\nRadius of the base of the frustum = ___________\nRadius of the top of the frustum = ___________\nSlant height of the original cone = ___________\nSlant height of the cut off cone = ___________\nSlant height of the frustum = ___________\nHeight of the original cone = ___________\nHeight of the cut off cone   = ___________\nHeight of the frustum = ___________\nHeight of the frustum = Difference of the heights of two ___________.\nSlant height of the frustum = Difference of the slant heights of two _______.",
+  "discussion": "1. This activity may be used to\nexplain the concepts related to a\nfrustum of a cone.\n2. Frustum like shapes are very much\nin use in daily life such as buckets,\ntumblers, lamp shades, etc.\nN OTE\nAn alternative method to form a frustum\nDraw two concentric circles of radii   r   1   and\nr 2   ( r   1   >   r 2 ) on a acrylic sheet. Mark a sector\nof the bigger circle and cut out the shaded\nregion [see Fig. 6]. Now fold it and form a\nfrustum of a cone.\n166   Laboratory Manual",
+  "keywords": [
+    "circle",
+    "cone",
+    "cell"
+  ],
+  "interactiveEngine": "Circle Engine"
+}

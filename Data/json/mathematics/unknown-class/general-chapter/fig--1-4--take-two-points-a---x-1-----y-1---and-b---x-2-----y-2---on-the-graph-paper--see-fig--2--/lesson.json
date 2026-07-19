@@ -1,0 +1,21 @@
+{
+  "id": "v5yz6t",
+  "title": "Fig. 1 4. Take two points A ( x 1 ,   y 1 ) and B ( x 2 ,   y 2 ) on the graph paper [see Fig. 2].",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "Fig. 1 4. Take two points A ( x 1 ,   y 1 ) and B ( x 2 ,   y 2 ) on the graph paper [see Fig. 2].",
+  "activityType": "Activity 11",
+  "objective": "To verify the formula for the area of a\ntriangle by graphical method.\nCardboard, chart paper, graph paper,\nglue, pen/pencil and ruler.",
+  "materials": "",
+  "procedure": "1. Take a cardboard of convenient size and paste a chart paper on it [see Fig. 1].\n2. Paste a graph paper on the chart paper.\n3. Draw the axes X ′ OX and Y ′ OY on the graph paper [see Fig. 1].",
+  "observation": "1. Coordinates of A are __________.\n2. Coordinates of B are   __________.\n3. Point C divides AB in the ratio __________.\n4. Coordinates of C from the graph paper are __________.\n5. Coordinates of C by using section formula are __________.\n6. Coordinates of C from the graph paper and from section formula are ______.",
+  "discussion": "This formula is used to find the centroid of a triangle in geometry, vector algebra\nand 3–dimensional geometry.\nFig. 2\nMathematics   121",
+  "keywords": [
+    "triangle",
+    "graph",
+    "coordinate"
+  ],
+  "interactiveEngine": "Triangle Engine"
+}

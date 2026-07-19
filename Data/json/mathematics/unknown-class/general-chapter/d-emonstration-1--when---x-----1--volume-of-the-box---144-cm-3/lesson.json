@@ -1,0 +1,17 @@
+{
+  "id": "hc7fem",
+  "title": "D EMONSTRATION 1. When   x   = 1, Volume of the box = 144 cm 3",
+  "subject": "Mathematics",
+  "classLevel": "Unknown Class",
+  "chapter": "General Chapter",
+  "unit": "General Unit",
+  "activityTitle": "D EMONSTRATION 1. When   x   = 1, Volume of the box = 144 cm 3",
+  "activityType": "Activity 16",
+  "objective": "To find the time when the area of a\nrectangle of given dimensions become\nmaximum, if the length is decreasing\nand the breadth is increasing at given\nrates.\nChart paper, paper cutter, scale,\npencil, eraser, cardboard.",
+  "materials": "",
+  "procedure": "",
+  "observation": "1. V 1   = Volume of the open box ( when   x   = 1.6) = .................\n2. V 2   = Volume of the open box ( when   x   = 1.9) = .................\n3. V = Volume of the open box ( when   x   = 2.1) = .................\n4. V 3   = Volume of the open box ( when   x   = 2.2) = .................\n5. V 4   = Volume of the open box ( when   x   = 2.4) = .................\n6. V 5   = Volume of the open box ( when   x   = 3.2) = .................\n7. Volume V 1   is ____________ than volume V.\n8. Volume V 2   is ____________ than volume V.\n9. Volume V 3   is ____________ than volume V.\n10. Volume V 4   is ____________ than volume V.\n11. Volume V 5   is ____________ than volume V.\nSo, Volume of the open box is maximum when   x   = ________.",
+  "discussion": "This activity is useful in explaining the concepts of maxima/minima of functions.\nIt is also useful in making packages of maximum volume with minimum cost.\n142   Laboratory Manual\nN OTE\nLet V denote the volume of the box.\nNow V = (20 – 2 x ) (10 – 2 x )   x\nor V = 200 x   – 60 x 2   + 4 x 3\n2 V   200 –120   12\nd   x   x\ndx   =   +   . For maxima or minima, we have,\nV   0\nd\ndx   =   , i.e., 3 x 2   – 30 x   + 50 = 0\ni.e.,   30   900 – 600   7.9 or 2.1\n6\nx   ±\n=   =\nReject   x   = 7.9.\n2\n2\nV   –120   24\nd   x\ndx   =   +\nWhen   x   = 2.1,\n2\n2\nV d\ndx   is negative.\nHence, V should be maximum at   x   = 2.1.",
+  "keywords": [],
+  "interactiveEngine": "Mensuration Engine"
+}

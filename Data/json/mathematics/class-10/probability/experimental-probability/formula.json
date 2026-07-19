@@ -1,0 +1,6 @@
+{
+  "formulae": [
+    "P(E) = \\frac{m}{n}",
+    "P_{exp}(E) = \\frac{\\text{Observed Favorable Trials}}{\\text{Total Experiments}}"
+  ]
+}
