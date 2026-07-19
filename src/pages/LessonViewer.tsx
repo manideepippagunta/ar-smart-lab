@@ -6,6 +6,7 @@ import { STEP_TITLES } from '../components/lesson-steps/StepRegistry';
 import { CheckCircle2, Menu, X, ArrowLeft, Volume2, BookOpen } from 'lucide-react';
 import { TeacherToolbar } from '../components/shared/TeacherToolbar';
 import { useVoiceAdapter } from '../engines/hooks/adapters';
+import { hasARSupport } from '@/ar';
 
 export default function LessonViewer() {
   const { id } = useParams();
@@ -105,6 +106,18 @@ export default function LessonViewer() {
             >
               <Volume2 size={16} />
             </button>
+
+            {/* Open in AR button — shown only for AR-supported lessons */}
+            {currentLesson && hasARSupport(currentLesson.id) && (
+              <button
+                onClick={() => navigate(`/ar/lesson/${currentLesson.id}`)}
+                className="hidden sm:flex items-center gap-1.5 px-3 py-1.5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-[11px] font-bold transition-colors"
+                title="Open in AR"
+              >
+                <span>⬡</span> Open in AR
+              </button>
+            )}
+
             <button
               className="md:hidden p-2 hover:bg-slate-100 text-slate-700 hover:text-slate-900 rounded-lg transition-colors"
               onClick={() => setLeftSidebarOpen(!leftSidebarOpen)}

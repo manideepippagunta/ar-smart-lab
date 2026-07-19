@@ -21,6 +21,7 @@
     "katex": "^0.17.0",
     "lucide-react": "^1.24.0",
     "mathjs": "^15.2.0",
+    "mind-ar": "^1.2.5",
     "prop-types": "^15.8.1",
     "react": "^19.2.7",
     "react-chartjs-2": "^5.3.1",

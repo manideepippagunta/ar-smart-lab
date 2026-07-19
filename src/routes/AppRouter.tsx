@@ -14,6 +14,7 @@ const ScienceDashboard = lazy(() => import('@/pages/ScienceDashboard'));
 const LessonLibrary = lazy(() => import('@/pages/LessonLibrary'));
 const LessonViewer = lazy(() => import('@/pages/LessonViewer'));
 const ArExperience = lazy(() => import('@/pages/ArExperience'));
+const ARLessonPage = lazy(() => import('@/pages/ARLessonPage'));
 const Progress = lazy(() => import('@/pages/Progress'));
 const Achievements = lazy(() => import('@/pages/Achievements'));
 const Settings = lazy(() => import('@/pages/Settings'));
@@ -30,8 +31,9 @@ export const AppRouter = () => {
             </div>
           }>
             <Routes>
-              {/* Standalone Lesson Viewer */}
+              {/* Standalone pages — no AppLayout */}
               <Route path="/lesson/:id" element={<LessonViewer />} />
+              <Route path="/ar/lesson/:id" element={<ARLessonPage />} />
 
               {/* Main Application Pages with Layout Sidebar */}
               <Route element={<AppLayout />}>

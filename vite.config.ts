@@ -95,8 +95,9 @@ export default defineConfig({
     })
   ],
   resolve: {
-    alias: {
-      '@': path.resolve(__dirname, './src'),
-    },
+    alias: [
+      { find: /^three$/, replacement: path.resolve(__dirname, './src/three-wrapper.ts') },
+      { find: '@', replacement: path.resolve(__dirname, './src') },
+    ],
   },
 });

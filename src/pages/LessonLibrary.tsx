@@ -6,6 +6,7 @@ import { Search, Clock, ArrowRight, BookOpen } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { EmptyState } from '../components/shared/EmptyState';
 import { SkeletonCard } from '../components/shared/SkeletonCard';
+import { hasARSupport } from '@/ar';
 
 const fadeUp = {
   initial: { opacity: 0, y: 15 },
@@ -129,9 +130,16 @@ export default function LessonLibrary() {
                     {/* Top Thumbnail Section */}
                     <div className="h-32 bg-slate-50 p-6 flex flex-col justify-between border-b border-slate-100 relative overflow-hidden">
                       <div className="flex justify-between items-start relative z-10">
-                        <span className="text-[9px] font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2.5 py-1 rounded-lg border border-blue-500/10">
-                          {lesson.classId.replace('-', ' ')}
-                        </span>
+                        <div className="flex items-center gap-1.5">
+                          <span className="text-[9px] font-bold uppercase tracking-wider text-blue-600 bg-blue-50 px-2.5 py-1 rounded-lg border border-blue-500/10">
+                            {lesson.classId.replace('-', ' ')}
+                          </span>
+                          {hasARSupport(lesson.id) && (
+                            <span className="text-[9px] font-bold uppercase tracking-wider text-indigo-600 bg-indigo-50 px-2 py-0.5 rounded border border-indigo-500/10 flex items-center gap-0.5">
+                              ⬡ AR
+                            </span>
+                          )}
+                        </div>
                         <div className="w-8 h-8 rounded-full bg-white border border-slate-100 shadow-sm flex items-center justify-center text-slate-400 group-hover:scale-110 group-hover:text-blue-500 transition-transform">
                           <BookOpen size={14} />
                         </div>
